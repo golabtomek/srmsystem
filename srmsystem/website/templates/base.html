@@ -1,0 +1,164 @@
+{% load static %}
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>{% block title %}{% endblock %} - SimRacingMania</title>
+    <meta name="author" content="Tomasz Golab">
+
+    <link rel="stylesheet" href="{% static 'css/base_style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{% static 'js/scripts.js' %}"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="user-menu" class="user-menu">
+        <div class="user-header">
+            <div class="avatar">
+                <img src="{{ MEDIA_URL }}{{ request.user.profile.photo }}" />
+            </div>
+            <div class="user-header-details">
+                <h1>{{ request.user.first_name }} {{ request.user.last_name }}</h1>
+                <h2>{{ request.user.email }}</h2>
+            </div>
+        </div>
+        <div class="user-info-menu">
+            <ul>
+                <a href="#">
+                    <li>
+                        <i class="material-icons">
+                        person
+                        </i> Manage account
+                    </li>
+                </a>
+                <a href="#">
+                    <li>
+                        <i class="material-icons">
+                        info
+                        </i> My info
+                    </li>
+                </a>
+                <a href="#">
+                    <li>
+                        <i class="material-icons">
+                        calendar_today
+                        </i> Schedule
+                    </li>
+                </a>
+            </ul>
+
+            <ul>
+                <a href="{% url "logout" %}">
+                    <li>
+                        <i class="material-icons">
+                        exit_to_app
+                        </i>Log out
+                    </li>
+                </a>
+            </ul>
+        </div>
+    </div>
+    <div class="header">
+        <div id="menu-button">
+            <i class="material-icons">
+                menu
+            </i>
+        </div>
+        <a href="{% url "homepage" %}">
+            <img id="logo" src="{% static 'img/logo.png' %}" />
+        </a>
+        <img id="rf2-logo" src="{% static 'img/rf2_logo.png' %}"/>
+
+        
+        <div class="header-user-area">
+            {% if request.user.is_authenticated %}
+            <i id="notifications-icon" class="material-icons">
+                notifications
+            </i>
+            <img id="profile-avatar" src="{{ MEDIA_URL }}{{ request.user.profile.photo }}" />
+            {% else %}
+            <a href="{% url "register" %}">
+                <div class="button button-login">
+                    Sign up
+                </div>
+            </a>
+            <a href="{% url "login" %}">
+                <div class="button button-login">
+                    Sign in
+                </div>
+            </a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="sidebar">
+        <ul>
+            <a href="{% url "homepage" %}">
+                <li>
+                    <i class="material-icons active">
+                    home
+                </i><br/>
+                    <span class="active">Home</span>
+                </li>
+            </a>
+            <a href="https://simracingmaniasrm.liveracers.com/Live/">
+                <li>
+                    <i class="material-icons">
+                    watch_later
+                </i><br/>
+                    <span>Live Timing</span>
+                </li>
+            </a>
+            <a href="{% url "series" %}">
+                <li>
+                    <i class="material-icons">
+                    view_list
+                </i><br/>
+                    <span>Series</span>
+                </li>
+            </a>
+            <a href="{% url "races" %}">
+                <li>
+                    <i class="material-icons">
+                    list
+                </i><br/>
+                    <span>Races</span>
+                </li>
+            </a>
+            <a href="{% url "rules" %}">
+                <li>
+                    <i class="material-icons">
+                        format_quote
+                        </i><br/>
+                    <span>Rules</span>
+                </li>
+            </a>
+            <a href="{% url "cars" %}">
+                <li>
+                    <i class="material-icons">
+                    directions_car
+                </i><br/>
+                    <span>Cars</span>
+                </li>
+            </a>
+            <a href="{% url "tracks" %}">
+                <li>
+                    <i class="material-icons">
+                    show_chart
+                </i><br/>
+                    <span>Tracks</span>
+                </li>
+            </a>
+        </ul>
+    </div>
+    <div class="content">
+        {% block content %} {% endblock %}
+    </div>
+</body>
+
+</html>

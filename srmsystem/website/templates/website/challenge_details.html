@@ -1,0 +1,376 @@
+{% extends "base.html" %} {% load website_tags %}  {% load mathfilters %} {% load static %} {% block title %} {{ race.track.name }} - {{ race.series.name }} {% endblock %} {% block content %}
+
+<div class="flex-container flex-center overview-background">
+    <div class="hero" style="background-image: url({{ MEDIA_URL }}{{ challenge.picture }});">
+        <div class="race-title">{{ challenge.track.name }}</div></div>
+    <div class="overview-header">
+        <div class="overview-header-container">
+            <h1>{{ challenge.name }}</h1>
+                <a href="{{ challenge.server.get_url }}"><div type='submit' onclick="submitOnClick('join-form')" class="button button-join-series">
+                    Join Server
+                </div></a>
+            </form>
+        </div>
+    </div>
+    
+    <div class="overview-menu">
+        <ul>
+            <li id="overview-menu" class="active">Race Overview</li>
+            <li id="standings-menu">Results</li>
+            <li id="entries-menu">Entries</li>
+        </ul>
+    </div>
+    <div id="overview" class="overview-container padding-30">
+        <div class="section-title race_date">
+            {{ race.race_date|date:'d F Y' }}, {{ race.race_date|date:'H:i' }} (UK Time)
+        </div>
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    list
+                </i> Track
+            </div>
+            
+            <div class="grid-container races-homepage">
+                
+                <a href="#"><div class="item-normal">
+                    <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ race.track.track_picture }});"></div>
+                    <div class="item-title">{{ race.track.name }}</div>
+                    <div class="item-data">{{ race.track.length }} km</div>
+                </div></a>
+                
+            </div>
+        </div>
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    directions_car
+                </i> Cars
+            </div>
+    
+            <div class="grid-container races-homepage">
+            {% for car in race.series.cars.all %}
+                <a href="#"><div class="item-normal">
+                    <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ car.mod.picture }});"></div>
+                    <div class="item-title">{{ car.manufacturer }} {{ car.model_name }}</div>
+                    <div class="item-data">{{ car.carclass }}</div>
+                </div></a>
+            {% endfor %}
+            </div>
+        </div>
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    settings_applications
+                    </i> Server settings
+            </div>
+            
+            <div class="grid-container server-settings">
+                <div class="server-setting">
+                    <div class="label">ABS</div>
+                    <div class="value">{{ race.series.abs_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">TC</div>
+                    <div class="value">{{ race.series.tc_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Shift</div>
+                    <div class="value">{{ race.series.shift_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Clutch</div>
+                    <div class="value">{{ race.series.clutch_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Tyre Acc.</div>
+                    <div class="value">{{ race.series.tire_acceleration }}x</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Fuel Acc.</div>
+                    <div class="value">{{ race.series.fuel_acceleration }}x</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Time Acc.</div>
+                    <div class="value">{{ race.time_acceleration }}x</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">In-Sim Time</div>
+                    <div class="value">{{ race.in_sim_time }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Race Length</div>
+                    <div class="value">{{ race.length }} 
+                        {% if race.length_type == "Time" %}
+                            min.
+                        {% else %}
+                            laps
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Weather</div>
+                    <div class="value">{{ race.weather }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Start Type</div>
+                    <div class="value">{{ race.start_type }}</div>
+                </div>
+            </div>
+        </div>
+        {% if rules %}
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    format_quote
+                </i> Series Rules
+            </div>
+            
+            <div class="overview-text-container">
+                <div class="markdown">
+                    {{ rules.0.body|markdown }}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    
+    <div id="entries" style="display:none" class="overview-container padding-30 flex-center">
+        <div class="flex-container flex-center">
+            <div class="entries-container">
+                <div class="section-title border-bottom">
+                    <i class="material-icons">
+                        format_list_bulleted
+                        </i> Entries List
+                </div>
+                <div class="entries-table">
+                    {% for entry in entries %}
+                    <div class="entry-item">
+                            <div class="label">{{ forloop.counter }}</div>
+                            <div class="value">{{ entry }}</div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {% if race_results %}
+    <div id="standings" style="display:none" class="overview-container padding-30 flex-center margin-right-30">
+        <div class="section-title border-bottom no-margin-bottom">
+            <i class="material-icons">
+                format_list_numbered
+                </i> Results
+        </div>
+        <div class="overview-menu">
+            <ul>
+                <li id="race-results-menu" class="active">Race</li>
+                <li id="qual-results-menu">Qualifications</li>
+                <li id="fastest-laps-menu">Fastest Laps</li>
+            </ul>
+        </div>
+        <div id="race-results" class="results-section">
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>
+                            Pos.
+                        </th>
+                        <th>
+                            Up
+                        </th>
+                        <th>
+                            Driver
+                        </th>
+                        <th>
+                            Car
+                        </th>
+                        <th>
+                            Laps
+                        </th>
+                        <th>
+                            Time/Retired
+                        </th>
+                        <th>
+                            Pits
+                        </th>
+                        <th>
+                            Tires
+                        </th>
+                        <th>
+                            Pts.
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for driver in race_results.driversRaceResults|dictsort:"position" %}
+                    <tr>
+                        <td class="bolded">{{ driver.position }}</td>
+                        <td>
+                            {{ driver.gridPos|sub:driver.position }}
+                        </td>
+                        <td class="bolded"> {{ driver.name }} </td>
+                        <td> {{ driver.carType }}</td>
+                        <td> {{ driver.lapsNr }}</td>
+                        <td> 
+                            {% if forloop.counter == 1 %}
+                            {{ driver.finishTime|timedelta }}
+
+                            {% elif driver.finishTime > 0 %}
+                                {% with winner=race_results.driversRaceResults|dictsort:"position"|first %}
+                                    {% with finishDelta=driver.finishTime|sub:winner.finishTime %}
+                                        + {{ finishDelta|timedelta }}
+                                    {% endwith %}
+                                {% endwith %}
+                            {% else %}
+                            {{ driver.finishStatus }}
+
+                            {% endif %}
+                        </td>
+                        <td> {{ driver.pitStops }}</td>
+                        <td>                            
+                            {% for tires in driver.tires %}
+                                <div class="tire-set">
+                                    {% if "Soft" in tires.fcompound %}
+                                    <div class="tires soft-tires">S</div>
+                                    {% elif "Medium" in tires.fcompound %}
+                                    <div class="tires medium-tires">M</div>
+                                    {% elif "Hard" in tires.fcompound %}
+                                    <div class="tires hard-tires">H</div>
+                                    {% elif "Rain" in tires.fcompound %}
+                                    <div class="tires rain-tires">R</div>
+                                    {% endif %}
+                                    {% if "Soft" in tires.rcompound %}
+                                    <div class="tires soft-tires">S</div>
+                                    {% elif "Medium" in tires.rcompound %}
+                                    <div class="tires medium-tires">M</div>
+                                    {% elif "Hard" in tires.rcompound %}
+                                    <div class="tires hard-tires">H</div>
+                                    {% elif "Rain" in tires.rcompound %}
+                                    <div class="tires rain-tires">R</div>
+                                    {% endif %}
+                                </div>
+                            {% endfor %}
+                            
+                        </td>
+                        <td> 
+                            {% get_race_points driver race race_results %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div id="qual-results" class="results-section">
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>
+                            Pos.
+                        </th>
+                        <th>
+                            Driver
+                        </th>
+                        <th>
+                            Car
+                        </th>
+                        <th>
+                            Time
+                        </th>
+                        <th>
+                            Tires
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for driver in qual_results.driversQualResults %}
+                    <tr>
+                        <td class="bolded"> 
+                            {% if driver.position == -1 %}
+                                DSQ
+                            {% else %} 
+                            {{ driver.position }}
+                            {% endif %}
+                        </td>
+                        <td class="bolded"> {{ driver.name }} </td>
+                        <td> {{ driver.carType }}</td>
+                        <td> {{ driver.bestLapTime|timedelta_without_h }} </td>
+                        <td>                            
+                                <div class="tire-set">
+                                    {% if "Soft" in driver.fcompound %}
+                                    <div class="tires soft-tires">S</div>
+                                    {% elif "Medium" in driver.fcompound %}
+                                    <div class="tires medium-tires">M</div>
+                                    {% elif "Hard" in driver.fcompound %}
+                                    <div class="tires hard-tires">H</div>
+                                    {% elif "Rain" in driver.fcompound %}
+                                    <div class="tires rain-tires">R</div>
+                                    {% endif %}
+                                    {% if "Soft" in driver.rcompound %}
+                                    <div class="tires soft-tires">S</div>
+                                    {% elif "Medium" in driver.rcompound %}
+                                    <div class="tires medium-tires">M</div>
+                                    {% elif "Hard" in driver.rcompound %}
+                                    <div class="tires hard-tires">H</div>
+                                    {% elif "Rain" in driver.rcompound %}
+                                    <div class="tires rain-tires">R</div>
+                                    {% endif %}
+                                </div>
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div id="fastest-laps-results" class="results-section">
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>
+                            Pos.
+                        </th>
+                        <th>
+                            Driver
+                        </th>
+                        <th>
+                            Car
+                        </th>
+                        <th>
+                            Time
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for driver in race_results.driversRaceResults|dictsort:"bestLapTime" %}
+                    {% if driver.bestLapTime != 00 and driver.bestLapTime != 0 %}
+                    <tr>
+                        <td class="bolded"> 
+                            {{ driver.lapRank }}
+                        </td>
+                        <td class="bolded"> {{ driver.name }} </td>
+                        <td> {{ driver.carType }}</td>
+                        <td> {{ driver.bestLapTime|timedelta_without_h }} </td>
+                    </tr>
+                    {% endif %}
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    {% else %}
+    
+    <div id="standings" style="display:none" class="overview-container padding-30 flex-center margin-right-30">
+        <div class="no-results">
+            No results yet
+        </div>
+    </div>
+
+    {% endif %}
+</div>
+
+<script>
+</script>
+{% endblock %}

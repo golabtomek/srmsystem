@@ -1,0 +1,15 @@
+{% extends "base.html" %} {% load website_tags %} {% load static %} {% block title %}Rules{% endblock %} {% block content %}
+
+<div class="flex-container flex-center padding-30">
+    <div class="rules-container">
+        <div class="section-title border-bottom">
+            <i class="material-icons">
+                format_quote
+                </i> {{ rules.title }}
+        </div>
+        <img src="{% static 'img/logo.png' %}"/>
+        {{ rules.body|markdown }}
+    </div>
+</div>
+
+{% endblock %}

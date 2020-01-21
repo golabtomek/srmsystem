@@ -1,0 +1,54 @@
+{% extends "base.html" %} {% load static %} {% block title %}Tracks{% endblock %} {% block content %}
+
+<div class="flex-container padding-30">
+    
+    <div class="section time-trials">
+        <div class="section-title">
+            <i class="material-icons">
+                show_chart
+                </i>Tracks
+        </div>
+    
+        <div class="grid-container races-homepage">
+            {% for track in tracks %}
+            <a href="{{ track.get_absolute_url }}"><div class="item-normal">
+                <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ track.track_picture }});"></div>
+                <div class="item-title">{{ track.name }}</div>
+                <div class="item-data">Length: {{ track.length }}</div>
+                <div class="item-data">{{ track.type }} track</div>
+            </div></a>
+            {% endfor %}
+        </div>
+        
+        {% if tracks.has_other_pages %}
+        <div class="pagination-container">
+            <ul class="pagination">
+                {% if tracks.has_previous %}
+                <li><a href="?page={{ tracks.previous_page_number }}"><i class="material-icons">
+                    chevron_left
+                    </i></a></li>
+                {% else %}
+                <li class="disabled"><span><i class="material-icons">
+                    chevron_left
+                    </i></span></li>
+                {% endif %} {% for i in tracks.paginator.page_range %} {% if tracks.number == i %}
+                <li class="active"><span>{{ i }}</span>
+                </li>
+                {% else %}
+                <li><a href="?page={{ i }}">{{ i }}</a></li>
+                {% endif %} {% endfor %} {% if tracks.has_next %}
+                <li><a href="?page={{ tracks.next_page_number }}"><i class="material-icons">
+                    chevron_right
+                    </i></a></li>
+                {% else %}
+                <li class="disabled"><span><i class="material-icons">
+                    chevron_right
+                    </i></span></li>
+                {% endif %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+{% endblock %}

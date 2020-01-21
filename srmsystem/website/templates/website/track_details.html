@@ -1,0 +1,40 @@
+{% extends "base.html" %} {% load static %} {% block title %}{{ track }}{% endblock %} {% block content %}
+<div class="flex-container padding-30 flex-center">
+    <div class="mod-container">
+        <div class="section-title border-bottom">
+            <i class="material-icons">
+                directions_car
+                </i> Track Details
+        </div>
+        <div class="section mod-section">
+            <div class="item-normal mod-item">
+                <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ track.track_picture }});"></div>
+            </div>
+        </div>
+        <div class="section mod-section mod-info-section">
+            <div class="mod-table">
+                <div class="entry-item">
+                    <div class="label">Track</div>
+                    <div class="value">{{ track }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label">Track Type</div>
+                    <div class="value">{{ track.type }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label">Length (km)</div>
+                    <div class="value">{{ track.length }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label"> &nbsp; </div>
+                    <div class="value"><a class="text-link" href="{{ MEDIA_URL }}{{ track.track_map }}">Track Map</a></div>
+                </div>
+                <div class="entry-item">
+                    <div class="label"> &nbsp; </div>
+                    <div class="value"><a class="text-link" href="{{ track.mod.mod_url }}"><b>Download</b></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>SimRacingMania#3-HWS-TestR</ServerName>
+<ClientFuelVisible>2</ClientFuelVisible>
+<PlayerFile>server3</PlayerFile>
+<DateTime>1578419737</DateTime>
+<TimeString>2020/01/07 18:55:37</TimeString>
+<Mod>HWS_SRM_TestRace</Mod>
+<Season></Season>
+<TrackVenue>Spa Francorchamps</TrackVenue>
+<TrackCourse>Spa Francorchamps</TrackCourse>
+<TrackEvent>Spa Francorchamps GP</TrackEvent>
+<TrackData>C:\rfactor2-dedicated\Installed\Locations\exm_spa\1.1\ACSpa_MAIN.mas</TrackData>
+<TrackLength>6980.2</TrackLength>
+<GameVersion>1.1117</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="31000" download="31000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>60</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>2</TireMult>
+<VehiclesAllowed>|GTR|Hypercar|Senna|Senna GTR</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>47</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1578431735</DateTime>
+<TimeString>2020/01/07 22:15:35</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>60</Minutes>
+<FormationAndStart>0</FormationAndStart>
+<MostLapsCompleted>28</MostLapsCompleted>
+<Driver>
+<Name>Jurica Slovinac</Name>
+<Connected>1</Connected>
+<VehFile>02_SENNA_GD331CCB5.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #02</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>02</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>32</GridPos>
+<Position>4</Position>
+<ClassGridPos>30</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>2</Points>
+<ClassPoints>2</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="28" et="69.2347" s1="117.7266" s2="45.7175" s3="32.7410" fuel="0.439" twfl="0.988" twfr="0.984" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">196.1851</Lap>
+<Lap num="2" p="24" et="265.4198" s1="45.2667" s2="42.8036" s3="31.7304" fuel="0.412" twfl="0.969" twfr="0.965" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">119.8007</Lap>
+<Lap num="3" p="25" et="385.2205" s1="62.4611" s2="43.2861" fuel="0.380" twfl="0.937" twfr="0.898" twrl="0.933" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="24" et="522.7798" s1="46.2838" s2="44.0073" s3="32.0392" fuel="0.349" twfl="0.918" twfr="0.878" twrl="0.918" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.3304</Lap>
+<Lap num="5" p="24" et="645.1102" s1="46.4742" s2="45.7431" s3="33.6711" fuel="0.322" twfl="0.886" twfr="0.847" twrl="0.894" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.8884</Lap>
+<Lap num="6" p="15" et="770.9985" s1="48.1323" s2="47.5217" fuel="0.294" twfl="0.863" twfr="0.800" twrl="0.875" twrr="0.890" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="7" p="14" et="902.6448" s1="50.5983" s2="49.2399" s3="40.0654" fuel="0.267" twfl="0.843" twfr="0.784" twrl="0.859" twrr="0.871" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">139.9036</Lap>
+<Lap num="8" p="14" et="1042.5485" s1="56.9889" s2="48.8834" fuel="0.239" twfl="0.827" twfr="0.765" twrl="0.843" twrr="0.855" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="9" p="11" et="1183.2771" s1="49.9385" s2="48.6688" s3="34.5116" fuel="0.212" twfl="0.804" twfr="0.745" twrl="0.820" twrr="0.835" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">133.1189</Lap>
+<Lap num="10" p="11" et="1316.3960" s1="49.1182" s2="48.4143" s3="34.3695" fuel="0.184" twfl="0.788" twfr="0.729" twrl="0.804" twrr="0.820" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.9020</Lap>
+<Lap num="11" p="9" et="1448.2980" s1="48.6318" s2="47.7300" s3="34.4421" fuel="0.157" twfl="0.773" twfr="0.710" twrl="0.788" twrr="0.804" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.8040</Lap>
+<Lap num="12" p="8" et="1579.1019" s1="48.1110" s2="48.3016" s3="34.2427" fuel="0.125" twfl="0.753" twfr="0.694" twrl="0.773" twrr="0.788" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.6553</Lap>
+<Lap num="13" p="7" et="1709.7572" s1="47.8292" s2="48.0315" s3="34.2397" fuel="0.098" twfl="0.733" twfr="0.678" twrl="0.757" twrr="0.773" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.1005</Lap>
+<Lap num="14" p="7" et="1839.8577" s1="48.6469" s2="47.4911" s3="39.2759" fuel="0.071" twfl="0.718" twfr="0.655" twrl="0.741" twrr="0.757" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">135.4138</Lap>
+<Lap num="15" p="7" et="1975.2715" s1="100.8938" s2="46.4077" s3="33.9954" fuel="0.467" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.988" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">181.2969</Lap>
+<Lap num="16" p="6" et="2156.5684" s1="47.5547" s2="45.9988" s3="33.4304" fuel="0.435" twfl="0.973" twfr="0.973" twrl="0.973" twrr="0.973" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.9839</Lap>
+<Lap num="17" p="6" et="2283.5522" s1="47.4609" s2="45.7195" s3="33.1113" fuel="0.408" twfl="0.957" twfr="0.961" twrl="0.961" twrr="0.961" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.2917</Lap>
+<Lap num="18" p="6" et="2409.8440" s1="47.1816" s2="46.2510" s3="33.0925" fuel="0.376" twfl="0.941" twfr="0.941" twrl="0.945" twrr="0.949" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.5251</Lap>
+<Lap num="19" p="6" et="2536.3691" s1="46.9934" s2="44.8171" s3="34.3169" fuel="0.349" twfl="0.929" twfr="0.925" twrl="0.933" twrr="0.933" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.1274</Lap>
+<Lap num="20" p="4" et="2662.4966" s1="47.0979" s2="45.4385" s3="32.8313" fuel="0.318" twfl="0.918" twfr="0.914" twrl="0.922" twrr="0.922" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">125.3677</Lap>
+<Lap num="21" p="4" et="2787.8643" s1="46.6531" s2="44.9648" s3="32.4238" fuel="0.290" twfl="0.902" twfr="0.898" twrl="0.906" twrr="0.910" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.0417</Lap>
+<Lap num="22" p="4" et="2911.9060" s1="46.4634" s2="44.6743" s3="32.4878" fuel="0.259" twfl="0.886" twfr="0.886" twrl="0.894" twrr="0.898" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.6255</Lap>
+<Lap num="23" p="4" et="3035.5315" s1="46.9512" s2="44.8418" s3="32.4099" fuel="0.227" twfl="0.867" twfr="0.871" twrl="0.878" twrr="0.882" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.2029</Lap>
+<Lap num="24" p="4" et="3159.7344" s1="46.4631" s2="46.0981" s3="32.3774" fuel="0.200" twfl="0.851" twfr="0.859" twrl="0.863" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.9387</Lap>
+<Lap num="25" p="4" et="3284.6731" s1="46.2415" s2="44.7808" s3="32.2703" fuel="0.169" twfl="0.835" twfr="0.847" twrl="0.851" twrr="0.859" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.2925</Lap>
+<Lap num="26" p="4" et="3407.9656" s1="46.7407" s2="44.8994" s3="32.4961" fuel="0.137" twfl="0.820" twfr="0.835" twrl="0.839" twrr="0.847" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.1362</Lap>
+<Lap num="27" p="4" et="3532.1018" fuel="0.110" twfl="0.804" twfr="0.824" twrl="0.827" twrr="0.835" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="28" p="4" et="3655.9497" s1="46.9539" s2="44.1555" s3="33.4065" fuel="0.078" twfl="0.788" twfr="0.812" twrl="0.812" twrr="0.824" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.5159</Lap>
+<BestLapTime>119.8007</BestLapTime>
+<FinishTime>3711.2310</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Javier Conti</Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>5</GridPos>
+<Position>16</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="69.2347" s1="93.7822" s2="42.9162" s3="31.8294" fuel="0.557" twfl="0.980" twfr="0.973" twrl="0.980" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">168.5279</Lap>
+<Lap num="2" p="4" et="237.7626" s1="45.2852" s2="43.1027" s3="31.5399" fuel="0.525" twfl="0.953" twfr="0.945" twrl="0.961" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">119.9279</Lap>
+<Lap num="3" p="4" et="357.6905" s1="45.7039" s2="43.7540" s3="31.9694" fuel="0.498" twfl="0.925" twfr="0.922" twrl="0.937" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.4272</Lap>
+<Lap num="4" p="4" et="479.1177" s1="45.5810" s2="43.8456" s3="32.8778" fuel="0.467" twfl="0.902" twfr="0.894" twrl="0.918" twrr="0.914" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.3044</Lap>
+<Lap num="5" p="5" et="601.4221" s1="47.2538" s2="45.7704" s3="38.4855" fuel="0.439" twfl="0.816" twfr="0.871" twrl="0.898" twrr="0.894" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">131.5096</Lap>
+<Lap num="6" p="18" et="732.9317" s1="103.4458" s2="47.5197" s3="34.9432" fuel="0.867" twfl="0.965" twfr="0.961" twrl="0.961" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">185.9086</Lap>
+<Lap num="7" p="22" et="918.8403" s1="72.8120" s2="61.0890" s3="60.2075" fuel="0.847" twfl="0.843" twfr="0.949" twrl="0.835" twrr="0.757" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">194.1085</Lap>
+<Lap num="8" p="24" et="1112.9489" s1="128.9060" s2="49.4337" s3="36.2502" fuel="0.820" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">214.5900</Lap>
+<Lap num="9" p="22" et="1327.5388" s1="50.2130" s2="48.6169" s3="36.1368" fuel="0.792" twfl="0.969" twfr="0.961" twrl="0.969" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.9668</Lap>
+<Lap num="10" p="22" et="1462.5056" s1="61.9211" s2="50.0088" s3="40.1395" fuel="0.765" twfl="0.941" twfr="0.945" twrl="0.945" twrr="0.949" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">152.0695</Lap>
+<Lap num="11" p="22" et="1614.5751" s1="92.9420" s2="47.5319" s3="40.3757" fuel="0.737" twfl="0.984" twfr="0.980" twrl="0.976" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">180.8496</Lap>
+<Lap num="12" p="22" et="1795.4247" s1="70.8918" s2="47.4889" s3="40.9198" fuel="0.710" twfl="0.969" twfr="0.965" twrl="0.953" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">159.3005</Lap>
+<Lap num="13" p="20" et="1954.7252" s1="74.0935" s2="48.3051" s3="35.7080" fuel="0.686" twfl="0.953" twfr="0.945" twrl="0.933" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">158.1066</Lap>
+<Lap num="14" p="19" et="2112.8318" s1="50.3103" s2="48.7051" s3="35.1658" fuel="0.655" twfl="0.941" twfr="0.922" twrl="0.910" twrr="0.906" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">134.1812</Lap>
+<Lap num="15" p="19" et="2247.0129" s1="50.2590" s2="58.5620" s3="41.8472" fuel="0.627" twfl="0.910" twfr="0.886" twrl="0.855" twrr="0.835" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">150.6682</Lap>
+<Lap num="16" p="20" et="2397.6812" s1="51.9163" s2="62.8213" s3="49.0327" fuel="0.600" twfl="0.871" twfr="0.851" twrl="0.773" twrr="0.749" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">163.7703</Lap>
+<Lap num="17" p="19" et="2561.4514" s1="95.3291" s2="45.4126" s3="39.0049" fuel="0.576" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">179.7466</Lap>
+<Lap num="18" p="19" et="2741.1980" s1="71.5850" s2="46.2463" s3="39.2571" fuel="0.549" twfl="0.973" twfr="0.969" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">157.0884</Lap>
+<Lap num="19" p="18" et="2898.2864" s1="73.2534" s2="46.8401" s3="32.9922" fuel="0.522" twfl="0.961" twfr="0.957" twrl="0.957" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">153.0857</Lap>
+<Lap num="20" p="17" et="3051.3721" s1="47.6262" s2="44.4895" s3="33.4561" fuel="0.494" twfl="0.949" twfr="0.945" twrl="0.941" twrr="0.937" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.5718</Lap>
+<Lap num="21" p="16" et="3176.9438" s1="47.8152" s2="45.4902" s3="34.3220" fuel="0.463" twfl="0.933" twfr="0.925" twrl="0.922" twrr="0.922" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">127.6274</Lap>
+<Lap num="22" p="16" et="3304.5713" s1="46.8462" s2="44.4712" s3="33.0176" fuel="0.435" twfl="0.914" twfr="0.906" twrl="0.902" twrr="0.902" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3350</Lap>
+<Lap num="23" p="16" et="3428.9063" s1="46.9407" s2="44.8359" s3="32.5720" fuel="0.404" twfl="0.890" twfr="0.886" twrl="0.886" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3486</Lap>
+<Lap num="24" p="16" et="3553.2549" fuel="0.376" twfl="0.871" twfr="0.867" twrl="0.863" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="25" p="16" et="3677.2856" s1="46.8994" s2="44.7419" s3="32.7563" fuel="0.349" twfl="0.851" twfr="0.847" twrl="0.843" twrr="0.847" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3977</Lap>
+<BestLapTime>119.9279</BestLapTime>
+<FinishTime>3732.4487</FinishTime>
+<Laps>25</Laps>
+<Pitstops>8</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sam Ahmed</Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>1</GridPos>
+<Position>24</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>22</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="69.2347" s1="90.2074" s2="42.5155" s3="31.6325" fuel="0.973" twfl="0.973" twfr="0.965" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">164.3555</Lap>
+<Lap num="2" p="1" et="233.5902" s1="45.4656" s2="42.8690" s3="31.7636" fuel="0.941" twfl="0.945" twfr="0.933" twrl="0.937" twrr="0.937" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">120.0982</Lap>
+<Lap num="3" p="1" et="353.6884" s1="45.3737" s2="43.0202" s3="31.8757" fuel="0.910" twfl="0.918" twfr="0.902" twrl="0.910" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">120.2696</Lap>
+<Lap num="4" p="1" et="473.9580" s1="45.6713" s2="43.5023" s3="32.1134" fuel="0.878" twfl="0.890" twfr="0.867" twrl="0.882" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.2870</Lap>
+<Lap num="5" p="1" et="595.2449" s1="46.8749" s2="45.2900" s3="32.7145" fuel="0.851" twfl="0.851" twfr="0.824" twrl="0.847" twrr="0.851" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.8795</Lap>
+<Lap num="6" p="1" et="720.1244" s1="47.6575" s2="48.9339" s3="34.4487" fuel="0.820" twfl="0.812" twfr="0.776" twrl="0.808" twrr="0.816" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.0401</Lap>
+<Lap num="7" p="3" et="851.1645" s1="50.2352" s2="49.7147" s3="46.3859" fuel="0.792" twfl="0.753" twfr="0.659" twrl="0.686" twrr="0.714" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">146.3358</Lap>
+<Lap num="8" p="4" et="997.5003" fuel="0.765" twfl="0.651" twfr="0.541" twrl="0.651" twrr="0.682" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<BestLapTime>120.0982</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Giacomo Lapadula </Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>4</GridPos>
+<Position>3</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>3</Points>
+<ClassPoints>3</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="69.2347" s1="92.7449" s2="43.1076" s3="31.7338" fuel="0.973" twfl="0.973" twfr="0.965" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">167.5863</Lap>
+<Lap num="2" p="3" et="236.8210" s1="45.7971" s2="42.7643" s3="31.8174" fuel="0.941" twfl="0.941" twfr="0.929" twrl="0.949" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">120.3788</Lap>
+<Lap num="3" p="3" et="357.1999" s1="45.6150" s2="43.5044" s3="31.9331" fuel="0.910" twfl="0.906" twfr="0.898" twrl="0.925" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.0524</Lap>
+<Lap num="4" p="3" et="478.2523" s1="45.7802" s2="43.7944" s3="32.2357" fuel="0.878" twfl="0.875" twfr="0.867" twrl="0.906" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.8103</Lap>
+<Lap num="5" p="3" et="600.0626" s1="46.2534" s2="45.5782" s3="32.7935" fuel="0.847" twfl="0.839" twfr="0.831" twrl="0.878" twrr="0.886" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.6251</Lap>
+<Lap num="6" p="3" et="724.6877" fuel="0.820" twfl="0.796" twfr="0.788" twrl="0.855" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="7" p="11" et="858.8104" s1="83.8648" s2="47.0203" s3="34.1838" fuel="0.788" twfl="0.961" twfr="0.957" twrl="0.961" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">165.0689</Lap>
+<Lap num="8" p="9" et="1023.8793" s1="49.7455" s2="47.6644" s3="34.5516" fuel="0.757" twfl="0.925" twfr="0.910" twrl="0.933" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">131.9615</Lap>
+<Lap num="9" p="6" et="1155.8408" s1="49.2238" s2="47.5891" s3="35.1907" fuel="0.725" twfl="0.882" twfr="0.867" twrl="0.898" twrr="0.906" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">132.0035</Lap>
+<Lap num="10" p="4" et="1287.8444" fuel="0.698" twfl="0.847" twfr="0.769" twrl="0.871" twrr="0.878" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="4" et="1420.6107" s1="48.8751" s2="48.2686" s3="34.8105" fuel="0.667" twfl="0.804" twfr="0.722" twrl="0.843" twrr="0.851" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">131.9542</Lap>
+<Lap num="12" p="4" et="1552.5649" s1="50.0167" s2="48.9833" s3="39.7504" fuel="0.639" twfl="0.765" twfr="0.671" twrl="0.812" twrr="0.827" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">138.7504</Lap>
+<Lap num="13" p="5" et="1691.3153" s1="56.6727" s2="49.1543" s3="35.1747" fuel="0.612" twfl="0.729" twfr="0.631" twrl="0.784" twrr="0.800" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">141.0017</Lap>
+<Lap num="14" p="4" et="1832.3170" s1="49.1592" s2="48.3824" s3="34.6727" fuel="0.580" twfl="0.690" twfr="0.592" twrl="0.753" twrr="0.769" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">132.2144</Lap>
+<Lap num="15" p="5" et="1964.5314" s1="50.0480" s2="48.8713" s3="40.2522" fuel="0.553" twfl="0.635" twfr="0.525" twrl="0.714" twrr="0.733" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">139.1715</Lap>
+<Lap num="16" p="5" et="2103.7029" s1="82.6653" s2="45.3750" s3="34.4155" fuel="0.522" twfl="0.973" twfr="0.973" twrl="0.973" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">162.4558</Lap>
+<Lap num="17" p="5" et="2266.1587" s1="46.7634" s2="44.6760" s3="32.4985" fuel="0.494" twfl="0.945" twfr="0.937" twrl="0.949" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.9380</Lap>
+<Lap num="18" p="5" et="2390.0967" s1="47.1584" s2="44.6184" s3="32.2102" fuel="0.463" twfl="0.914" twfr="0.902" twrl="0.925" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.9871</Lap>
+<Lap num="19" p="5" et="2514.0837" s1="47.0962" s2="44.2195" s3="32.3733" fuel="0.431" twfl="0.886" twfr="0.871" twrl="0.906" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.6890</Lap>
+<Lap num="20" p="3" et="2637.7727" s1="47.1255" s2="45.1406" s3="32.1841" fuel="0.400" twfl="0.855" twfr="0.816" twrl="0.882" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.4502</Lap>
+<Lap num="21" p="3" et="2762.2229" s1="46.6924" s2="44.7231" s3="32.1863" fuel="0.369" twfl="0.820" twfr="0.784" twrl="0.859" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.6018</Lap>
+<Lap num="22" p="3" et="2885.8247" s1="46.6829" s2="44.2581" s3="32.1953" fuel="0.337" twfl="0.792" twfr="0.757" twrl="0.839" twrr="0.839" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.1362</Lap>
+<Lap num="23" p="3" et="3008.9609" s1="46.4675" s2="44.2747" s3="32.7527" fuel="0.306" twfl="0.757" twfr="0.722" twrl="0.816" twrr="0.820" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.4949</Lap>
+<Lap num="24" p="3" et="3132.4558" s1="46.2305" s2="44.1956" s3="32.3428" fuel="0.275" twfl="0.729" twfr="0.694" twrl="0.792" twrr="0.800" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.7688</Lap>
+<Lap num="25" p="3" et="3255.2246" s1="45.9695" s2="43.9255" s3="32.2571" fuel="0.243" twfl="0.698" twfr="0.663" twrl="0.769" twrr="0.776" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.1521</Lap>
+<Lap num="26" p="3" et="3377.3767" s1="46.0122" s2="44.1807" s3="32.0664" fuel="0.212" twfl="0.667" twfr="0.631" twrl="0.749" twrr="0.753" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.2593</Lap>
+<Lap num="27" p="3" et="3499.6360" s1="46.2981" s2="43.7986" s3="32.0557" fuel="0.176" twfl="0.631" twfr="0.600" twrl="0.722" twrr="0.733" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.1523</Lap>
+<Lap num="28" p="3" et="3621.7883" s1="45.9004" s2="43.6638" s3="32.1848" fuel="0.145" twfl="0.600" twfr="0.565" twrl="0.702" twrr="0.710" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.7490</Lap>
+<BestLapTime>120.3788</BestLapTime>
+<FinishTime>3674.3027</FinishTime>
+<Laps>28</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Giacomo Ettorre </Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>8</GridPos>
+<Position>1</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>8</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="69.2347" s1="95.6473" s2="43.7240" s3="31.8680" fuel="0.588" twfl="0.984" twfr="0.973" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">171.2393</Lap>
+<Lap num="2" p="7" et="240.4740" s1="45.8793" s2="43.6703" s3="32.5166" fuel="0.557" twfl="0.965" twfr="0.949" twrl="0.969" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">122.0662</Lap>
+<Lap num="3" p="7" et="362.5402" s1="45.2588" s2="43.2678" s3="32.0472" fuel="0.525" twfl="0.945" twfr="0.875" twrl="0.953" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">120.5738</Lap>
+<Lap num="4" p="6" et="483.1140" s1="46.6412" s2="43.7933" s3="33.2784" fuel="0.498" twfl="0.914" twfr="0.839" twrl="0.933" twrr="0.937" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.7129</Lap>
+<Lap num="5" p="6" et="606.8268" s1="47.1561" s2="45.7627" s3="33.4288" fuel="0.467" twfl="0.878" twfr="0.765" twrl="0.918" twrr="0.922" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.3477</Lap>
+<Lap num="6" p="5" et="733.1745" s1="47.6495" s2="47.4409" s3="34.4212" fuel="0.439" twfl="0.839" twfr="0.714" twrl="0.898" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.5117</Lap>
+<Lap num="7" p="2" et="862.6862" s1="50.3071" s2="48.7733" s3="35.1308" fuel="0.408" twfl="0.800" twfr="0.663" twrl="0.882" twrr="0.890" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.2112</Lap>
+<Lap num="8" p="2" et="996.8974" s1="50.1171" s2="49.2441" s3="35.1863" fuel="0.380" twfl="0.769" twfr="0.627" twrl="0.867" twrr="0.875" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.5475</Lap>
+<Lap num="9" p="1" et="1131.4449" s1="50.0957" s2="49.2732" s3="35.6312" fuel="0.353" twfl="0.722" twfr="0.592" twrl="0.855" twrr="0.859" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.0001</Lap>
+<Lap num="10" p="1" et="1266.4451" s1="50.7034" s2="48.7996" s3="34.7384" fuel="0.322" twfl="0.706" twfr="0.565" twrl="0.839" twrr="0.847" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.2413</Lap>
+<Lap num="11" p="1" et="1400.6864" s1="49.3411" s2="48.6196" s3="34.0928" fuel="0.294" twfl="0.690" twfr="0.533" twrl="0.824" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.0535</Lap>
+<Lap num="12" p="1" et="1532.7399" s1="48.6425" s2="47.7594" s3="34.9297" fuel="0.267" twfl="0.675" twfr="0.490" twrl="0.808" twrr="0.820" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.3315</Lap>
+<Lap num="13" p="1" et="1664.0714" s1="49.6466" s2="47.0880" s3="34.0516" fuel="0.235" twfl="0.659" twfr="0.463" twrl="0.796" twrr="0.804" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.7863</Lap>
+<Lap num="14" p="1" et="1794.8577" s1="48.7133" s2="47.8289" s3="34.2341" fuel="0.208" twfl="0.643" twfr="0.439" twrl="0.780" twrr="0.792" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.7762</Lap>
+<Lap num="15" p="1" et="1925.6339" s1="48.2208" s2="46.9021" s3="33.3599" fuel="0.176" twfl="0.627" twfr="0.404" twrl="0.769" twrr="0.776" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.4828</Lap>
+<Lap num="16" p="1" et="2054.1167" s1="47.7229" s2="47.6284" s3="40.3379" fuel="0.149" twfl="0.600" twfr="0.369" twrl="0.753" twrr="0.765" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">135.6892</Lap>
+<Lap num="17" p="3" et="2189.8059" s1="100.8879" s2="46.0320" s3="33.4138" fuel="0.635" twfl="0.976" twfr="0.976" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">180.3337</Lap>
+<Lap num="18" p="3" et="2370.1396" s1="46.8027" s2="44.6597" s3="33.8025" fuel="0.608" twfl="0.953" twfr="0.941" twrl="0.953" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.2649</Lap>
+<Lap num="19" p="2" et="2495.4045" s1="46.7395" s2="44.5354" s3="32.8164" fuel="0.576" twfl="0.925" twfr="0.894" twrl="0.929" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.0913</Lap>
+<Lap num="20" p="1" et="2619.4958" s1="46.7661" s2="44.5286" s3="32.7593" fuel="0.545" twfl="0.898" twfr="0.843" twrl="0.906" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.0540</Lap>
+<Lap num="21" p="1" et="2743.5498" fuel="0.514" twfl="0.863" twfr="0.804" twrl="0.882" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="22" p="1" et="2868.5559" s1="46.4465" s2="44.4553" s3="32.5989" fuel="0.486" twfl="0.839" twfr="0.757" twrl="0.859" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.5007</Lap>
+<Lap num="23" p="1" et="2992.0566" s1="47.5754" s2="44.5774" s3="33.2788" fuel="0.455" twfl="0.820" twfr="0.702" twrl="0.839" twrr="0.843" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.4316</Lap>
+<Lap num="24" p="1" et="3117.4883" s1="46.6484" s2="44.8689" s3="32.8420" fuel="0.424" twfl="0.796" twfr="0.639" twrl="0.820" twrr="0.824" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3594</Lap>
+<Lap num="25" p="1" et="3241.8477" s1="46.9487" s2="44.5798" s3="33.6143" fuel="0.392" twfl="0.761" twfr="0.569" twrl="0.796" twrr="0.796" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.1428</Lap>
+<Lap num="26" p="1" et="3366.9905" s1="46.5569" s2="44.5034" s3="32.8345" fuel="0.365" twfl="0.737" twfr="0.510" twrl="0.773" twrr="0.776" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.8948</Lap>
+<Lap num="27" p="1" et="3490.8853" s1="46.2649" s2="44.2256" s3="32.2881" fuel="0.333" twfl="0.702" twfr="0.349" twrl="0.753" twrr="0.757" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.7786</Lap>
+<Lap num="28" p="1" et="3613.6638" s1="46.2034" s2="43.9697" s3="32.6467" fuel="0.302" twfl="0.671" twfr="0.310" twrl="0.737" twrr="0.737" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.8198</Lap>
+<BestLapTime>120.5738</BestLapTime>
+<FinishTime>3667.2490</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fabio Zerbetto</Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>6</GridPos>
+<Position>6</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="69.2347" s1="94.8500" s2="43.4889" s3="31.9409" fuel="0.973" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">170.2798</Lap>
+<Lap num="2" p="5" et="239.5145" s1="46.2885" s2="42.8646" s3="31.9955" fuel="0.941" twfl="0.965" twfr="0.957" twrl="0.965" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.1487</Lap>
+<Lap num="3" p="6" et="360.6632" s1="45.5720" s2="43.5420" s3="33.1039" fuel="0.910" twfl="0.941" twfr="0.929" twrl="0.945" twrr="0.945" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">122.2179</Lap>
+<Lap num="4" p="7" et="482.8811" s1="46.6303" s2="43.7962" s3="33.7889" fuel="0.882" twfl="0.918" twfr="0.906" twrl="0.925" twrr="0.925" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.2155</Lap>
+<Lap num="5" p="7" et="607.0966" s1="47.9692" s2="46.9175" s3="34.7410" fuel="0.851" twfl="0.898" twfr="0.886" twrl="0.906" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.6277</Lap>
+<Lap num="6" p="6" et="736.7243" s1="48.3254" s2="48.3736" s3="35.5562" fuel="0.824" twfl="0.878" twfr="0.859" twrl="0.886" twrr="0.890" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.2552</Lap>
+<Lap num="7" p="5" et="868.9796" s1="50.4265" s2="49.1001" s3="38.6016" fuel="0.796" twfl="0.851" twfr="0.820" twrl="0.867" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">138.1282</Lap>
+<Lap num="8" p="7" et="1007.1077" s1="53.0204" s2="50.5199" s3="38.0355" fuel="0.769" twfl="0.831" twfr="0.800" twrl="0.851" twrr="0.851" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">141.5759</Lap>
+<Lap num="9" p="5" et="1148.6836" s1="51.3086" s2="50.2190" s3="35.9592" fuel="0.741" twfl="0.816" twfr="0.780" twrl="0.835" twrr="0.835" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.4868</Lap>
+<Lap num="10" p="5" et="1286.1704" s1="50.1173" s2="49.0524" s3="36.6410" fuel="0.714" twfl="0.796" twfr="0.753" twrl="0.820" twrr="0.820" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.8107</Lap>
+<Lap num="11" p="5" et="1421.9811" s1="50.9736" s2="49.0214" s3="35.5385" fuel="0.686" twfl="0.776" twfr="0.725" twrl="0.800" twrr="0.804" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.5334</Lap>
+<Lap num="12" p="5" et="1557.5145" s1="50.4923" s2="48.6759" s3="35.6298" fuel="0.659" twfl="0.761" twfr="0.706" twrl="0.788" twrr="0.788" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.7980</Lap>
+<Lap num="13" p="4" et="1692.3125" s1="51.4232" s2="49.6677" s3="34.4478" fuel="0.631" twfl="0.749" twfr="0.690" twrl="0.773" twrr="0.776" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.5387</Lap>
+<Lap num="14" p="5" et="1827.8512" s1="50.5710" s2="47.9613" s3="41.0208" fuel="0.604" twfl="0.729" twfr="0.659" twrl="0.753" twrr="0.761" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">139.5531</Lap>
+<Lap num="15" p="4" et="1967.4043" s1="51.1794" s2="47.9253" s3="34.6814" fuel="0.573" twfl="0.718" twfr="0.647" twrl="0.741" twrr="0.749" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.7861</Lap>
+<Lap num="16" p="3" et="2101.1904" s1="49.5701" s2="48.4629" s3="34.4712" fuel="0.545" twfl="0.702" twfr="0.624" twrl="0.729" twrr="0.737" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.5042</Lap>
+<Lap num="17" p="2" et="2233.6946" s1="49.3408" s2="47.0767" s3="34.7195" fuel="0.518" twfl="0.686" twfr="0.612" twrl="0.714" twrr="0.722" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.1370</Lap>
+<Lap num="18" p="2" et="2364.8315" s1="48.4473" s2="46.3965" s3="34.2231" fuel="0.490" twfl="0.671" twfr="0.596" twrl="0.698" twrr="0.710" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.0669</Lap>
+<Lap num="19" p="4" et="2493.8984" s1="49.0093" s2="46.8501" s3="39.0381" fuel="0.463" twfl="0.659" twfr="0.561" twrl="0.686" twrr="0.694" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">134.8975</Lap>
+<Lap num="20" p="6" et="2628.7959" s1="87.4063" s2="46.0129" s3="34.6084" fuel="0.431" twfl="0.980" twfr="0.976" twrl="0.973" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">168.0276</Lap>
+<Lap num="21" p="6" et="2796.8235" s1="55.2234" s2="45.3572" s3="38.9238" fuel="0.404" twfl="0.961" twfr="0.937" twrl="0.945" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">139.5044</Lap>
+<Lap num="22" p="8" et="2936.3279" s1="55.9246" s2="47.3494" s3="34.1672" fuel="0.376" twfl="0.945" twfr="0.882" twrl="0.922" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">137.4412</Lap>
+<Lap num="23" p="7" et="3073.7690" s1="48.6826" s2="44.7319" s3="32.5876" fuel="0.349" twfl="0.925" twfr="0.843" twrl="0.898" twrr="0.890" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">126.0022</Lap>
+<Lap num="24" p="6" et="3199.7712" s1="48.7217" s2="44.8699" fuel="0.318" twfl="0.902" twfr="0.824" twrl="0.871" twrr="0.867" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="25" p="6" et="3325.9365" fuel="0.290" twfl="0.886" twfr="0.800" twrl="0.851" twrr="0.847" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="26" p="6" et="3452.4114" s1="48.4792" s2="45.1257" s3="33.1445" fuel="0.259" twfl="0.871" twfr="0.780" twrl="0.835" twrr="0.831" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">126.7495</Lap>
+<Lap num="27" p="6" et="3579.1609" s1="48.0530" s2="44.9456" s3="33.0144" fuel="0.231" twfl="0.855" twfr="0.769" twrl="0.816" twrr="0.816" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">126.0129</Lap>
+<Lap num="28" p="6" et="3705.1738" s1="47.4546" s2="45.2390" s3="32.8059" fuel="0.204" twfl="0.839" twfr="0.753" twrl="0.800" twrr="0.796" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.4995</Lap>
+<BestLapTime>121.1487</BestLapTime>
+<FinishTime>3761.4387</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Michael Brooks </Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>7</GridPos>
+<Position>2</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>5</Points>
+<ClassPoints>5</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="69.2347" s1="95.3290" s2="43.5085" s3="31.9188" fuel="0.490" twfl="0.988" twfr="0.984" twrl="0.988" twrr="0.988" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">170.7563</Lap>
+<Lap num="2" p="6" et="239.9910" s1="46.0926" s2="43.5630" s3="31.6403" fuel="0.459" twfl="0.976" twfr="0.969" twrl="0.973" twrr="0.973" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.2959</Lap>
+<Lap num="3" p="5" et="361.2869" s1="45.5087" s2="43.4973" s3="32.3597" fuel="0.431" twfl="0.965" twfr="0.953" twrl="0.961" twrr="0.961" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.3657</Lap>
+<Lap num="4" p="5" et="482.6526" s1="45.6144" s2="43.6362" s3="32.6726" fuel="0.400" twfl="0.949" twfr="0.933" twrl="0.945" twrr="0.945" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.9232</Lap>
+<Lap num="5" p="4" et="604.5758" s1="47.7369" s2="45.6708" s3="33.4788" fuel="0.373" twfl="0.933" twfr="0.914" twrl="0.933" twrr="0.933" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.8865</Lap>
+<Lap num="6" p="4" et="731.4623" s1="48.5101" s2="47.5338" s3="34.8516" fuel="0.345" twfl="0.918" twfr="0.898" twrl="0.918" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.8954</Lap>
+<Lap num="7" p="4" et="862.3577" s1="51.3745" s2="49.0118" s3="35.7299" fuel="0.314" twfl="0.902" twfr="0.875" twrl="0.902" twrr="0.902" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">136.1161</Lap>
+<Lap num="8" p="3" et="998.4739" s1="50.8660" s2="49.0614" s3="35.7004" fuel="0.286" twfl="0.890" twfr="0.855" twrl="0.886" twrr="0.886" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.6278</Lap>
+<Lap num="9" p="2" et="1134.1017" s1="50.2054" s2="48.7987" s3="35.4136" fuel="0.259" twfl="0.878" twfr="0.835" twrl="0.871" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.4177</Lap>
+<Lap num="10" p="2" et="1268.5194" fuel="0.227" twfl="0.867" twfr="0.808" twrl="0.855" twrr="0.855" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="11" p="2" et="1403.7056" s1="49.7052" s2="47.1425" s3="34.1860" fuel="0.200" twfl="0.855" twfr="0.792" twrl="0.839" twrr="0.839" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.0337</Lap>
+<Lap num="12" p="2" et="1534.7393" s1="48.8370" s2="46.9819" s3="34.4780" fuel="0.169" twfl="0.843" twfr="0.776" twrl="0.824" twrr="0.824" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.2970</Lap>
+<Lap num="13" p="2" et="1665.0363" s1="50.8037" s2="47.7191" s3="34.1906" fuel="0.141" twfl="0.827" twfr="0.745" twrl="0.808" twrr="0.808" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.7134</Lap>
+<Lap num="14" p="2" et="1797.7496" s1="48.8752" s2="47.6982" s3="34.1992" fuel="0.110" twfl="0.816" twfr="0.725" twrl="0.796" twrr="0.792" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.7727</Lap>
+<Lap num="15" p="2" et="1928.5223" s1="49.9724" s2="46.6237" s3="38.6208" fuel="0.082" twfl="0.804" twfr="0.710" twrl="0.784" twrr="0.780" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">135.2169</Lap>
+<Lap num="16" p="4" et="2063.7393" s1="101.1426" s2="45.4202" s3="32.9749" fuel="0.525" twfl="0.984" twfr="0.984" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">179.5376</Lap>
+<Lap num="17" p="4" et="2243.2769" s1="47.9148" s2="45.8552" s3="35.0986" fuel="0.498" twfl="0.961" twfr="0.949" twrl="0.961" twrr="0.961" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.8687</Lap>
+<Lap num="18" p="4" et="2372.1455" s1="47.4351" s2="45.6260" s3="33.2788" fuel="0.467" twfl="0.949" twfr="0.929" twrl="0.945" twrr="0.941" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">126.3398</Lap>
+<Lap num="19" p="3" et="2498.4854" fuel="0.435" twfl="0.937" twfr="0.910" twrl="0.925" twrr="0.918" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="20" p="2" et="2625.5957" s1="47.1936" s2="44.8135" s3="32.6162" fuel="0.408" twfl="0.922" twfr="0.890" twrl="0.906" twrr="0.902" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.6233</Lap>
+<Lap num="21" p="2" et="2750.2190" s1="46.6030" s2="44.7554" s3="32.6619" fuel="0.376" twfl="0.902" twfr="0.871" twrl="0.890" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.0203</Lap>
+<Lap num="22" p="2" et="2874.2393" s1="46.9282" s2="44.5540" s3="32.8101" fuel="0.345" twfl="0.886" twfr="0.847" twrl="0.871" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.2922</Lap>
+<Lap num="23" p="2" et="2998.5315" s1="46.4778" s2="44.1985" s3="32.2507" fuel="0.314" twfl="0.871" twfr="0.824" twrl="0.851" twrr="0.843" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.9270</Lap>
+<Lap num="24" p="2" et="3121.4585" s1="46.7544" s2="44.1545" s3="32.4531" fuel="0.282" twfl="0.851" twfr="0.796" twrl="0.827" twrr="0.824" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.3621</Lap>
+<Lap num="25" p="2" et="3244.8206" s1="46.3394" s2="44.0769" s3="32.9265" fuel="0.251" twfl="0.827" twfr="0.765" twrl="0.808" twrr="0.800" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.3428</Lap>
+<Lap num="26" p="2" et="3368.1633" s1="46.3591" s2="45.1353" s3="32.4526" fuel="0.224" twfl="0.812" twfr="0.733" twrl="0.788" twrr="0.776" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.9470</Lap>
+<Lap num="27" p="2" et="3492.1104" s1="45.9001" s2="43.9583" s3="34.0420" fuel="0.192" twfl="0.788" twfr="0.702" twrl="0.769" twrr="0.757" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.9004</Lap>
+<Lap num="28" p="2" et="3616.0107" s1="46.2573" s2="44.0767" s3="32.2014" fuel="0.161" twfl="0.769" twfr="0.671" twrl="0.749" twrr="0.737" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.5354</Lap>
+<BestLapTime>121.2959</BestLapTime>
+<FinishTime>3669.3115</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Stefano De Nadal </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>13</GridPos>
+<Position>27</Position>
+<ClassGridPos>13</ClassGridPos>
+<ClassPosition>25</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="69.2347" s1="101.7731" s2="44.3488" s3="31.7752" fuel="0.514" twfl="0.984" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">177.8971</Lap>
+<Lap num="2" p="12" et="247.1318" s1="45.9187" s2="42.7574" s3="32.6637" fuel="0.486" twfl="0.961" twfr="0.945" twrl="0.961" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.3398</Lap>
+<Lap num="3" p="12" et="368.4716" s1="46.8395" s2="44.5125" s3="32.8576" fuel="0.455" twfl="0.945" twfr="0.906" twrl="0.945" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.2096</Lap>
+<Lap num="4" p="12" et="492.6812" fuel="0.427" twfl="0.886" twfr="0.859" twrl="0.925" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="5" p="13" et="617.0327" s1="46.7320" s2="45.4152" fuel="0.400" twfl="0.855" twfr="0.812" twrl="0.906" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<BestLapTime>121.3398</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Liam Rance</Name>
+<Connected>1</Connected>
+<VehFile>14_SENNA_G1F71632B.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #14</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>3</GridPos>
+<Position>21</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>19</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="69.2347" s1="91.6143" s2="42.8240" s3="32.2838" fuel="0.471" twfl="0.965" twfr="0.961" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">166.7221</Lap>
+<Lap num="2" p="2" et="235.9568" fuel="0.443" twfl="0.933" twfr="0.933" twrl="0.953" twrr="0.957" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="2" et="355.1895" fuel="0.412" twfl="0.902" twfr="0.898" twrl="0.933" twrr="0.937" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="2" et="476.2523" s1="46.3877" s2="42.8102" s3="32.1602" fuel="0.384" twfl="0.871" twfr="0.863" twrl="0.910" twrr="0.918" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.3581</Lap>
+<Lap num="5" p="2" et="597.6104" s1="46.6788" s2="44.9412" s3="33.3021" fuel="0.353" twfl="0.839" twfr="0.831" twrl="0.890" twrr="0.898" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.9221</Lap>
+<Lap num="6" p="2" et="722.5325" s1="48.2225" s2="47.3099" s3="34.2684" fuel="0.325" twfl="0.804" twfr="0.792" twrl="0.875" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.8007</Lap>
+<Lap num="7" p="1" et="852.3333" s1="50.0079" s2="49.2676" s3="34.8467" fuel="0.298" twfl="0.769" twfr="0.749" twrl="0.859" twrr="0.867" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.1221</Lap>
+<Lap num="8" p="1" et="986.4554" s1="49.6481" s2="48.5143" s3="44.9377" fuel="0.271" twfl="0.725" twfr="0.698" twrl="0.839" twrr="0.847" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">143.1002</Lap>
+<Lap num="9" p="10" et="1129.5555" fuel="0.718" twfl="0.965" twfr="0.961" twrl="0.973" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="10" p="10" et="1312.5079" s1="51.0911" s2="47.3120" s3="34.7765" fuel="0.686" twfl="0.914" twfr="0.910" twrl="0.937" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">133.1796</Lap>
+<Lap num="11" p="8" et="1445.6875" s1="48.7870" s2="48.1204" fuel="0.659" twfl="0.835" twfr="0.859" twrl="0.910" twrr="0.910" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="12" p="9" et="1577.0192" s1="48.7180" s2="48.0730" s3="39.6322" fuel="0.627" twfl="0.757" twfr="0.804" twrl="0.882" twrr="0.886" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">136.4232</Lap>
+<BestLapTime>121.3581</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Angel Sancho </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>12</GridPos>
+<Position>11</Position>
+<ClassGridPos>12</ClassGridPos>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="69.2347" s1="98.7288" s2="43.4805" s3="32.6794" fuel="0.592" twfl="0.980" twfr="0.973" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">174.8887</Lap>
+<Lap num="2" p="10" et="244.1234" s1="46.3029" s2="43.1715" s3="32.1098" fuel="0.561" twfl="0.953" twfr="0.945" twrl="0.965" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.5843</Lap>
+<Lap num="3" p="10" et="365.7077" fuel="0.529" twfl="0.933" twfr="0.922" twrl="0.949" twrr="0.957" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="4" p="10" et="488.7759" s1="46.7816" s2="44.6022" s3="32.4086" fuel="0.502" twfl="0.914" twfr="0.894" twrl="0.933" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.7924</Lap>
+<Lap num="5" p="10" et="612.5683" s1="46.7789" s2="46.7704" s3="34.6236" fuel="0.475" twfl="0.890" twfr="0.871" twrl="0.922" twrr="0.929" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.1729</Lap>
+<Lap num="6" p="8" et="740.7411" s1="48.2008" s2="47.9453" s3="35.9252" fuel="0.447" twfl="0.863" twfr="0.839" twrl="0.906" twrr="0.914" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.0712</Lap>
+<Lap num="7" p="8" et="872.8124" s1="50.9644" s2="50.2332" s3="41.0162" fuel="0.420" twfl="0.839" twfr="0.804" twrl="0.894" twrr="0.902" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">142.2139</Lap>
+<Lap num="8" p="16" et="1015.0262" s1="103.8510" s2="47.8341" fuel="0.973" twfl="0.973" twfr="0.961" twrl="0.969" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="15" et="1201.1962" s1="62.1384" s2="54.3105" s3="43.2672" fuel="0.945" twfl="0.937" twfr="0.898" twrl="0.894" twrr="0.875" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">159.7162</Lap>
+<Lap num="10" p="20" et="1360.9124" s1="109.7006" s2="48.3740" s3="36.0582" fuel="0.918" twfl="0.910" twfr="0.859" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">194.1328</Lap>
+<Lap num="11" p="20" et="1555.0452" s1="50.9666" s2="47.8571" s3="35.4412" fuel="0.890" twfl="0.878" twfr="0.808" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">134.2648</Lap>
+<Lap num="12" p="19" et="1689.3099" s1="50.0990" s2="48.6561" s3="41.9421" fuel="0.863" twfl="0.847" twfr="0.769" twrl="0.945" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">140.6973</Lap>
+<Lap num="13" p="17" et="1830.0072" s1="59.5343" s2="48.5767" s3="35.3508" fuel="0.839" twfl="0.816" twfr="0.733" twrl="0.929" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">143.4618</Lap>
+<Lap num="14" p="14" et="1973.4690" s1="49.7794" s2="48.3500" s3="34.6143" fuel="0.808" twfl="0.776" twfr="0.678" twrl="0.910" twrr="0.910" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">132.7437</Lap>
+<Lap num="15" p="14" et="2106.2126" s1="49.9868" s2="49.0522" s3="34.9902" fuel="0.780" twfl="0.659" twfr="0.635" twrl="0.886" twrr="0.890" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">134.0293</Lap>
+<Lap num="16" p="14" et="2240.2419" s1="49.9124" s2="50.7207" s3="36.0627" fuel="0.753" twfl="0.620" twfr="0.561" twrl="0.867" twrr="0.867" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">136.6958</Lap>
+<Lap num="17" p="13" et="2376.9377" s1="50.2368" s2="49.0000" s3="35.3123" fuel="0.722" twfl="0.565" twfr="0.467" twrl="0.843" twrr="0.847" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">134.5491</Lap>
+<Lap num="18" p="13" et="2511.4868" s1="51.7468" s2="50.3494" fuel="0.694" twfl="0.518" twfr="0.408" twrl="0.824" twrr="0.831" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">--.----</Lap>
+<Lap num="19" p="13" et="2654.3904" s1="84.7842" s2="45.6987" s3="32.5808" fuel="0.667" twfl="0.973" twfr="0.980" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">163.0637</Lap>
+<Lap num="20" p="13" et="2817.4541" s1="47.7007" s2="45.0974" s3="39.1194" fuel="0.639" twfl="0.945" twfr="0.949" twrl="0.965" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">131.9175</Lap>
+<Lap num="21" p="13" et="2949.3716" s1="55.8584" s2="44.9463" s3="33.3896" fuel="0.612" twfl="0.925" twfr="0.929" twrl="0.945" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.1943</Lap>
+<Lap num="22" p="13" et="3083.5659" s1="46.9246" s2="44.9314" s3="32.7173" fuel="0.580" twfl="0.894" twfr="0.902" twrl="0.925" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.5732</Lap>
+<Lap num="23" p="13" et="3208.1392" s1="47.3513" s2="44.3743" s3="32.6003" fuel="0.553" twfl="0.855" twfr="0.867" twrl="0.902" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3259</Lap>
+<Lap num="24" p="13" et="3332.4651" s1="47.7942" s2="44.4255" s3="32.9417" fuel="0.525" twfl="0.824" twfr="0.839" twrl="0.882" twrr="0.886" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.1614</Lap>
+<Lap num="25" p="13" et="3457.6265" s1="48.4663" s2="45.8215" s3="33.2996" fuel="0.494" twfl="0.796" twfr="0.816" twrl="0.867" twrr="0.867" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">127.5874</Lap>
+<Lap num="26" p="11" et="3585.2139" s1="49.8999" s2="45.3884" s3="33.2849" fuel="0.467" twfl="0.773" twfr="0.784" twrl="0.847" twrr="0.847" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.5732</Lap>
+<Lap num="27" p="11" et="3713.7871" s1="47.9563" s2="44.9229" s3="35.5239" fuel="0.435" twfl="0.741" twfr="0.765" twrl="0.827" twrr="0.831" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.4031</Lap>
+<BestLapTime>121.5843</BestLapTime>
+<FinishTime>3772.9556</FinishTime>
+<Laps>27</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Matthias Knoechel</Name>
+<Connected>1</Connected>
+<VehFile>01_SENNA_GF8D73065.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #01</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>15</GridPos>
+<Position>22</Position>
+<ClassGridPos>15</ClassGridPos>
+<ClassPosition>20</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="69.2347" s1="102.6435" s2="44.6920" s3="32.5678" fuel="0.322" twfl="0.984" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">179.9034</Lap>
+<Lap num="2" p="14" et="249.1381" s1="46.0171" s2="43.4591" s3="32.2092" fuel="0.290" twfl="0.949" twfr="0.910" twrl="0.965" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.6853</Lap>
+<Lap num="3" p="14" et="370.8234" s1="45.6725" s2="44.0712" s3="32.9120" fuel="0.263" twfl="0.922" twfr="0.882" twrl="0.945" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.6557</Lap>
+<Lap num="4" p="13" et="493.4791" fuel="0.231" twfl="0.898" twfr="0.851" twrl="0.929" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="5" p="14" et="618.5900" s1="47.3898" s2="48.9101" s3="40.8680" fuel="0.204" twfl="0.867" twfr="0.820" twrl="0.906" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">137.1680</Lap>
+<Lap num="6" p="27" et="755.7580" fuel="0.792" twfl="0.882" twfr="0.800" twrl="0.918" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="7" p="25" et="988.7830" s1="121.9660" s2="52.9875" s3="48.1028" fuel="0.769" twfl="0.984" twfr="0.980" twrl="0.945" twrr="0.973" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">223.0563</Lap>
+<Lap num="8" p="25" et="1211.8394" s1="58.6737" s2="61.1272" s3="35.8279" fuel="0.737" twfl="0.965" twfr="0.953" twrl="0.925" twrr="0.941" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">155.6288</Lap>
+<Lap num="9" p="23" et="1367.4681" s1="51.0494" s2="51.2278" s3="41.1533" fuel="0.714" twfl="0.949" twfr="0.941" twrl="0.914" twrr="0.929" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">143.4305</Lap>
+<Lap num="10" p="23" et="1510.8987" s1="57.8256" s2="49.3899" s3="43.4355" fuel="0.686" twfl="0.933" twfr="0.918" twrl="0.894" twrr="0.898" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">150.6510</Lap>
+<BestLapTime>121.6853</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrew Hollom </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>9</GridPos>
+<Position>5</Position>
+<ClassGridPos>9</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>1</Points>
+<ClassPoints>1</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="69.2347" s1="96.9408" s2="43.9462" s3="32.7026" fuel="0.557" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">173.5896</Lap>
+<Lap num="2" p="8" et="242.8243" s1="46.1582" s2="43.4524" s3="32.1089" fuel="0.529" twfl="0.969" twfr="0.969" twrl="0.969" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">121.7196</Lap>
+<Lap num="3" p="8" et="364.5439" s1="46.1367" s2="44.3444" s3="32.1027" fuel="0.498" twfl="0.945" twfr="0.949" twrl="0.953" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">122.5838</Lap>
+<Lap num="4" p="8" et="487.1277" s1="46.1641" s2="43.8987" s3="32.7311" fuel="0.471" twfl="0.925" twfr="0.933" twrl="0.937" twrr="0.937" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">122.7939</Lap>
+<Lap num="5" p="8" et="609.9216" s1="47.4548" s2="46.4188" s3="35.3819" fuel="0.443" twfl="0.906" twfr="0.918" twrl="0.922" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.2555</Lap>
+<Lap num="6" p="7" et="739.1771" s1="48.2142" s2="47.8826" s3="36.8840" fuel="0.416" twfl="0.886" twfr="0.894" twrl="0.906" twrr="0.902" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.9808</Lap>
+<Lap num="7" p="6" et="872.1578" s1="50.1213" s2="49.5470" s3="35.7625" fuel="0.388" twfl="0.867" twfr="0.875" twrl="0.886" twrr="0.886" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.4308</Lap>
+<Lap num="8" p="5" et="1007.5887" s1="51.5110" s2="48.7485" s3="37.0978" fuel="0.365" twfl="0.847" twfr="0.859" twrl="0.867" twrr="0.867" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.3574</Lap>
+<Lap num="9" p="3" et="1144.9460" s1="49.8997" s2="49.1412" s3="36.8468" fuel="0.337" twfl="0.827" twfr="0.835" twrl="0.855" twrr="0.851" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.8877</Lap>
+<Lap num="10" p="3" et="1280.8337" fuel="0.310" twfl="0.812" twfr="0.824" twrl="0.839" twrr="0.839" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="11" p="3" et="1417.2246" s1="50.1238" s2="48.2310" s3="36.4934" fuel="0.282" twfl="0.800" twfr="0.808" twrl="0.827" twrr="0.827" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.8481</Lap>
+<Lap num="12" p="3" et="1552.0728" s1="49.2521" s2="49.0822" s3="34.9282" fuel="0.255" twfl="0.784" twfr="0.796" twrl="0.812" twrr="0.812" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.2625</Lap>
+<Lap num="13" p="3" et="1685.3352" s1="50.3203" s2="48.0087" s3="35.1566" fuel="0.227" twfl="0.765" twfr="0.776" twrl="0.800" twrr="0.800" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.4856</Lap>
+<Lap num="14" p="3" et="1818.8208" s1="50.0360" s2="47.7096" s3="35.4215" fuel="0.200" twfl="0.745" twfr="0.765" twrl="0.784" twrr="0.784" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.1671</Lap>
+<Lap num="15" p="3" et="1951.9879" s1="49.9860" s2="47.1138" s3="35.0159" fuel="0.173" twfl="0.729" twfr="0.749" twrl="0.773" twrr="0.773" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.1156</Lap>
+<Lap num="16" p="2" et="2084.1035" s1="49.8040" s2="46.3120" s3="35.1548" fuel="0.145" twfl="0.714" twfr="0.737" twrl="0.757" twrr="0.757" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.2708</Lap>
+<Lap num="17" p="1" et="2215.3743" s1="49.3191" s2="46.9648" s3="35.2268" fuel="0.118" twfl="0.702" twfr="0.725" twrl="0.745" twrr="0.745" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.5107</Lap>
+<Lap num="18" p="1" et="2346.8850" s1="49.0012" s2="46.0569" s3="34.8328" fuel="0.090" twfl="0.686" twfr="0.710" twrl="0.729" twrr="0.733" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.8909</Lap>
+<Lap num="19" p="1" et="2476.7759" s1="48.8516" s2="46.2256" s3="39.2695" fuel="0.063" twfl="0.667" twfr="0.698" twrl="0.714" twrr="0.718" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">134.3467</Lap>
+<Lap num="20" p="5" et="2611.1226" s1="104.7148" s2="45.2100" s3="33.3672" fuel="0.353" twfl="0.976" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">183.2920</Lap>
+<Lap num="21" p="5" et="2794.4146" s1="48.7534" s2="46.4067" s3="35.2097" fuel="0.325" twfl="0.961" twfr="0.965" twrl="0.945" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.3699</Lap>
+<Lap num="22" p="5" et="2924.7844" s1="47.5652" s2="44.3450" s3="32.9043" fuel="0.294" twfl="0.941" twfr="0.945" twrl="0.925" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.8145</Lap>
+<Lap num="23" p="5" et="3049.5989" s1="47.5801" s2="44.1472" s3="33.7139" fuel="0.271" twfl="0.918" twfr="0.925" twrl="0.902" twrr="0.914" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.4412</Lap>
+<Lap num="24" p="5" et="3175.0400" s1="47.6528" s2="45.9929" s3="33.5386" fuel="0.243" twfl="0.894" twfr="0.902" twrl="0.878" twrr="0.894" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">127.1843</Lap>
+<Lap num="25" p="5" et="3302.2244" s1="47.3008" s2="45.3430" s3="33.4150" fuel="0.220" twfl="0.871" twfr="0.886" twrl="0.855" twrr="0.875" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">126.0588</Lap>
+<Lap num="26" p="5" et="3428.2832" s1="47.1680" s2="44.5486" s3="32.8101" fuel="0.196" twfl="0.851" twfr="0.867" twrl="0.835" twrr="0.855" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.5266</Lap>
+<Lap num="27" p="5" et="3552.8098" s1="46.9829" s2="43.9180" s3="32.7798" fuel="0.165" twfl="0.820" twfr="0.847" twrl="0.812" twrr="0.835" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.6807</Lap>
+<Lap num="28" p="5" et="3676.4905" s1="47.2671" s2="44.6064" s3="32.6016" fuel="0.137" twfl="0.796" twfr="0.820" twrl="0.792" twrr="0.812" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.4751</Lap>
+<BestLapTime>121.7196</BestLapTime>
+<FinishTime>3731.7310</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Lorenzo Finetto </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>17</GridPos>
+<Position>8</Position>
+<ClassGridPos>17</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="17" et="69.2347" s1="103.2235" s2="44.8921" s3="32.9546" fuel="0.392" twfl="0.973" twfr="0.969" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">181.0702</Lap>
+<Lap num="2" p="16" et="250.3049" s1="46.1356" s2="44.0323" s3="33.2491" fuel="0.361" twfl="0.941" twfr="0.906" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.4170</Lap>
+<Lap num="3" p="16" et="373.7219" s1="45.5710" s2="43.4173" s3="32.9988" fuel="0.329" twfl="0.914" twfr="0.878" twrl="0.953" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.9872</Lap>
+<Lap num="4" p="15" et="495.7091" s1="47.1900" s2="44.6956" s3="32.8638" fuel="0.302" twfl="0.855" twfr="0.847" twrl="0.933" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.7493</Lap>
+<Lap num="5" p="12" et="620.4584" s1="50.1276" s2="46.7299" s3="34.4079" fuel="0.275" twfl="0.820" twfr="0.765" twrl="0.918" twrr="0.918" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.2653</Lap>
+<Lap num="6" p="11" et="751.7237" s1="49.4354" s2="49.7236" s3="35.2161" fuel="0.247" twfl="0.784" twfr="0.737" twrl="0.898" twrr="0.902" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.3751</Lap>
+<Lap num="7" p="10" et="886.0988" s1="51.8752" s2="49.5001" fuel="0.224" twfl="0.753" twfr="0.694" twrl="0.878" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="8" p="10" et="1023.4144" s1="51.0680" fuel="0.196" twfl="0.725" twfr="0.655" twrl="0.863" twrr="0.867" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="9" p="8" et="1160.5892" s1="50.2345" s2="49.4099" s3="38.0768" fuel="0.169" twfl="0.675" twfr="0.612" twrl="0.847" twrr="0.847" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">137.7212</Lap>
+<Lap num="10" p="9" et="1298.3104" s1="52.0438" s2="49.4055" s3="41.2231" fuel="0.141" twfl="0.631" twfr="0.557" twrl="0.827" twrr="0.835" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">142.6725</Lap>
+<Lap num="11" p="13" et="1440.9829" s1="106.0331" s2="48.3414" s3="34.5446" fuel="0.655" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">188.9191</Lap>
+<Lap num="12" p="12" et="1629.9020" s1="49.2883" s2="50.2207" s3="34.8158" fuel="0.627" twfl="0.933" twfr="0.953" twrl="0.953" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.3248</Lap>
+<Lap num="13" p="10" et="1764.2268" s1="49.2531" s2="47.5182" s3="35.3628" fuel="0.600" twfl="0.914" twfr="0.929" twrl="0.941" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.1340</Lap>
+<Lap num="14" p="9" et="1896.3608" s1="48.9824" s2="47.8986" s3="35.7828" fuel="0.573" twfl="0.898" twfr="0.910" twrl="0.929" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.6638</Lap>
+<Lap num="15" p="8" et="2029.0247" s1="49.7524" s2="49.2686" s3="36.7998" fuel="0.545" twfl="0.878" twfr="0.878" twrl="0.914" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.8208</Lap>
+<Lap num="16" p="7" et="2164.8455" s1="48.7522" s2="47.2290" s3="34.7561" fuel="0.518" twfl="0.863" twfr="0.863" twrl="0.902" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.7373</Lap>
+<Lap num="17" p="7" et="2295.5828" s1="48.3655" s2="46.4773" s3="34.1938" fuel="0.490" twfl="0.847" twfr="0.835" twrl="0.886" twrr="0.894" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.0366</Lap>
+<Lap num="18" p="7" et="2424.6194" s1="48.8943" s2="46.8174" s3="34.2153" fuel="0.463" twfl="0.816" twfr="0.808" twrl="0.875" twrr="0.882" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.9270</Lap>
+<Lap num="19" p="7" et="2554.5464" s1="48.0840" s2="46.4280" s3="33.8115" fuel="0.431" twfl="0.800" twfr="0.780" twrl="0.863" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.3235</Lap>
+<Lap num="20" p="7" et="2682.8699" s1="48.7441" s2="46.7383" s3="34.5903" fuel="0.404" twfl="0.773" twfr="0.761" twrl="0.851" twrr="0.855" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.0728</Lap>
+<Lap num="21" p="7" et="2812.9426" s1="48.9041" s2="46.7661" s3="33.7813" fuel="0.376" twfl="0.757" twfr="0.733" twrl="0.839" twrr="0.843" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.4514</Lap>
+<Lap num="22" p="6" et="2942.3940" s1="47.6907" s2="47.8589" s3="33.4995" fuel="0.349" twfl="0.741" twfr="0.710" twrl="0.831" twrr="0.835" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.0491</Lap>
+<Lap num="23" p="6" et="3071.4431" s1="48.0867" s2="46.1040" s3="33.2856" fuel="0.318" twfl="0.725" twfr="0.675" twrl="0.820" twrr="0.824" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">127.4763</Lap>
+<Lap num="24" p="7" et="3198.9194" s1="48.1760" s2="46.8979" s3="33.9683" fuel="0.290" twfl="0.706" twfr="0.651" twrl="0.808" twrr="0.812" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.0422</Lap>
+<Lap num="25" p="7" et="3327.9617" s1="47.9863" s2="45.5979" s3="33.4993" fuel="0.259" twfl="0.694" twfr="0.624" twrl="0.796" twrr="0.800" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">127.0835</Lap>
+<Lap num="26" p="8" et="3455.0452" s1="49.1189" s2="47.0637" s3="33.5640" fuel="0.231" twfl="0.678" twfr="0.600" twrl="0.784" twrr="0.792" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.7466</Lap>
+<Lap num="27" p="8" et="3584.7917" s1="48.6768" s2="44.9128" s3="33.0449" fuel="0.204" twfl="0.659" twfr="0.576" twrl="0.776" twrr="0.780" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.6345</Lap>
+<Lap num="28" p="8" et="3711.4263" s1="47.3259" s2="45.2983" s3="33.5369" fuel="0.176" twfl="0.643" twfr="0.553" twrl="0.765" twrr="0.773" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.1611</Lap>
+<BestLapTime>121.9872</BestLapTime>
+<FinishTime>3768.3528</FinishTime>
+<Laps>28</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Luke Hollom</Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>18</GridPos>
+<Position>19</Position>
+<ClassGridPos>18</ClassGridPos>
+<ClassPosition>18</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="18" et="69.2347" s1="104.3302" s2="45.4222" s3="32.7323" fuel="0.580" twfl="0.988" twfr="0.965" twrl="0.992" twrr="0.988" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">182.4847</Lap>
+<Lap num="2" p="17" et="251.7195" s1="46.2692" s2="44.1304" s3="31.9759" fuel="0.549" twfl="0.973" twfr="0.894" twrl="0.976" twrr="0.976" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">122.3755</Lap>
+<Lap num="3" p="18" et="374.0949" s1="46.9250" s2="45.0416" s3="34.1811" fuel="0.522" twfl="0.957" twfr="0.875" twrl="0.965" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.1477</Lap>
+<Lap num="4" p="18" et="500.2426" fuel="0.494" twfl="0.941" twfr="0.839" twrl="0.957" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="5" p="15" et="626.2809" s1="47.8646" s2="47.2336" s3="35.4141" fuel="0.463" twfl="0.925" twfr="0.824" twrl="0.945" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.5123</Lap>
+<Lap num="6" p="13" et="756.7932" s1="49.3008" s2="50.3730" s3="36.3759" fuel="0.435" twfl="0.906" twfr="0.796" twrl="0.929" twrr="0.929" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">136.0497</Lap>
+<Lap num="7" p="12" et="892.8428" s1="50.8630" s2="51.6217" s3="35.5495" fuel="0.412" twfl="0.886" twfr="0.761" twrl="0.918" twrr="0.914" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">138.0342</Lap>
+<Lap num="8" p="11" et="1030.8771" s1="50.1897" s2="49.3622" s3="35.5305" fuel="0.384" twfl="0.867" twfr="0.737" twrl="0.898" twrr="0.898" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.0824</Lap>
+<Lap num="9" p="9" et="1165.9595" fuel="0.357" twfl="0.847" twfr="0.690" twrl="0.882" twrr="0.882" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="10" p="8" et="1300.7798" s1="50.5768" s2="49.7997" s3="35.7454" fuel="0.329" twfl="0.827" twfr="0.639" twrl="0.867" twrr="0.867" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">136.1218</Lap>
+<Lap num="11" p="7" et="1436.9016" s1="53.1565" s2="47.8307" s3="34.6249" fuel="0.302" twfl="0.808" twfr="0.612" twrl="0.851" twrr="0.847" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.6121</Lap>
+<Lap num="12" p="7" et="1572.5137" s1="49.3363" s2="47.7189" s3="34.6434" fuel="0.271" twfl="0.792" twfr="0.553" twrl="0.839" twrr="0.835" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.6986</Lap>
+<Lap num="13" p="6" et="1704.2123" s1="48.8508" s2="50.9872" s3="35.2469" fuel="0.243" twfl="0.761" twfr="0.529" twrl="0.827" twrr="0.824" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.0850</Lap>
+<Lap num="14" p="6" et="1839.2972" s1="48.7648" s2="46.7709" s3="35.9745" fuel="0.216" twfl="0.741" twfr="0.486" twrl="0.812" twrr="0.808" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.5101</Lap>
+<Lap num="15" p="6" et="1970.8074" s1="56.5581" s2="48.7336" s3="46.6575" fuel="0.188" twfl="0.714" twfr="0.451" twrl="0.788" twrr="0.788" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">151.9492</Lap>
+<Lap num="16" p="10" et="2122.7566" s1="104.8721" s2="46.1458" s3="32.9451" fuel="0.471" twfl="0.976" twfr="0.933" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">183.9629</Lap>
+<Lap num="17" p="9" et="2306.7195" s1="51.2305" s2="47.0151" s3="33.5864" fuel="0.439" twfl="0.945" twfr="0.894" twrl="0.949" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.8320</Lap>
+<Lap num="18" p="10" et="2438.5515" fuel="0.412" twfl="0.910" twfr="0.863" twrl="0.914" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<BestLapTime>122.3755</BestLapTime>
+<Laps>18</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="18">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrei Rosu</Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>11</GridPos>
+<Position>18</Position>
+<ClassGridPos>11</ClassGridPos>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="69.2347" s1="97.9292" s2="43.6914" s3="32.8685" fuel="0.349" twfl="0.980" twfr="0.973" twrl="0.984" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">174.4891</Lap>
+<Lap num="2" p="11" et="243.7238" fuel="0.318" twfl="0.957" twfr="0.933" twrl="0.949" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="11" et="368.1380" s1="46.1754" s2="43.9997" s3="32.4386" fuel="0.290" twfl="0.933" twfr="0.898" twrl="0.925" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">122.6137</Lap>
+<Lap num="4" p="11" et="490.7517" s1="45.8266" s2="43.9991" s3="33.1838" fuel="0.259" twfl="0.902" twfr="0.863" twrl="0.902" twrr="0.882" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.0096</Lap>
+<Lap num="5" p="21" et="613.7612" s1="48.2880" s2="46.6138" s3="56.1423" fuel="0.231" twfl="0.875" twfr="0.835" twrl="0.875" twrr="0.859" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">151.0441</Lap>
+<Lap num="6" p="26" et="764.8054" s1="126.9969" s2="50.3900" s3="37.4317" fuel="0.973" twfl="0.980" twfr="0.976" twrl="0.969" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">214.8186</Lap>
+<Lap num="7" p="23" et="979.6240" s1="52.1708" s2="49.0729" s3="36.5540" fuel="0.945" twfl="0.949" twfr="0.941" twrl="0.941" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">137.7977</Lap>
+<Lap num="8" p="21" et="1117.4216" s1="51.0313" s2="50.2155" s3="36.2823" fuel="0.918" twfl="0.922" twfr="0.902" twrl="0.918" twrr="0.922" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">137.5291</Lap>
+<Lap num="9" p="20" et="1254.9507" s1="62.3242" s2="50.4221" s3="38.0902" fuel="0.890" twfl="0.898" twfr="0.863" twrl="0.890" twrr="0.894" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">150.8365</Lap>
+<Lap num="10" p="18" et="1405.7872" s1="51.6852" s2="49.2098" s3="37.0702" fuel="0.859" twfl="0.867" twfr="0.824" twrl="0.859" twrr="0.867" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">137.9652</Lap>
+<Lap num="11" p="18" et="1543.7524" s1="52.3859" s2="49.5813" s3="37.3522" fuel="0.831" twfl="0.847" twfr="0.784" twrl="0.839" twrr="0.839" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">139.3193</Lap>
+<Lap num="12" p="17" et="1683.0718" s1="50.8810" s2="49.3181" s3="37.7332" fuel="0.804" twfl="0.820" twfr="0.757" twrl="0.812" twrr="0.816" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">137.9323</Lap>
+<Lap num="13" p="16" et="1821.0040" s1="51.0302" s2="49.7946" s3="35.7443" fuel="0.776" twfl="0.796" twfr="0.725" twrl="0.780" twrr="0.788" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">136.5690</Lap>
+<Lap num="14" p="17" et="1957.5730" fuel="0.757" twfl="0.780" twfr="0.702" twrl="0.729" twrr="0.737" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">--.----</Lap>
+<Lap num="15" p="18" et="2145.8384" s1="139.5066" s2="48.2007" s3="34.9651" fuel="0.729" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">222.6724</Lap>
+<Lap num="16" p="18" et="2368.5107" s1="49.5715" s2="47.7542" s3="34.5481" fuel="0.698" twfl="0.973" twfr="0.925" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.8738</Lap>
+<Lap num="17" p="18" et="2500.3845" s1="48.8496" fuel="0.671" twfl="0.949" twfr="0.902" twrl="0.953" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="18" p="18" et="2638.0464" s1="68.9651" s2="48.6899" s3="42.7375" fuel="0.643" twfl="0.933" twfr="0.875" twrl="0.922" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">160.3926</Lap>
+<Lap num="19" p="17" et="2798.4390" s1="100.0210" s2="47.3669" s3="33.7468" fuel="0.973" twfl="0.953" twfr="0.965" twrl="0.973" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">181.1348</Lap>
+<BestLapTime>122.6137</BestLapTime>
+<Laps>19</Laps>
+<Pitstops>4</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="19">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ciro Iadicicco </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>31</GridPos>
+<Position>23</Position>
+<ClassGridPos>29</ClassGridPos>
+<ClassPosition>21</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="29" et="69.2347" s1="113.5337" s2="50.8084" s3="32.5471" fuel="0.973" twfl="0.969" twfr="0.949" twrl="0.973" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">196.8893</Lap>
+<Lap num="2" p="27" et="266.1240" fuel="0.941" twfl="0.929" twfr="0.906" twrl="0.949" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="23" et="388.3995" fuel="0.910" twfl="0.898" twfr="0.863" twrl="0.925" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="23" et="510.7269" s1="46.1211" s2="44.1766" s3="32.8664" fuel="0.878" twfl="0.855" twfr="0.812" twrl="0.906" twrr="0.906" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.1641</Lap>
+<Lap num="5" p="22" et="633.8910" s1="47.4690" s2="47.5456" fuel="0.847" twfl="0.808" twfr="0.753" twrl="0.878" twrr="0.878" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="6" p="25" et="769.5022" s1="91.4704" s2="48.8224" s3="38.7440" fuel="0.820" twfl="0.949" twfr="0.937" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">179.0368</Lap>
+<Lap num="7" p="21" et="948.5390" fuel="0.792" twfl="0.890" twfr="0.867" twrl="0.937" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">--.----</Lap>
+<Lap num="8" p="23" et="1095.5077" fuel="0.886" twfl="0.969" twfr="0.949" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>123.1641</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Suspension</DNFReason>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Daniel  Nieto</Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>21</GridPos>
+<Position>25</Position>
+<ClassGridPos>21</ClassGridPos>
+<ClassPosition>23</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Lap num="1" p="20" et="69.2347" s1="106.3583" s2="44.6022" s3="32.1910" fuel="0.973" twfl="0.973" twfr="0.953" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">183.1515</Lap>
+<Lap num="2" p="18" et="252.3862" fuel="0.941" twfl="0.933" twfr="0.867" twrl="0.945" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="17" et="374.6093" s1="46.9052" s2="44.9055" s3="32.5040" fuel="0.910" twfl="0.898" twfr="0.827" twrl="0.914" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.3146</Lap>
+<Lap num="4" p="16" et="498.9239" s1="46.3247" s2="44.4135" s3="32.4844" fuel="0.878" twfl="0.875" twfr="0.780" twrl="0.894" twrr="0.902" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.2226</Lap>
+<Lap num="5" p="20" et="622.1465" fuel="0.851" twfl="0.808" twfr="0.690" twrl="0.843" twrr="0.824" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="6" p="22" et="764.6105" s1="89.8685" s2="49.3470" s3="34.8682" fuel="0.929" twfl="0.953" twfr="0.953" twrl="0.949" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">174.0836</Lap>
+<BestLapTime>123.2226</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mario Saliba</Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>16</GridPos>
+<Position>9</Position>
+<ClassGridPos>16</ClassGridPos>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="69.2347" s1="102.3025" s2="44.4789" s3="32.5262" fuel="0.973" twfl="0.980" twfr="0.973" twrl="0.976" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">179.3076</Lap>
+<Lap num="2" p="15" et="248.5423" s1="47.0244" s2="44.0545" s3="32.1681" fuel="0.941" twfl="0.953" twfr="0.933" twrl="0.957" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.2470</Lap>
+<Lap num="3" p="15" et="371.7893" s1="46.1235" s2="44.4779" s3="32.7350" fuel="0.910" twfl="0.925" twfr="0.910" twrl="0.933" twrr="0.945" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.3364</Lap>
+<Lap num="4" p="14" et="495.1257" s1="47.2225" s2="44.5227" s3="33.0229" fuel="0.882" twfl="0.898" twfr="0.875" twrl="0.910" twrr="0.925" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.7681</Lap>
+<Lap num="5" p="11" et="619.8938" s1="49.1459" s2="46.4500" s3="34.6056" fuel="0.851" twfl="0.847" twfr="0.796" twrl="0.882" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.2015</Lap>
+<Lap num="6" p="10" et="750.0953" s1="49.4150" s2="49.4835" s3="35.7523" fuel="0.824" twfl="0.812" twfr="0.753" twrl="0.855" twrr="0.882" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.6507</Lap>
+<Lap num="7" p="9" et="884.7460" s1="49.9235" s2="50.4808" s3="35.1448" fuel="0.792" twfl="0.776" twfr="0.706" twrl="0.827" twrr="0.859" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.5492</Lap>
+<Lap num="8" p="8" et="1020.2952" s1="49.9842" s2="49.6381" fuel="0.765" twfl="0.733" twfr="0.655" twrl="0.784" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="9" p="7" et="1155.7585" s1="50.6699" s2="49.8074" s3="36.2764" fuel="0.737" twfl="0.690" twfr="0.553" twrl="0.757" twrr="0.804" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">136.7537</Lap>
+<Lap num="10" p="6" et="1292.5122" s1="49.5692" s2="49.2532" s3="35.4976" fuel="0.706" twfl="0.635" twfr="0.478" twrl="0.725" twrr="0.776" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.3199</Lap>
+<Lap num="11" p="6" et="1426.8322" s1="49.7579" s2="49.7169" s3="35.1548" fuel="0.678" twfl="0.584" twfr="0.404" twrl="0.706" twrr="0.757" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">134.6296</Lap>
+<Lap num="12" p="6" et="1561.4618" s1="49.5261" s2="49.2606" s3="34.8481" fuel="0.647" twfl="0.529" twfr="0.329" twrl="0.686" twrr="0.737" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.6349</Lap>
+<Lap num="13" p="8" et="1695.0967" s1="49.3997" fuel="0.620" twfl="0.467" twfr="0.216" twrl="0.655" twrr="0.714" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="14" p="8" et="1847.0825" s1="49.2020" s2="47.8728" s3="39.6332" fuel="0.588" twfl="0.369" twfr="0.180" twrl="0.635" twrr="0.694" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">136.7080</Lap>
+<Lap num="15" p="10" et="1983.7905" s1="102.2708" s2="47.3162" s3="36.3022" fuel="0.933" twfl="0.969" twfr="0.961" twrl="0.976" twrr="0.980" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">185.8892</Lap>
+<Lap num="16" p="8" et="2169.6797" s1="48.5808" s2="46.9871" s3="38.7437" fuel="0.906" twfl="0.941" twfr="0.933" twrl="0.961" twrr="0.965" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">134.3115</Lap>
+<Lap num="17" p="10" et="2303.9912" s1="56.4849" s2="47.7478" s3="33.6714" fuel="0.878" twfl="0.906" twfr="0.906" twrl="0.941" twrr="0.945" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">137.9041</Lap>
+<Lap num="18" p="9" et="2441.8953" s1="49.3459" s2="46.9810" fuel="0.847" twfl="0.847" twfr="0.847" twrl="0.918" twrr="0.925" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="19" p="9" et="2572.8125" s1="48.5645" s2="46.9985" s3="46.4509" fuel="0.816" twfl="0.812" twfr="0.804" twrl="0.898" twrr="0.906" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">142.0139</Lap>
+<Lap num="20" p="10" et="2714.8264" s1="72.2346" s2="48.8064" s3="33.7986" fuel="0.788" twfl="0.769" twfr="0.741" twrl="0.882" twrr="0.890" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">154.8396</Lap>
+<Lap num="21" p="10" et="2869.6660" s1="47.9080" s2="46.8643" s3="36.1428" fuel="0.757" twfl="0.741" twfr="0.706" twrl="0.867" twrr="0.878" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">130.9150</Lap>
+<Lap num="22" p="10" et="3000.5811" s1="48.8467" s2="52.1421" s3="33.4639" fuel="0.725" twfl="0.702" twfr="0.643" twrl="0.839" twrr="0.859" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">134.4526</Lap>
+<Lap num="23" p="9" et="3135.0337" s1="48.3657" s2="46.7720" fuel="0.694" twfl="0.663" twfr="0.608" twrl="0.824" twrr="0.843" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="24" p="9" et="3263.9778" s1="47.9297" s2="46.8462" s3="33.1699" fuel="0.667" twfl="0.631" twfr="0.576" twrl="0.812" twrr="0.827" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">127.9458</Lap>
+<Lap num="25" p="9" et="3391.9236" s1="47.8247" s2="48.1321" s3="33.8149" fuel="0.635" twfl="0.596" twfr="0.510" twrl="0.792" twrr="0.812" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">129.7717</Lap>
+<Lap num="26" p="9" et="3521.6953" s1="47.7893" s2="47.4985" s3="34.2375" fuel="0.604" twfl="0.565" twfr="0.478" twrl="0.776" twrr="0.796" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">129.5254</Lap>
+<Lap num="27" p="9" et="3651.2207" s1="47.6626" s2="46.9946" s3="35.1868" fuel="0.576" twfl="0.498" twfr="0.451" twrl="0.765" twrr="0.784" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">129.8440</Lap>
+<BestLapTime>123.2470</BestLapTime>
+<FinishTime>3711.8301</FinishTime>
+<Laps>27</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Massimo Martin</Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>10</GridPos>
+<Position>7</Position>
+<ClassGridPos>10</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="69.2347" s1="97.4313" s2="43.8061" s3="32.6105" fuel="0.973" twfl="0.976" twfr="0.973" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">173.8479</Lap>
+<Lap num="2" p="9" et="243.0826" fuel="0.941" twfl="0.949" twfr="0.945" twrl="0.957" twrr="0.957" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="9" et="365.1520" s1="45.9203" s2="44.3699" s3="32.9916" fuel="0.910" twfl="0.922" twfr="0.918" twrl="0.933" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.2818</Lap>
+<Lap num="4" p="9" et="488.4338" s1="46.9237" s2="44.2274" s3="32.3051" fuel="0.882" twfl="0.894" twfr="0.882" twrl="0.910" twrr="0.914" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.4562</Lap>
+<Lap num="5" p="9" et="611.8900" s1="46.9349" s2="46.8246" s3="34.7845" fuel="0.851" twfl="0.859" twfr="0.851" twrl="0.890" twrr="0.890" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.5440</Lap>
+<Lap num="6" p="9" et="740.4340" s1="49.3485" s2="49.1984" s3="35.8494" fuel="0.820" twfl="0.827" twfr="0.820" twrl="0.867" twrr="0.871" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.3962</Lap>
+<Lap num="7" p="7" et="874.8302" s1="51.2736" s2="51.4240" s3="35.2618" fuel="0.792" twfl="0.788" twfr="0.780" twrl="0.843" twrr="0.851" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">137.9594</Lap>
+<Lap num="8" p="6" et="1012.7896" s1="49.5460" s2="49.3265" s3="35.5763" fuel="0.765" twfl="0.757" twfr="0.749" twrl="0.820" twrr="0.827" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.4489</Lap>
+<Lap num="9" p="4" et="1147.2384" s1="50.0629" s2="48.2909" s3="36.4374" fuel="0.737" twfl="0.725" twfr="0.718" twrl="0.800" twrr="0.808" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.7911</Lap>
+<Lap num="10" p="8" et="1282.0295" s1="51.1813" s2="48.5994" s3="55.4448" fuel="0.710" twfl="0.671" twfr="0.659" twrl="0.757" twrr="0.627" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">155.2255</Lap>
+<Lap num="11" p="10" et="1437.2550" s1="86.1403" s2="49.5909" fuel="0.682" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="12" p="10" et="1607.9197" s1="49.6566" s2="48.5790" s3="45.5359" fuel="0.651" twfl="0.969" twfr="0.969" twrl="0.969" twrr="0.973" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">143.7715</Lap>
+<Lap num="13" p="11" et="1751.6912" s1="69.9276" s2="47.6410" s3="33.7288" fuel="0.624" twfl="0.953" twfr="0.949" twrl="0.953" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">151.2974</Lap>
+<Lap num="14" p="10" et="1902.9885" s1="48.4165" s2="46.7925" s3="33.3341" fuel="0.596" twfl="0.933" twfr="0.933" twrl="0.937" twrr="0.937" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.5431</Lap>
+<Lap num="15" p="9" et="2031.5316" s1="48.1537" s2="47.2534" fuel="0.565" twfl="0.906" twfr="0.914" twrl="0.922" twrr="0.925" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="16" p="9" et="2167.1794" s1="56.8440" s2="47.2529" s3="34.3005" fuel="0.537" twfl="0.886" twfr="0.894" twrl="0.906" twrr="0.910" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">138.3975</Lap>
+<Lap num="17" p="8" et="2305.5769" s1="48.3628" s2="46.8494" s3="33.8560" fuel="0.506" twfl="0.867" twfr="0.867" twrl="0.890" twrr="0.894" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.0681</Lap>
+<Lap num="18" p="8" et="2434.6450" s1="48.0405" s2="45.9553" s3="33.4695" fuel="0.478" twfl="0.851" twfr="0.851" twrl="0.875" twrr="0.882" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">127.4653</Lap>
+<Lap num="19" p="8" et="2562.1104" s1="47.9124" s2="46.3030" s3="32.7749" fuel="0.447" twfl="0.831" twfr="0.835" twrl="0.859" twrr="0.867" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.9902</Lap>
+<Lap num="20" p="8" et="2689.1006" s1="47.3706" s2="45.3914" s3="32.6406" fuel="0.416" twfl="0.812" twfr="0.824" twrl="0.843" twrr="0.855" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">125.4026</Lap>
+<Lap num="21" p="8" et="2814.5032" s1="47.6724" s2="47.0615" fuel="0.388" twfl="0.796" twfr="0.804" twrl="0.831" twrr="0.843" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="22" p="7" et="2942.8943" s1="47.7961" s2="48.9944" s3="33.7700" fuel="0.357" twfl="0.780" twfr="0.788" twrl="0.816" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.5605</Lap>
+<Lap num="23" p="8" et="3073.4548" s1="49.5874" s2="46.0513" s3="33.0112" fuel="0.329" twfl="0.765" twfr="0.769" twrl="0.804" twrr="0.820" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.6499</Lap>
+<Lap num="24" p="8" et="3202.1047" s1="47.5591" s2="45.2944" s3="33.7283" fuel="0.298" twfl="0.749" twfr="0.753" twrl="0.788" twrr="0.808" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.5818</Lap>
+<Lap num="25" p="8" et="3328.6865" fuel="0.271" twfl="0.733" twfr="0.733" twrl="0.776" twrr="0.792" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="26" p="7" et="3455.5435" s1="47.9346" s2="45.2593" s3="32.8225" fuel="0.239" twfl="0.718" twfr="0.718" twrl="0.765" twrr="0.780" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.0164</Lap>
+<Lap num="27" p="7" et="3581.5598" s1="48.5471" s2="46.2422" s3="33.0464" fuel="0.208" twfl="0.706" twfr="0.706" twrl="0.753" twrr="0.773" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">127.8357</Lap>
+<Lap num="28" p="7" et="3709.3955" s1="47.4155" s2="44.4497" s3="32.5669" fuel="0.180" twfl="0.690" twfr="0.686" twrl="0.741" twrr="0.761" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">124.4321</Lap>
+<BestLapTime>123.2818</BestLapTime>
+<FinishTime>3764.5930</FinishTime>
+<Laps>28</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Alexander Wilson </Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>22</GridPos>
+<Position>12</Position>
+<ClassGridPos>22</ClassGridPos>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="69.2347" s1="107.2039" s2="44.5573" fuel="0.588" twfl="0.984" twfr="0.937" twrl="0.988" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="2" p="19" et="253.8764" s1="46.3419" s2="44.4642" s3="32.5500" fuel="0.557" twfl="0.957" twfr="0.886" twrl="0.973" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.3562</Lap>
+<Lap num="3" p="20" et="377.2326" s1="47.4620" s2="45.6974" s3="33.2014" fuel="0.525" twfl="0.929" twfr="0.784" twrl="0.953" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.3608</Lap>
+<Lap num="4" p="20" et="503.5934" fuel="0.494" twfl="0.902" twfr="0.710" twrl="0.937" twrr="0.933" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="5" p="18" et="629.8669" s1="47.7045" s2="47.9031" s3="35.5800" fuel="0.467" twfl="0.871" twfr="0.667" twrl="0.922" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.1875</Lap>
+<Lap num="6" p="17" et="761.0544" fuel="0.439" twfl="0.827" twfr="0.620" twrl="0.906" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="7" p="16" et="908.1080" fuel="0.412" twfl="0.776" twfr="0.557" twrl="0.894" twrr="0.890" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="8" p="15" et="1055.4348" s1="51.2006" fuel="0.384" twfl="0.745" twfr="0.514" twrl="0.882" twrr="0.875" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="9" p="13" et="1193.7933" s1="52.0861" s2="51.3372" s3="36.3551" fuel="0.353" twfl="0.714" twfr="0.478" twrl="0.867" twrr="0.863" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">139.7783</Lap>
+<Lap num="10" p="12" et="1333.5717" s1="52.5400" s2="49.8717" s3="35.5562" fuel="0.325" twfl="0.620" twfr="0.388" twrl="0.851" twrr="0.847" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.9679</Lap>
+<Lap num="11" p="12" et="1471.5396" s1="51.1100" fuel="0.298" twfl="0.576" twfr="0.282" twrl="0.835" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="12" p="14" et="1619.0197" s1="82.7972" s2="49.5206" s3="38.0657" fuel="0.271" twfl="0.553" twfr="0.255" twrl="0.824" twrr="0.816" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">170.3835</Lap>
+<Lap num="13" p="13" et="1789.4032" s1="50.3599" s2="53.6890" s3="44.2235" fuel="0.243" twfl="0.439" twfr="0.200" twrl="0.792" twrr="0.804" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">148.2723</Lap>
+<Lap num="14" p="16" et="1937.6755" s1="102.4414" s2="48.3770" s3="34.2539" fuel="0.616" twfl="0.976" twfr="0.973" twrl="0.988" twrr="0.988" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">185.0723</Lap>
+<Lap num="15" p="16" et="2122.7478" s1="49.5471" s2="48.2891" s3="35.2053" fuel="0.584" twfl="0.933" twfr="0.925" twrl="0.973" twrr="0.973" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">133.0415</Lap>
+<Lap num="16" p="16" et="2255.7893" s1="49.0723" s2="48.5957" s3="34.2625" fuel="0.557" twfl="0.894" twfr="0.855" twrl="0.957" twrr="0.957" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">131.9304</Lap>
+<Lap num="17" p="14" et="2387.7197" s1="50.2273" s2="50.8423" s3="35.8704" fuel="0.525" twfl="0.776" twfr="0.792" twrl="0.941" twrr="0.937" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">136.9399</Lap>
+<Lap num="18" p="14" et="2524.6597" s1="48.7192" s2="47.7786" s3="33.5767" fuel="0.494" twfl="0.749" twfr="0.761" twrl="0.929" twrr="0.925" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">130.0745</Lap>
+<Lap num="19" p="12" et="2654.7341" s1="50.5520" s2="47.6489" s3="33.9294" fuel="0.463" twfl="0.667" twfr="0.686" twrl="0.914" twrr="0.910" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">132.1304</Lap>
+<Lap num="20" p="12" et="2786.8645" s1="49.9695" s2="51.2180" s3="37.9417" fuel="0.435" twfl="0.643" twfr="0.596" twrl="0.906" twrr="0.902" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">139.1292</Lap>
+<Lap num="21" p="12" et="2925.9937" s1="49.5659" s2="48.4436" s3="34.4524" fuel="0.404" twfl="0.537" twfr="0.561" twrl="0.894" twrr="0.890" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">132.4619</Lap>
+<Lap num="22" p="12" et="3058.4556" s1="50.4312" s2="47.5850" s3="33.6091" fuel="0.376" twfl="0.506" twfr="0.494" twrl="0.882" twrr="0.878" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">131.6252</Lap>
+<Lap num="23" p="12" et="3190.0808" s1="48.4143" s2="48.4529" s3="34.1436" fuel="0.345" twfl="0.420" twfr="0.447" twrl="0.875" twrr="0.867" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">131.0107</Lap>
+<Lap num="24" p="12" et="3321.0916" s1="48.8442" s2="47.6553" s3="33.4966" fuel="0.314" twfl="0.392" twfr="0.400" twrl="0.867" twrr="0.859" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">129.9961</Lap>
+<Lap num="25" p="12" et="3451.0876" s1="49.9421" s2="49.4392" s3="33.9939" fuel="0.286" twfl="0.369" twfr="0.314" twrl="0.859" twrr="0.851" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">133.3752</Lap>
+<Lap num="26" p="12" et="3584.4629" fuel="0.255" twfl="0.345" twfr="0.275" twrl="0.847" twrr="0.839" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="27" p="12" et="3722.0347" s1="52.2593" s2="50.0964" s3="36.4995" fuel="0.227" twfl="0.318" twfr="0.212" twrl="0.843" twrr="0.835" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">138.8552</Lap>
+<BestLapTime>123.3562</BestLapTime>
+<FinishTime>3791.6553</FinishTime>
+<Laps>27</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dino Faldetta</Name>
+<Connected>1</Connected>
+<VehFile>04_SENNA_G5D09FBBE.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #04</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>23</GridPos>
+<Position>20</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Lap num="1" p="22" et="69.2347" s1="108.1020" s2="46.0787" s3="33.1049" fuel="0.973" twfl="0.957" twfr="0.961" twrl="0.980" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">187.2856</Lap>
+<Lap num="2" p="21" et="256.5203" s1="46.7773" s2="44.0594" s3="32.6158" fuel="0.941" twfl="0.902" twfr="0.890" twrl="0.961" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">123.4525</Lap>
+<Lap num="3" p="21" et="379.9728" s1="47.0904" s2="45.2727" fuel="0.914" twfl="0.831" twfr="0.839" twrl="0.945" twrr="0.937" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="4" p="21" et="505.4231" s1="47.5985" s2="45.3104" s3="33.2865" fuel="0.882" twfl="0.757" twfr="0.788" twrl="0.929" twrr="0.922" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.1954</Lap>
+<Lap num="5" p="19" et="631.6185" fuel="0.855" twfl="0.698" twfr="0.725" twrl="0.914" twrr="0.902" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="6" p="14" et="763.8330" s1="51.3730" s2="50.3529" s3="36.3997" fuel="0.827" twfl="0.651" twfr="0.667" twrl="0.898" twrr="0.886" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">138.1257</Lap>
+<Lap num="7" p="15" et="901.9587" s1="54.5121" s2="51.4214" s3="36.4387" fuel="0.800" twfl="0.588" twfr="0.620" twrl="0.882" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">142.3723</Lap>
+<Lap num="8" p="13" et="1044.3309" s1="51.8062" s2="51.2197" s3="35.6813" fuel="0.773" twfl="0.533" twfr="0.565" twrl="0.863" twrr="0.851" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">138.7072</Lap>
+<Lap num="9" p="12" et="1183.0381" s1="51.9542" fuel="0.745" twfl="0.478" twfr="0.518" twrl="0.847" twrr="0.835" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="10" p="13" et="1329.8792" s1="57.9500" fuel="0.718" twfl="0.427" twfr="0.431" twrl="0.831" twrr="0.816" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="11" p="11" et="1475.6533" s1="51.4399" s2="49.7712" s3="36.5900" fuel="0.690" twfl="0.388" twfr="0.365" twrl="0.816" twrr="0.800" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.8011</Lap>
+<Lap num="12" p="11" et="1613.4545" s1="51.2671" s2="51.0098" s3="37.9142" fuel="0.663" twfl="0.345" twfr="0.314" twrl="0.796" twrr="0.784" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">140.1910</Lap>
+<Lap num="13" p="9" et="1753.6455" fuel="0.635" twfl="0.302" twfr="0.267" twrl="0.784" twrr="0.769" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<BestLapTime>123.4525</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jos van der Sterren </Name>
+<Connected>1</Connected>
+<VehFile>SENNA_GTR_424F3ADA.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #12</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>20</GridPos>
+<Position>10</Position>
+<ClassGridPos>20</ClassGridPos>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>22</LapRankIncludingDiscos>
+<Lap num="1" p="19" et="69.2347" s1="105.7126" s2="44.9139" s3="32.1602" fuel="0.388" twfl="0.980" twfr="0.973" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">182.7868</Lap>
+<Lap num="2" p="20" et="252.0215" s1="49.8859" s2="43.9486" s3="32.0516" fuel="0.361" twfl="0.949" twfr="0.941" twrl="0.941" twrr="0.957" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.8862</Lap>
+<Lap num="3" p="19" et="377.9077" s1="47.3921" s2="45.3214" fuel="0.329" twfl="0.937" twfr="0.933" twrl="0.925" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="19" et="503.4449" s1="47.2343" s2="44.3160" s3="32.5998" fuel="0.302" twfl="0.918" twfr="0.918" twrl="0.906" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.1501</Lap>
+<Lap num="5" p="16" et="627.5950" s1="47.1908" s2="47.0482" s3="35.3445" fuel="0.271" twfl="0.890" twfr="0.882" twrl="0.890" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.5835</Lap>
+<Lap num="6" p="12" et="757.1785" s1="49.3141" s2="48.3739" s3="34.8161" fuel="0.243" twfl="0.863" twfr="0.855" twrl="0.863" twrr="0.886" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">132.5041</Lap>
+<Lap num="7" p="13" et="889.6826" fuel="0.216" twfl="0.780" twfr="0.800" twrl="0.835" twrr="0.851" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="8" p="12" et="1040.0530" s1="51.0801" s2="49.8608" s3="41.3313" fuel="0.188" twfl="0.749" twfr="0.729" twrl="0.816" twrr="0.827" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">142.2722</Lap>
+<Lap num="9" p="19" et="1182.3252" s1="111.2427" s2="59.5592" s3="35.9233" fuel="0.663" twfl="0.969" twfr="0.961" twrl="0.965" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">206.7252</Lap>
+<Lap num="10" p="17" et="1389.0504" s1="50.8204" s2="49.3663" s3="39.9847" fuel="0.631" twfl="0.941" twfr="0.937" twrl="0.937" twrr="0.949" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">140.1715</Lap>
+<Lap num="11" p="17" et="1529.2219" s1="58.2931" s2="49.0688" s3="35.0233" fuel="0.604" twfl="0.925" twfr="0.925" twrl="0.918" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">142.3853</Lap>
+<Lap num="12" p="15" et="1671.6072" s1="50.2411" s2="49.8787" s3="34.8418" fuel="0.576" twfl="0.902" twfr="0.902" twrl="0.898" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.9615</Lap>
+<Lap num="13" p="14" et="1806.5687" s1="49.9608" s2="48.0387" s3="34.9188" fuel="0.549" twfl="0.882" twfr="0.886" twrl="0.878" twrr="0.894" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">132.9183</Lap>
+<Lap num="14" p="12" et="1939.4871" s1="49.6940" s2="47.7471" s3="36.8810" fuel="0.518" twfl="0.863" twfr="0.867" twrl="0.859" twrr="0.878" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.3220</Lap>
+<Lap num="15" p="12" et="2073.8091" s1="49.4290" s2="47.1606" s3="34.5901" fuel="0.490" twfl="0.843" twfr="0.851" twrl="0.843" twrr="0.859" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.1797</Lap>
+<Lap num="16" p="11" et="2204.9888" s1="48.9631" s2="47.3096" s3="33.9656" fuel="0.463" twfl="0.820" twfr="0.835" twrl="0.824" twrr="0.843" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.2383</Lap>
+<Lap num="17" p="11" et="2335.2271" s1="48.7627" s2="47.5020" s3="35.0593" fuel="0.431" twfl="0.804" twfr="0.820" twrl="0.808" twrr="0.827" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.3240</Lap>
+<Lap num="18" p="11" et="2466.5510" s1="48.6414" s2="46.8931" s3="34.0771" fuel="0.404" twfl="0.784" twfr="0.808" twrl="0.788" twrr="0.812" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.6116</Lap>
+<Lap num="19" p="10" et="2596.1626" s1="48.9001" s2="46.9697" s3="33.4783" fuel="0.373" twfl="0.765" twfr="0.788" twrl="0.773" twrr="0.796" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.3481</Lap>
+<Lap num="20" p="9" et="2725.5107" s1="48.7561" s2="46.5430" s3="34.0256" fuel="0.345" twfl="0.745" twfr="0.776" twrl="0.757" twrr="0.780" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.3247</Lap>
+<Lap num="21" p="9" et="2854.8354" s1="48.3701" s2="47.2864" s3="33.2117" fuel="0.318" twfl="0.729" twfr="0.761" twrl="0.745" twrr="0.769" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.8682</Lap>
+<Lap num="22" p="9" et="2983.7036" s1="48.6243" s2="46.3076" s3="39.1702" fuel="0.290" twfl="0.710" twfr="0.749" twrl="0.729" twrr="0.753" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">134.1021</Lap>
+<Lap num="23" p="10" et="3117.8057" s1="83.9116" s2="46.1191" s3="32.8809" fuel="0.259" twfl="0.984" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">162.9116</Lap>
+<Lap num="24" p="10" et="3280.7173" s1="47.5984" s2="45.4231" s3="32.5747" fuel="0.231" twfl="0.973" twfr="0.965" twrl="0.965" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">125.5962</Lap>
+<Lap num="25" p="10" et="3406.3135" s1="47.0391" s2="52.5581" fuel="0.200" twfl="0.953" twfr="0.945" twrl="0.945" twrr="0.945" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="26" p="10" et="3538.7087" s1="47.5110" s2="45.8274" s3="33.3877" fuel="0.169" twfl="0.937" twfr="0.933" twrl="0.929" twrr="0.929" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">126.7261</Lap>
+<Lap num="27" p="10" et="3665.4348" fuel="0.141" twfl="0.922" twfr="0.922" twrl="0.914" twrr="0.914" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<BestLapTime>124.1501</BestLapTime>
+<FinishTime>3721.8462</FinishTime>
+<Laps>27</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Xavier Eugeni </Name>
+<Connected>1</Connected>
+<VehFile>04_SENNA_G5D09FBBE.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #04</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>24</GridPos>
+<Position>26</Position>
+<ClassGridPos>23</ClassGridPos>
+<ClassPosition>24</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>23</LapRankIncludingDiscos>
+<Lap num="1" p="23" et="69.2347" s1="108.7238" s2="45.8903" s3="33.1339" fuel="0.839" twfl="0.988" twfr="0.976" twrl="0.988" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">187.7480</Lap>
+<Lap num="2" p="22" et="256.9827" s1="46.9682" s2="44.8440" s3="33.0275" fuel="0.808" twfl="0.969" twfr="0.945" twrl="0.973" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">124.8397</Lap>
+<Lap num="3" p="22" et="381.8224" fuel="0.776" twfl="0.957" twfr="0.918" twrl="0.957" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="22" et="506.6156" s1="47.1607" s2="45.3914" s3="33.0694" fuel="0.749" twfl="0.937" twfr="0.875" twrl="0.941" twrr="0.937" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">125.6215</Lap>
+<Lap num="5" p="23" et="632.2371" s1="48.7690" s2="47.6168" fuel="0.722" twfl="0.914" twfr="0.847" twrl="0.922" twrr="0.922" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="6" p="24" et="770.4877" fuel="0.690" twfl="0.976" twfr="0.957" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<BestLapTime>124.8397</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Valerio Margarito </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>28</GridPos>
+<Position>15</Position>
+<ClassGridPos>26</ClassGridPos>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>24</LapRankIncludingDiscos>
+<Lap num="1" p="31" et="69.2347" s1="114.9321" s2="48.9958" fuel="0.973" twfl="0.984" twfr="0.976" twrl="0.988" twrr="0.988" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="2" p="30" et="267.8104" s1="47.5727" s2="45.9032" s3="34.7671" fuel="0.945" twfl="0.961" twfr="0.953" twrl="0.973" twrr="0.973" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">128.2430</Lap>
+<Lap num="3" p="27" et="396.0534" s1="48.3947" s2="45.9075" fuel="0.914" twfl="0.937" twfr="0.918" twrl="0.957" twrr="0.957" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="4" p="27" et="525.6263" s1="48.2774" s2="46.7514" s3="34.2131" fuel="0.882" twfl="0.910" twfr="0.890" twrl="0.945" twrr="0.941" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">129.2419</Lap>
+<Lap num="5" p="27" et="654.8682" s1="50.5064" s2="50.2766" s3="36.2227" fuel="0.855" twfl="0.867" twfr="0.863" twrl="0.929" twrr="0.929" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">137.0057</Lap>
+<Lap num="6" p="20" et="791.8738" s1="52.0355" s2="51.3755" s3="36.4966" fuel="0.827" twfl="0.843" twfr="0.831" twrl="0.914" twrr="0.914" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">139.9075</Lap>
+<Lap num="7" p="18" et="931.7814" s1="53.4001" s2="52.2208" s3="39.2455" fuel="0.800" twfl="0.812" twfr="0.804" twrl="0.902" twrr="0.898" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">144.8665</Lap>
+<Lap num="8" p="19" et="1076.6478" fuel="0.773" twfl="0.780" twfr="0.776" twrl="0.886" twrr="0.886" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">--.----</Lap>
+<Lap num="9" p="17" et="1231.2465" s1="60.3108" s2="51.8662" s3="38.5306" fuel="0.749" twfl="0.753" twfr="0.753" twrl="0.875" twrr="0.871" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">150.7076</Lap>
+<Lap num="10" p="16" et="1381.9541" s1="51.1315" s2="51.6486" s3="37.5402" fuel="0.722" twfl="0.725" twfr="0.718" twrl="0.863" twrr="0.859" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">140.3202</Lap>
+<Lap num="11" p="16" et="1522.2743" s1="53.2856" s2="51.1145" s3="37.4512" fuel="0.694" twfl="0.698" twfr="0.667" twrl="0.851" twrr="0.847" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">141.8513</Lap>
+<Lap num="12" p="16" et="1664.1256" s1="56.0044" s2="52.9756" s3="36.4155" fuel="0.663" twfl="0.675" twfr="0.631" twrl="0.839" twrr="0.839" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">145.3955</Lap>
+<Lap num="13" p="15" et="1809.5211" s1="50.7194" s2="51.8403" s3="35.6725" fuel="0.635" twfl="0.647" twfr="0.588" twrl="0.827" twrr="0.824" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">138.2322</Lap>
+<Lap num="14" p="13" et="1947.7533" fuel="0.608" twfl="0.624" twfr="0.557" twrl="0.816" twrr="0.812" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">--.----</Lap>
+<Lap num="15" p="13" et="2086.7368" s1="54.7703" s2="52.3364" s3="35.6646" fuel="0.580" twfl="0.596" twfr="0.455" twrl="0.804" twrr="0.800" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)">142.7712</Lap>
+<Lap num="16" p="15" et="2229.5081" fuel="0.553" twfl="0.573" twfr="0.431" twrl="0.792" twrr="0.788" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">--.----</Lap>
+<Lap num="17" p="15" et="2377.3716" s1="59.5720" s2="51.3777" s3="42.8428" fuel="0.525" twfl="0.561" twfr="0.404" twrl="0.784" twrr="0.780" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">153.7925</Lap>
+<Lap num="18" p="15" et="2531.1641" s1="58.7107" s2="50.8958" s3="42.8726" fuel="0.502" twfl="0.525" twfr="0.384" twrl="0.776" twrr="0.773" fcompound="2,S9M (Hard)" rcompound="2,S9M (Hard)" pit="1">152.4790</Lap>
+<Lap num="19" p="14" et="2683.6431" s1="92.9243" s2="48.4666" s3="55.1284" fuel="0.475" twfl="0.969" twfr="0.953" twrl="0.965" twrr="0.941" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">196.5193</Lap>
+<Lap num="20" p="15" et="2880.1624" s1="97.3289" s2="66.2097" s3="44.4390" fuel="0.447" twfl="0.976" twfr="0.957" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">207.9775</Lap>
+<Lap num="21" p="15" et="3088.1399" s1="88.0117" s2="50.6265" s3="33.9546" fuel="0.420" twfl="0.976" twfr="0.957" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">172.5928</Lap>
+<Lap num="22" p="15" et="3260.7327" s1="47.5779" s2="46.4585" s3="34.2502" fuel="0.388" twfl="0.937" twfr="0.859" twrl="0.965" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.2866</Lap>
+<Lap num="23" p="15" et="3389.0193" s1="47.6802" s2="46.7690" s3="33.5259" fuel="0.357" twfl="0.902" twfr="0.718" twrl="0.945" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">127.9751</Lap>
+<Lap num="24" p="15" et="3516.9944" s1="48.0344" s2="46.5657" fuel="0.329" twfl="0.867" twfr="0.682" twrl="0.925" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="25" p="15" et="3645.8992" s1="50.2090" s2="46.3792" s3="33.8977" fuel="0.298" twfl="0.820" twfr="0.604" twrl="0.910" twrr="0.910" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.4858</Lap>
+<BestLapTime>127.9751</BestLapTime>
+<FinishTime>3707.1504</FinishTime>
+<Laps>25</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="25">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Richard Brooks </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>19</GridPos>
+<Position>14</Position>
+<ClassGridPos>19</ClassGridPos>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>25</LapRankIncludingDiscos>
+<Lap num="1" p="30" et="69.2347" s1="105.2964" s2="44.9801" s3="47.9165" fuel="0.592" twfl="0.980" twfr="0.980" twrl="0.992" twrr="0.992" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">198.1930</Lap>
+<Lap num="2" p="31" et="267.4277" s1="91.3812" s2="44.7603" s3="42.0437" fuel="0.561" twfl="0.957" twfr="0.949" twrl="0.980" twrr="0.980" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">178.1852</Lap>
+<Lap num="3" p="29" et="445.6129" s1="71.2136" s2="44.7441" s3="35.5930" fuel="0.533" twfl="0.925" twfr="0.922" twrl="0.969" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">151.5508</Lap>
+<Lap num="4" p="29" et="597.1636" s1="50.4609" s2="53.2328" s3="44.1030" fuel="0.506" twfl="0.890" twfr="0.902" twrl="0.961" twrr="0.957" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">147.7968</Lap>
+<Lap num="5" p="29" et="744.9604" s1="86.0789" s2="48.6937" s3="35.8882" fuel="0.478" twfl="0.945" twfr="0.941" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">170.6608</Lap>
+<Lap num="6" p="28" et="915.6212" s1="49.0818" s2="49.9103" s3="44.9697" fuel="0.447" twfl="0.847" twfr="0.875" twrl="0.953" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">143.9619</Lap>
+<Lap num="7" p="26" et="1059.5831" s1="104.2213" s2="50.8195" s3="52.3337" fuel="0.580" twfl="0.965" twfr="0.965" twrl="0.984" twrr="0.976" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">207.3745</Lap>
+<Lap num="8" p="26" et="1266.9576" s1="99.3281" s2="50.1294" s3="37.0244" fuel="0.553" twfl="0.945" twfr="0.937" twrl="0.973" twrr="0.965" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">186.4819</Lap>
+<Lap num="9" p="24" et="1453.4396" s1="50.3077" s2="48.5651" s3="36.3198" fuel="0.525" twfl="0.914" twfr="0.906" twrl="0.957" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.1926</Lap>
+<Lap num="10" p="24" et="1588.6322" s1="52.4004" s2="49.2922" s3="35.9703" fuel="0.494" twfl="0.878" twfr="0.878" twrl="0.945" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.6630</Lap>
+<Lap num="11" p="23" et="1726.2952" s1="50.6919" s2="49.2874" s3="35.9878" fuel="0.467" twfl="0.843" twfr="0.843" twrl="0.933" twrr="0.929" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">135.9670</Lap>
+<Lap num="12" p="23" et="1862.2622" s1="50.0157" s2="48.5902" s3="35.3765" fuel="0.435" twfl="0.804" twfr="0.808" twrl="0.922" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.9824</Lap>
+<Lap num="13" p="21" et="1996.2446" s1="49.2185" s2="52.4299" s3="35.3711" fuel="0.408" twfl="0.776" twfr="0.780" twrl="0.910" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">137.0195</Lap>
+<Lap num="14" p="20" et="2133.2642" s1="49.0977" s2="48.7539" s3="35.0081" fuel="0.380" twfl="0.741" twfr="0.733" twrl="0.902" twrr="0.894" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.8596</Lap>
+<Lap num="15" p="20" et="2266.1238" s1="50.7273" s2="47.4167" s3="35.1174" fuel="0.349" twfl="0.706" twfr="0.686" twrl="0.890" twrr="0.886" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.2615</Lap>
+<Lap num="16" p="19" et="2399.3853" s1="48.7117" s2="47.5217" s3="35.2031" fuel="0.322" twfl="0.671" twfr="0.647" twrl="0.882" twrr="0.875" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.4365</Lap>
+<Lap num="17" p="19" et="2530.8218" s1="49.0449" s2="47.7520" s3="35.3582" fuel="0.290" twfl="0.631" twfr="0.604" twrl="0.871" twrr="0.863" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.1550</Lap>
+<Lap num="18" p="17" et="2662.9768" s1="49.3855" s2="46.9487" s3="34.4993" fuel="0.263" twfl="0.600" twfr="0.569" twrl="0.859" twrr="0.855" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.8335</Lap>
+<Lap num="19" p="15" et="2793.8103" s1="48.1177" s2="47.4043" s3="35.5413" fuel="0.231" twfl="0.565" twfr="0.533" twrl="0.851" twrr="0.843" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">131.0632</Lap>
+<Lap num="20" p="14" et="2924.8735" s1="48.8940" s2="46.8938" s3="33.5667" fuel="0.204" twfl="0.529" twfr="0.478" twrl="0.839" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.3545</Lap>
+<Lap num="21" p="14" et="3054.2280" s1="49.2732" s2="46.4158" s3="33.7397" fuel="0.173" twfl="0.490" twfr="0.431" twrl="0.831" twrr="0.820" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.4287</Lap>
+<Lap num="22" p="14" et="3183.6567" s1="47.8928" s2="46.6626" s3="34.2920" fuel="0.145" twfl="0.451" twfr="0.380" twrl="0.820" twrr="0.812" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.8474</Lap>
+<Lap num="23" p="14" et="3312.5042" s1="48.1746" s2="46.0911" s3="34.1987" fuel="0.114" twfl="0.412" twfr="0.337" twrl="0.812" twrr="0.800" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.4644</Lap>
+<Lap num="24" p="14" et="3440.9685" s1="48.4846" s2="45.6243" s3="33.9526" fuel="0.086" twfl="0.376" twfr="0.294" twrl="0.800" twrr="0.792" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.0615</Lap>
+<Lap num="25" p="14" et="3569.0300" s1="48.1987" s2="46.4475" s3="33.5591" fuel="0.055" twfl="0.333" twfr="0.251" twrl="0.792" twrr="0.780" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">128.2053</Lap>
+<Lap num="26" p="14" et="3697.2354" s1="48.5747" s2="46.2598" s3="34.5264" fuel="0.024" twfl="0.282" twfr="0.184" twrl="0.784" twrr="0.773" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.3608</Lap>
+<BestLapTime>128.0615</BestLapTime>
+<FinishTime>3757.3616</FinishTime>
+<Laps>26</Laps>
+<Pitstops>5</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="26">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>claudiolaion </Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>26</GridPos>
+<Position>29</Position>
+<ClassGridPos>24</ClassGridPos>
+<ClassPosition>27</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>26</LapRankIncludingDiscos>
+<Lap num="1" p="25" et="69.2347" s1="111.6200" s2="44.6722" s3="33.2802" fuel="0.373" twfl="0.976" twfr="0.969" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">189.5724</Lap>
+<Lap num="2" p="26" et="258.8072" s1="46.3317" s2="44.7580" s3="37.7112" fuel="0.345" twfl="0.929" twfr="0.894" twrl="0.941" twrr="0.922" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.8009</Lap>
+<BestLapTime>128.8009</BestLapTime>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>Engine</DNFReason>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Antonello Mastro </Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>27</GridPos>
+<Position>17</Position>
+<ClassGridPos>25</ClassGridPos>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>27</LapRankIncludingDiscos>
+<Lap num="1" p="26" et="69.2347" fuel="0.357" twfl="0.976" twfr="0.945" twrl="0.988" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="2" p="28" et="262.1411" fuel="0.329" twfl="0.894" twfr="0.890" twrl="0.969" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="3" p="24" et="390.0071" s1="49.7243" s2="45.5002" s3="35.2318" fuel="0.298" twfl="0.867" twfr="0.863" twrl="0.957" twrr="0.957" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">130.4564</Lap>
+<Lap num="4" p="25" et="520.4635" s1="48.5067" s2="46.4247" s3="34.6873" fuel="0.271" twfl="0.843" twfr="0.831" twrl="0.941" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">129.6188</Lap>
+<Lap num="5" p="25" et="650.0823" s1="50.1461" s2="47.8091" s3="34.6291" fuel="0.243" twfl="0.776" twfr="0.725" twrl="0.918" twrr="0.922" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">132.5844</Lap>
+<Lap num="6" p="19" et="782.6666" s1="51.5345" s2="53.0303" s3="40.0906" fuel="0.216" twfl="0.714" twfr="0.671" twrl="0.902" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">144.6554</Lap>
+<Lap num="7" p="17" et="927.3220" s1="52.8447" s2="52.1293" s3="36.4567" fuel="0.192" twfl="0.659" twfr="0.620" twrl="0.878" twrr="0.886" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">141.4307</Lap>
+<Lap num="8" p="17" et="1068.7527" s1="52.7349" s2="54.3159" s3="37.9851" fuel="0.165" twfl="0.612" twfr="0.553" twrl="0.859" twrr="0.867" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">145.0359</Lap>
+<Lap num="9" p="14" et="1213.7886" s1="54.0714" s2="54.6519" s3="37.8289" fuel="0.137" twfl="0.561" twfr="0.518" twrl="0.839" twrr="0.847" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">146.5521</Lap>
+<Lap num="10" p="15" et="1360.3407" s1="54.7279" s2="64.1902" s3="41.8269" fuel="0.114" twfl="0.482" twfr="0.475" twrl="0.824" twrr="0.831" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">160.7450</Lap>
+<Lap num="11" p="15" et="1521.0857" s1="52.7247" s2="50.4697" s3="37.7620" fuel="0.090" twfl="0.443" twfr="0.439" twrl="0.812" twrr="0.816" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">140.9564</Lap>
+<Lap num="12" p="18" et="1662.0421" s1="55.4500" s2="58.1659" s3="48.5760" fuel="0.063" twfl="0.416" twfr="0.408" twrl="0.800" twrr="0.804" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">162.1919</Lap>
+<Lap num="13" p="19" et="1824.2340" s1="143.4500" s2="49.6497" s3="41.3849" fuel="0.604" twfl="0.957" twfr="0.961" twrl="0.980" twrr="0.980" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">234.4845</Lap>
+<Lap num="14" p="18" et="2058.7185" s1="54.3252" s2="51.9731" s3="43.6267" fuel="0.576" twfl="0.914" twfr="0.855" twrl="0.957" twrr="0.953" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">149.9250</Lap>
+<Lap num="15" p="17" et="2208.6436" s1="51.8499" s2="55.0989" s3="37.6467" fuel="0.553" twfl="0.890" twfr="0.792" twrl="0.941" twrr="0.937" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">144.5955</Lap>
+<Lap num="16" p="17" et="2353.2390" s1="52.6797" s2="50.6831" s3="39.6677" fuel="0.525" twfl="0.847" twfr="0.737" twrl="0.925" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">143.0305</Lap>
+<Lap num="17" p="17" et="2496.2695" s1="52.5176" s2="51.5515" s3="36.2490" fuel="0.498" twfl="0.820" twfr="0.702" twrl="0.914" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">140.3181</Lap>
+<Lap num="18" p="16" et="2636.5876" s1="53.8752" s2="51.1790" s3="36.5554" fuel="0.471" twfl="0.792" twfr="0.667" twrl="0.898" twrr="0.894" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">141.6096</Lap>
+<Lap num="19" p="16" et="2778.1973" s1="51.1406" fuel="0.447" twfl="0.722" twfr="0.596" twrl="0.886" twrr="0.878" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="20" p="16" et="2935.9648" s1="125.7139" s2="54.0696" s3="44.5647" fuel="0.898" twfl="0.984" twfr="0.973" twrl="0.988" twrr="0.988" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">224.3481</Lap>
+<Lap num="21" p="17" et="3160.3130" s1="57.8840" s2="54.0017" s3="43.2605" fuel="0.875" twfl="0.965" twfr="0.957" twrl="0.980" twrr="0.980" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">155.1462</Lap>
+<Lap num="22" p="17" et="3315.4592" s1="59.5273" s2="54.4033" s3="42.6685" fuel="0.851" twfl="0.953" twfr="0.925" twrl="0.969" twrr="0.969" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">156.5991</Lap>
+<Lap num="23" p="17" et="3472.0583" s1="58.9233" s2="47.1274" s3="41.1086" fuel="0.827" twfl="0.902" twfr="0.898" twrl="0.957" twrr="0.957" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">147.1594</Lap>
+<Lap num="24" p="17" et="3619.2178" s1="57.9517" s2="47.8250" s3="43.7922" fuel="0.800" twfl="0.796" twfr="0.867" twrl="0.878" twrr="0.894" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">149.5688</Lap>
+<BestLapTime>129.6188</BestLapTime>
+<FinishTime>3699.5520</FinishTime>
+<Laps>24</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="24">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Firman Nurmahadi</Name>
+<Connected>1</Connected>
+<VehFile>01_SENNA_GF8D73065.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #01</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>25</GridPos>
+<Position>13</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>8</ClassPoints>
+<LapRankIncludingDiscos>28</LapRankIncludingDiscos>
+<Lap num="1" p="24" et="69.2347" s1="109.7872" s2="45.6489" s3="33.5186" fuel="0.973" twfl="0.984" twfr="0.980" twrl="0.988" twrr="0.988" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">188.9547</Lap>
+<Lap num="2" p="23" et="258.1894" s1="46.7873" s2="44.4435" fuel="0.941" twfl="0.965" twfr="0.941" twrl="0.976" twrr="0.976" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="3" p="28" et="382.6251" s1="49.8669" s2="64.0828" s3="34.6038" fuel="0.910" twfl="0.925" twfr="0.867" twrl="0.961" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">148.5535</Lap>
+<Lap num="4" p="28" et="531.1786" s1="47.8759" s2="47.0291" fuel="0.878" twfl="0.898" twfr="0.816" twrl="0.945" twrr="0.925" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<Lap num="5" p="28" et="659.8964" s1="48.8779" s2="48.5719" s3="35.9600" fuel="0.847" twfl="0.831" twfr="0.773" twrl="0.925" twrr="0.906" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">133.4098</Lap>
+<Lap num="6" p="21" et="793.3062" s1="51.3262" s2="51.1019" s3="36.6663" fuel="0.816" twfl="0.788" twfr="0.718" twrl="0.910" twrr="0.890" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">139.0944</Lap>
+<Lap num="7" p="19" et="932.4006" s1="56.4805" s2="53.5409" s3="36.4052" fuel="0.788" twfl="0.733" twfr="0.655" twrl="0.886" twrr="0.871" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">146.4266</Lap>
+<Lap num="8" p="18" et="1078.8271" s1="51.2686" fuel="0.757" twfl="0.647" twfr="0.557" twrl="0.867" twrr="0.851" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">--.----</Lap>
+<Lap num="9" p="18" et="1225.9932" s1="61.5668" s2="52.2596" s3="47.0737" fuel="0.729" twfl="0.600" twfr="0.498" twrl="0.847" twrr="0.827" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)" pit="1">160.9001</Lap>
+<Lap num="10" p="21" et="1386.8933" s1="96.4521" s2="47.8776" s3="35.1250" fuel="0.698" twfl="0.957" twfr="0.953" twrl="0.976" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">179.4547</Lap>
+<Lap num="11" p="21" et="1566.3480" s1="49.4932" s2="48.8470" s3="35.4192" fuel="0.671" twfl="0.906" twfr="0.886" twrl="0.949" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">133.7594</Lap>
+<Lap num="12" p="20" et="1700.1074" s1="50.0895" s2="54.4825" s3="36.7993" fuel="0.639" twfl="0.851" twfr="0.839" twrl="0.929" twrr="0.933" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">141.3713</Lap>
+<Lap num="13" p="18" et="1841.4788" s1="49.1553" s2="48.3191" s3="35.2188" fuel="0.608" twfl="0.816" twfr="0.788" twrl="0.910" twrr="0.918" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">132.6931</Lap>
+<Lap num="14" p="15" et="1974.1719" s1="49.8538" s2="47.9109" s3="35.0359" fuel="0.580" twfl="0.769" twfr="0.722" twrl="0.890" twrr="0.898" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">132.8005</Lap>
+<Lap num="15" p="15" et="2106.9724" s1="50.1860" s2="48.6499" fuel="0.549" twfl="0.718" twfr="0.627" twrl="0.875" twrr="0.878" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="16" p="13" et="2241.0798" s1="48.3994" s2="48.3877" s3="35.1423" fuel="0.522" twfl="0.643" twfr="0.565" twrl="0.855" twrr="0.863" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.9294</Lap>
+<Lap num="17" p="12" et="2373.0093" s1="49.6208" s2="46.5674" s3="33.5618" fuel="0.490" twfl="0.600" twfr="0.506" twrl="0.835" twrr="0.843" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">129.7500</Lap>
+<Lap num="18" p="12" et="2502.7593" s1="48.9099" s2="47.6282" s3="34.5103" fuel="0.459" twfl="0.553" twfr="0.451" twrl="0.820" twrr="0.824" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">131.0483</Lap>
+<Lap num="19" p="11" et="2633.8076" s1="51.2708" s2="47.4919" s3="34.2986" fuel="0.431" twfl="0.514" twfr="0.373" twrl="0.800" twrr="0.804" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">133.0613</Lap>
+<Lap num="20" p="11" et="2766.8689" s1="50.0811" s2="46.5930" s3="34.1470" fuel="0.400" twfl="0.467" twfr="0.302" twrl="0.780" twrr="0.788" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.8210</Lap>
+<Lap num="21" p="11" et="2897.6899" s1="49.9465" s2="48.4280" s3="34.5945" fuel="0.369" twfl="0.412" twfr="0.180" twrl="0.761" twrr="0.769" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">132.9690</Lap>
+<Lap num="22" p="11" et="3030.6589" fuel="0.337" twfl="0.349" twfr="0.141" twrl="0.745" twrr="0.753" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="23" p="11" et="3169.7375" s1="49.3289" s2="48.6367" s3="36.7129" fuel="0.310" twfl="0.247" twfr="0.110" twrl="0.733" twrr="0.737" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.6785</Lap>
+<Lap num="24" p="11" et="3304.4160" s1="51.1184" s2="52.3301" s3="34.4290" fuel="0.278" twfl="0.165" twfr="0.071" twrl="0.714" twrr="0.722" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">137.8774</Lap>
+<Lap num="25" p="11" et="3442.2935" s1="50.7402" s2="51.0447" s3="35.6743" fuel="0.247" twfl="0.114" twfr="0.027" twrl="0.702" twrr="0.710" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">137.4592</Lap>
+<Lap num="26" p="13" et="3579.7527" s1="54.7888" s2="51.9509" fuel="0.220" twfl="0.063" twfr="0.020" twrl="0.690" twrr="0.694" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="27" p="13" et="3729.5989" s1="67.3164" s2="50.2344" s3="35.2866" fuel="0.188" twfl="0.039" twfr="0.008" twrl="0.678" twrr="0.682" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">152.8374</Lap>
+<BestLapTime>129.7500</BestLapTime>
+<FinishTime>3813.2017</FinishTime>
+<Laps>27</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="27">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Tomasz Golab </Name>
+<Connected>1</Connected>
+<VehFile>02_SENNA_GD331CCB5.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #02</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>02</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>2</GridPos>
+<Position>28</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>26</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>29</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="69.2347" s1="91.2144" s2="42.7762" s3="32.2290" fuel="0.969" twfl="0.969" twfr="0.969" twrl="0.973" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">166.2196</Lap>
+<Lap num="2" p="25" et="235.4543" fuel="0.941" twfl="0.945" twfr="0.945" twrl="0.922" twrr="0.804" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<BestLapTime>166.2196</BestLapTime>
+<Laps>2</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Giovanni Zanetti</Name>
+<Connected>1</Connected>
+<VehFile>14_SENNA_G1F71632B.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #14</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>29</GridPos>
+<Position>30</Position>
+<ClassGridPos>27</ClassGridPos>
+<ClassPosition>28</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>30</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DNF</FinishStatus>
+<DNFReason>DNF</DNFReason>
+</Driver>
+<Driver>
+<Name>Federico Matese </Name>
+<Connected>1</Connected>
+<VehFile>04_SENNA_G5D09FBBE.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #04</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>14</GridPos>
+<Position>31</Position>
+<ClassGridPos>14</ClassGridPos>
+<ClassPosition>29</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>31</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="69.2347" fuel="0.475" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="13" et="246.3837" s1="46.9658" s2="43.6974" s3="32.0347" fuel="0.443" twfl="0.969" twfr="0.961" twrl="0.969" twrr="0.973" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)">122.6979</Lap>
+<Lap num="3" p="13" et="369.0816" s1="46.4604" s2="44.5162" s3="33.0481" fuel="0.412" twfl="0.953" twfr="0.945" twrl="0.957" twrr="0.961" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)">124.0247</Lap>
+<Lap num="4" p="17" et="493.1063" s1="46.5561" s2="44.5989" fuel="0.384" twfl="0.929" twfr="0.918" twrl="0.937" twrr="0.941" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="5" p="17" et="623.7833" s1="47.3803" s2="46.7752" s3="40.2645" fuel="0.353" twfl="0.906" twfr="0.894" twrl="0.918" twrr="0.918" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)">134.4200</Lap>
+<Lap num="6" p="16" et="758.2034" fuel="0.325" twfl="0.882" twfr="0.875" twrl="0.894" twrr="0.898" fcompound="1,S8M (Medium)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="7" p="20" et="906.9314" s1="92.7031" s2="48.5080" fuel="0.298" twfl="0.980" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">--.----</Lap>
+<Lap num="8" p="20" et="1087.6790" s1="57.8109" s2="47.7498" s3="39.4590" fuel="0.271" twfl="0.957" twfr="0.953" twrl="0.965" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">145.0197</Lap>
+<Lap num="9" p="16" et="1232.6986" s1="57.2601" s2="49.7690" s3="35.4984" fuel="0.243" twfl="0.925" twfr="0.914" twrl="0.945" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">142.5276</Lap>
+<Lap num="10" p="14" et="1375.2262" s1="50.2909" s2="49.6501" s3="35.7261" fuel="0.216" twfl="0.902" twfr="0.890" twrl="0.929" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">135.6671</Lap>
+<Lap num="11" p="14" et="1510.8933" s1="49.5365" s2="48.1746" s3="35.0607" fuel="0.188" twfl="0.878" twfr="0.855" twrl="0.910" twrr="0.914" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">132.7717</Lap>
+<Lap num="12" p="13" et="1643.6650" s1="49.7920" s2="48.5648" s3="40.2593" fuel="0.161" twfl="0.847" twfr="0.824" twrl="0.894" twrr="0.898" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">138.6161</Lap>
+<Lap num="13" p="12" et="1782.2811" s1="58.1926" s2="48.8125" s3="34.6005" fuel="0.133" twfl="0.824" twfr="0.788" twrl="0.878" twrr="0.878" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">141.6056</Lap>
+<Lap num="14" p="11" et="1923.8867" s1="49.3250" s2="49.6270" s3="35.5391" fuel="0.102" twfl="0.796" twfr="0.757" twrl="0.859" twrr="0.863" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">134.4910</Lap>
+<Lap num="15" p="11" et="2058.3777" s1="50.4153" s2="48.8801" s3="36.1218" fuel="0.075" twfl="0.773" twfr="0.694" twrl="0.839" twrr="0.843" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">135.4172</Lap>
+<Lap num="16" p="12" et="2193.7949" s1="49.3796" s2="48.6216" s3="44.2910" fuel="0.047" twfl="0.741" twfr="0.639" twrl="0.812" twrr="0.753" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">142.2922</Lap>
+<Lap num="17" p="16" et="2336.0872" s1="105.0181" s2="48.0725" s3="47.7788" fuel="0.588" twfl="0.957" twfr="0.965" twrl="0.949" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">200.8694</Lap>
+<Lap num="18" p="16" et="2536.9565" s1="67.6655" s2="45.6853" s3="40.5801" fuel="0.557" twfl="0.906" twfr="0.937" twrl="0.922" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">153.9309</Lap>
+<BestLapTime>122.6979</BestLapTime>
+<Laps>18</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>DQ</FinishStatus>
+<ControlAndAids startLap="1" endLap="18">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Farouq Thalib </Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>30</GridPos>
+<Position>32</Position>
+<ClassGridPos>28</ClassGridPos>
+<ClassPosition>30</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>32</LapRankIncludingDiscos>
+<Lap num="1" p="27" et="69.2347" s1="115.7365" s2="46.6111" s3="33.7469" fuel="0.976" twfl="0.980" twfr="0.941" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">196.0945</Lap>
+<Lap num="2" p="29" et="265.3292" fuel="0.949" twfl="0.969" twfr="0.906" twrl="0.980" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="26" et="394.3661" s1="48.8920" s2="46.1806" s3="35.0358" fuel="0.922" twfl="0.925" twfr="0.882" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.1083</Lap>
+<Lap num="4" p="26" et="524.4745" s1="48.6317" s2="46.3900" s3="33.7084" fuel="0.894" twfl="0.910" twfr="0.855" twrl="0.957" twrr="0.957" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">128.7302</Lap>
+<Lap num="5" p="26" et="653.2047" s1="49.2151" s2="48.9876" s3="36.2313" fuel="0.867" twfl="0.867" twfr="0.824" twrl="0.945" twrr="0.941" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">134.4340</Lap>
+<Lap num="6" p="23" et="787.6386" s1="50.9057" s2="51.7798" s3="50.7319" fuel="0.839" twfl="0.831" twfr="0.784" twrl="0.933" twrr="0.929" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">153.4175</Lap>
+<Lap num="7" p="24" et="941.0561" fuel="0.816" twfl="0.976" twfr="0.965" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="8" p="22" et="1126.5654" fuel="0.788" twfl="0.953" twfr="0.937" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="21" et="1269.6748" s1="50.9741" s2="49.7756" fuel="0.765" twfl="0.925" twfr="0.910" twrl="0.945" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="19" et="1406.4031" fuel="0.737" twfl="0.894" twfr="0.855" twrl="0.925" twrr="0.925" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="19" et="1546.9569" s1="52.3357" s2="52.8224" s3="37.0756" fuel="0.710" twfl="0.875" twfr="0.835" twrl="0.910" twrr="0.910" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">142.2336</Lap>
+<Lap num="12" p="21" et="1689.1906" fuel="0.686" twfl="0.855" twfr="0.788" twrl="0.894" twrr="0.898" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)" pit="1">--.----</Lap>
+<Lap num="13" p="20" et="1858.2311" s1="121.9431" s2="49.1484" s3="42.3199" fuel="0.663" twfl="0.980" twfr="0.973" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">213.4115</Lap>
+<BestLapTime>128.7302</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>DQ</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,6 @@
+<a href="{{ race.get_absolute_url }}"><div class="item-normal">
+    <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ race.race_picture }});"></div>
+    <div class="item-title">{{ race.track.name }} - {{ race.series.name }}</div>
+    <div class="item-data">{{ race.race_date|date:'H:i' }} (UK Time)</div>
+    <div class="item-data">{{ race.race_date|date:'d F Y' }}</div>
+</div></a>

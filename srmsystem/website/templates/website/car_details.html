@@ -1,0 +1,36 @@
+{% extends "base.html" %} {% load static %} {% block title %}{{ car }}{% endblock %} {% block content %}
+<div class="flex-container padding-30 flex-center">
+    <div class="mod-container">
+        <div class="section-title border-bottom">
+            <i class="material-icons">
+                directions_car
+                </i> Car Details
+        </div>
+        <div class="section mod-section">
+            <div class="item-normal mod-item">
+                <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ car.mod.picture }});"></div>
+            </div>
+        </div>
+        <div class="section mod-section mod-info-section">
+            <div class="mod-table">
+                <div class="entry-item">
+                    <div class="label">Car</div>
+                    <div class="value">{{ car }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label">Car class</div>
+                    <div class="value">{{ car.carclass }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label">Mod name</div>
+                    <div class="value">{{ car.mod.name }}</div>
+                </div>
+                <div class="entry-item">
+                    <div class="label"> &nbsp; </div>
+                    <div class="value"><a class="text-link" href="{{ car.mod.mod_url }}"><b>Download</b></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

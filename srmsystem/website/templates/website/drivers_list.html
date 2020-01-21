@@ -1,0 +1,51 @@
+{% extends "base.html" %} {% load static %} {% block title %}Drivers{% endblock %} {% block content %}
+
+<div class="row">
+                <div class="drivers-list">
+                    
+        <div class="section-header item-list-header">
+            <i class="material-icons">
+                supervised_user_circle
+                </i>SimRacingMania Drivers
+        </div>
+                    {% for driver in drivers %}
+                        <a href="#">
+                            <div class="driver-list-item">
+                                <div class="driver-list-avatar" style="background-image: url({{ MEDIA_URL }}{{ driver.profile.photo }}); background-size: cover; background-position: center;"></div>
+                                <div class="driver-list-details">
+                                    <h1>{{ driver.first_name }} {{ driver.last_name }}</h1>
+                                    <h2>{{ driver.profile.get_nationality_display }}</h2>
+                                    <p>Joined {{ driver.date_joined|date:"d F Y" }}</p>
+                                </div>
+                            </div>
+                        </a>
+                    {% endfor %}
+                </div>
+
+
+
+
+                {% if drivers.has_other_pages %}
+                <ul class="pagination">
+                    {% if drivers.has_previous %}
+                    <li><a href="?page={{ drivers.previous_page_number }}">&laquo;</a></li>
+                    {% else %}
+                    <li class="disabled"><span>&laquo;</span></li>
+                    {% endif %} {% for i in drivers.paginator.page_range %} {% if drivers.number == i %}
+                    <li class="active"><span>{{ i }}</span>
+                    </li>
+                    {% else %}
+                    <li><a href="?page={{ i }}">{{ i }}</a></li>
+                    {% endif %} {% endfor %} {% if drivers.has_next %}
+                    <li><a href="?page={{ drivers.next_page_number }}">&raquo;</a></li>
+                    {% else %}
+                    <li class="disabled"><span>&raquo;</span></li>
+                    {% endif %}
+                </ul>
+                {% endif %}
+            </div>
+
+        </div>
+    </div>
+
+    {% endblock %}

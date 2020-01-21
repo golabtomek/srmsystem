@@ -1,0 +1,98 @@
+{% extends "base.html" %} {% load static %} {% block title %}Homepage{% endblock %} {% block content %}
+<div class="flex-container padding-30">
+    <div class="section next-races">
+        <div class="section-title">
+            <i class="material-icons">
+                skip_next
+                </i> Next races
+        </div>
+
+        <div class="grid-container races-homepage">
+        {% for race in next_races %}
+        {% include "parts/normal-race.html" %}
+        {% endfor %}
+        </div>
+    </div>
+    <div class="section last-races">
+        <div class="section-title">
+            <i class="material-icons">
+                history
+                </i> Latest races
+        </div>
+        
+        <div class="grid-container races-homepage">
+            {% for race in latest_races %}
+                {% include "parts/normal-race.html" %}
+            {% endfor %}
+        </div>
+    </div>
+    
+    <div class="post-section">
+        <div class="section-title">
+            <i class="material-icons">
+                rss_feed
+                </i> Latest posts
+        </div>
+        
+        <div id="post-feed" class="post-feed">
+            <div class="scroll-button-left" id="scroll-button-left">
+                <i class="material-icons">
+                arrow_left
+                </i>
+            </div>
+            <div class="scroll-button-right" id="scroll-button-right">
+                <i class="material-icons">
+                arrow_right
+                </i>
+            </div>
+            {% for post in posts %}
+            <div class="post">
+                <div class="post-header">
+                    <div class="category">
+                        {{ post.category }}
+                    </div>
+                    <div class="date">
+                        {{ post.created|date:'d F Y' }}
+                    </div>
+                </div>
+                <div class="post-content">
+                    <div class="text">
+                        {{ post.body|truncatechars:200 }}
+                    </div>
+                    <div class="post-thumbnail" style="background-image: url({{ MEDIA_URL }}{{ post.picture }});"></div>
+                </div>
+                <div class="post-footer">
+                </div>
+            </div>
+            {% endfor %}
+            
+        </div>
+    </div>
+    <div class="section time-trials">
+        <div class="section-title">
+            <i class="material-icons">
+                timer
+                </i> Time-Trial Competitions
+        </div>
+
+        <div class="grid-container races-homepage">
+        {% for challenge in challenges %}
+            <a href="{{ challenge.get_absolute_url }}"><div class="item-normal">
+                <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ challenge.picture }});"></div>
+                <div class="item-title">{{ challenge.name }} - {{ challenge.track.name }}</div>
+                <div class="item-data">Start: {{ challenge.date_start|date:'d F Y' }}</div>
+                <div class="item-data">End: {{ challenge.date_end|date:'d F Y' }}</div>
+            </div></a>
+        {% endfor %}
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-title">
+            <i class="material-icons">
+                thumb_up_alt
+                </i> Partners
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,215 @@
+{% extends "base.html" %} {% load website_tags %} {% load static %} {% block title %}{{ series.name }}{% endblock %} {% block content %}
+
+<div class="flex-container flex-center overview-background">
+    <div class="hero" style="background-image: url({{ MEDIA_URL }}{{ series.series_picture }});"></div>
+    <div class="overview-header">
+        <div class="overview-header-container">
+            {% if series.series_logo %}
+            <img src="{{ MEDIA_URL }}{{ series.series_logo }}"/>
+            {% else %}
+            <h1>{{ series.name }}</h1>
+            {% endif %}
+            <form id="join-form" method='POST'>
+            {% csrf_token %}
+            {% if request.user|check_if_registered_series:series %}
+                <div role="button" type='submit' onclick="submitOnClick('join-form')" class="button button-join-series button-grey">
+                    Registered
+                </div>
+            {% else %}
+                <div type='submit' onclick="submitOnClick('join-form')" class="button button-join-series">
+                    Join series
+                </div>
+            {% endif %}
+            </form>
+        </div>
+    </div>
+    
+    <div class="overview-menu">
+        <ul>
+            <li id="overview-menu" class="active">Series Overview</li>
+            <li id="standings-menu">Standings</li>
+            <li id="entries-menu">Entries</li>
+        </ul>
+    </div>
+    <div id="overview" class="overview-container padding-30">
+        
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    list
+                </i> Series races
+            </div>
+            
+            <div class="grid-container races-homepage">
+                {% for race in races %}
+                <a href="{{ race.get_absolute_url }}"><div class="item-normal">
+                    {% if race|check_if_future_race %} 
+                    <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ race.race_picture }});"></div>
+                    {% else %}
+                    <div class="item-picture greyed-out" style="background-image: url({{ MEDIA_URL }}{{ race.race_picture }});"></div>
+                    {% endif %}
+                    <div class="item-title">{{ race.track.name }} - {{ race.series.name }}</div>
+                    <div class="item-data">{{ race.race_date|date:'H:i' }} (UK Time)</div>
+                    <div class="item-data">{{ race.race_date|date:'d F Y' }}</div>
+                </div></a>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    directions_car
+                </i> Series cars
+            </div>
+    
+            <div class="grid-container races-homepage">
+            {% for car in cars %}
+                <a href="#"><div class="item-normal">
+                    <div class="item-picture" style="background-image: url({{ MEDIA_URL }}{{ car.mod.picture }});"></div>
+                    <div class="item-title">{{ car.manufacturer }} {{ car.model_name }}</div>
+                    <div class="item-data">{{ car.carclass }}</div>
+                </div></a>
+            {% endfor %}
+            </div>
+        </div>
+        {% if rules %}
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    settings_applications
+                    </i> Server settings
+            </div>
+            
+            <div class="grid-container server-settings">
+                <div class="server-setting">
+                    <div class="label">ABS</div>
+                    <div class="value">{{ series.abs_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">TC</div>
+                    <div class="value">{{ series.tc_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Shift</div>
+                    <div class="value">{{ series.shift_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Clutch</div>
+                    <div class="value">{{ series.clutch_allowed|yesno:"Allowed,Not allowed" }}</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Tyre Acc.</div>
+                    <div class="value">{{ series.tire_acceleration }}x</div>
+                </div>
+                <div class="server-setting">
+                    <div class="label">Fuel Acc.</div>
+                    <div class="value">{{ series.fuel_acceleration }}x</div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% if rules %}
+        <div class="section section-overview">
+            <div class="section-title">
+                <i class="material-icons">
+                    format_quote
+                </i> Series Rules
+            </div>
+            
+            <div class="overview-text-container">
+                <div class="markdown">
+                    {{ rules.0.body|markdown }}
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+
+    
+    <div id="entries" style="display:none" class="overview-container padding-30 flex-center">
+        <div class="flex-container flex-center">
+            <div class="entries-container">
+                <div class="section-title border-bottom">
+                    <i class="material-icons">
+                        format_list_bulleted
+                        </i> Entries List
+                </div>
+                <div class="entries-table">
+                    {% for entry in entries %}
+                    <div class="entry-item">
+                            <div class="label">{{ forloop.counter }}</div>
+                            <div class="value">{{ entry }}</div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <div id="standings" style="display:none" class="overview-container padding-30 flex-center series-standings">
+        {% if ballast %}
+        <div class="section-title table-title">
+            Current Ballast
+        </div>
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>
+                        Driver
+                    </th>
+                    <th>
+                        Ballast (kg)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for driver in ballast|dictsortreversed:"ballast" %}
+                <tr>
+                    <td>
+                        {{ driver.name }}
+                    </td>
+                    <td>
+                        {{ driver.ballast }}
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+        <table class="results-table">
+            
+            <div class="section-title table-title">
+                Standings
+            </div>
+            <thead>
+                <tr>
+                    <th>
+                        Pos.
+                    </th>
+                    <th>
+                        Driver
+                    </th>
+                    <th>
+                        Points
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for driver in standings|dictsortreversed:"points" %}
+                <tr>
+                    <td class="bolded"> 
+                        {{ forloop.counter }}
+                    </td>
+                    <td> {{ driver.name }} </td>
+                    <td> {{ driver.points }} </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+</script>
+{% endblock %}

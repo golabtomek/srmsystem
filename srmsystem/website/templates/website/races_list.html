@@ -1,0 +1,31 @@
+{% extends "base.html" %} {% load static %} {% block title %}Races{% endblock %} {% block content %}
+<div class="flex-container padding-30">
+    <div class="section next-races">
+        <div class="section-title">
+            <i class="material-icons">
+                skip_next
+                </i> Next races
+        </div>
+
+        <div class="grid-container races-homepage">
+        {% for race in next_races %}
+            {% include "parts/normal-race.html" %}
+        {% endfor %}
+        </div>
+    </div>
+    <div class="section last-races">
+        <div class="section-title">
+            <i class="material-icons">
+                history
+                </i> Latest races
+        </div>
+        
+        <div class="grid-container races-homepage">
+            {% for race in latest_races %}
+                {% include "parts/normal-race.html" %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,60 @@
+{% extends "base.html" %} {% load static %} {% block title %}Series{% endblock %} {% block content %}
+
+<div class="flex-container flex-center padding-30">
+    <div class="content-list">
+        <div class="section-title border-bottom">
+            <i class="material-icons">
+                view_list
+            </i> Current Series
+        </div>
+        {% for series in current_series %}
+            <a href="{{ series.get_absolute_url }}">
+                <div class="list-item">
+                    <div class="thumbnail" style="background-image: url({{ MEDIA_URL }}{{ series.series_picture }});"></div>
+                    <div class="details">
+                        <h1>{{ series.name }}</h1>
+                        <h3>{{ series.races.count }} Races </h3>
+                        <h2>Cars: 
+                            {% for car in series.cars.all %}
+                                {{ car }}, 
+                            {% endfor %}<br/>
+                            Tracks: 
+                            {% for race in series.races.all %}
+                                {{ race.track }}, 
+                            {% endfor %}
+                        </h2>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        {% if past_series %}
+        <div class="section-title border-bottom">
+            <i class="material-icons">
+                view_list
+            </i> Past Series
+        </div>
+        {% for series in past_series %}
+            <a href="{{ series.get_absolute_url }}">
+                <div class="list-item">
+                    <div class="thumbnail" style="background-image: url({{ MEDIA_URL }}{{ series.series_picture }});"></div>
+                    <div class="details">
+                        <h1>{{ series.name }}</h1>
+                        <h3>{{ series.races.count }} Races </h3>
+                        <h2>Cars: 
+                            {% for car in series.cars.all %}
+                                {{ car }}, 
+                            {% endfor %}<br/>
+                            Tracks: 
+                            {% for race in series.races.all %}
+                                {{ race.track }}, 
+                            {% endfor %}
+                        </h2>
+                    </div>
+                </div>
+            </a>
+        {% endfor %}
+        {% endif %}
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,147 @@
+.register-header {
+    height: 75px;
+    width: 100%;
+    padding: 0 45px;
+    border-bottom: 1px solid #e5e5e5;
+    overflow: hidden;
+    position: relative;
+}
+
+.register-header .logo {
+    float: left;
+    height: 100%;
+}
+
+.register-header .logo img {
+    height: 60px;
+    width: auto;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.register-header a {
+    width: fit-content;
+    height: fit-content;
+    float: right;
+    display: block;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+.register-header .button {
+    width: auto !important;
+}
+
+.register-header .right {
+    float: right;
+    height: 100%;
+    margin-right: 16px;
+}
+
+.register-header .right i {
+    font-size: 26px;
+    margin-right: 20px;
+    float: left;
+    color: rgb(96, 96, 96);
+    cursor: pointer;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.register-header .right img {
+    height: 35px;
+    width: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    float: right;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.register-header .right a {
+    width: fit-content;
+    height: fit-content;
+    float: right;
+    display: block;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 50px;
+}
+
+.register-header .right .button {
+    width: 130px !important;
+    background-color: #fff;
+    border: 1px #000 solid;
+    border-radius: 2px;
+    color: #000;
+    line-height: 35px;
+    height: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.register-header .right .button i {
+    margin: 0;
+}
+
+.register-content {
+    width: 1040px;
+    margin: 0 auto;
+    padding: 20px 45px
+}
+
+.register-content .register-banner {
+    text-align: center;
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.register-content .register-banner h1 {
+    font-size: 38px;
+}
+
+.register-content .register-content-row {
+    width: 100%;
+    overflow: hidden;
+}
+
+.register-content .register-content-row .register-overview {
+    width: 60%;
+    float: left;
+    padding-top: 20px;
+    padding-right: 40px;
+    text-align: center;
+}
+
+.register-overview h2 {
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.register-overview p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #555;
+    margin-bottom: 50px;
+}
+
+.register-overview .rf2-logo {
+    height: 40px;
+    width: auto;
+    margin: 0 auto 50px auto;
+}
+
+.register-content .register-content-row .register-form-container {
+    width: 40%;
+    float: right;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}

@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>SimRacingMania#1-HWS_Race1</ServerName>
+<ClientFuelVisible>2</ClientFuelVisible>
+<PlayerFile>server1</PlayerFile>
+<DateTime>1579024539</DateTime>
+<TimeString>2020/01/14 18:55:39</TimeString>
+<Mod>HWS_Race1_Sebring</Mod>
+<Season></Season>
+<TrackVenue>Sebring [Virtua_LM]</TrackVenue>
+<TrackCourse>Sebring 12h Course League Edition</TrackCourse>
+<TrackEvent>12h Course League Edition</TrackEvent>
+<TrackData>C:\rfactor2-dedicated\Installed\Locations\Sebring_Virtua_LM\2.02\Sebring_Virtua_LM_12h_le.mas</TrackData>
+<TrackLength>5856.1</TrackLength>
+<GameVersion>1.1117</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="41000" download="41000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>60</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>2</TireMult>
+<VehiclesAllowed>|GTR|Hypercar|Senna|Senna GTR</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>47</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1579034502</DateTime>
+<TimeString>2020/01/14 21:41:42</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<MostLapsCompleted>14</MostLapsCompleted>
+<Driver>
+<Name>Tomasz Golab </Name>
+<Connected>1</Connected>
+<VehFile>02_SENNA_GD331CCB5.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #02</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>02</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="5" et="123.0267" fuel="0.102" twfl="0.976" twfr="0.973" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="5" et="267.4018" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="17" et="294.2894" fuel="0.102" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="6" et="430.2859" s1="46.3082" s2="30.8524" s3="41.9010" fuel="0.075" twfl="0.957" twfr="0.957" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.0616</Lap>
+<Lap num="6" p="8" et="549.3475" s1="44.1768" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="12" et="619.1523" fuel="0.102" twfl="0.988" twfr="0.988" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="1" et="757.0589" s1="43.2593" s2="29.9164" s3="40.9887" fuel="0.078" twfl="0.965" twfr="0.965" twrl="0.957" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.1644</Lap>
+<Lap num="9" p="1" et="871.2233" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="1" et="895.2822" fuel="0.102" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="1" et="1049.7671" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="12" p="2" et="1070.9338" fuel="0.102" twfl="0.976" twfr="0.984" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="13" p="1" et="1195.0177" s1="42.7155" s2="29.6570" s3="40.4766" fuel="0.075" twfl="0.949" twfr="0.961" twrl="0.953" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">112.8490</Lap>
+<Lap num="14" p="1" et="1307.8667" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>112.8490</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="14">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Michael Brooks </Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="12" et="190.0823" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="12" et="349.4247" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="14" et="349.4247" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="5" p="21" et="381.3795" fuel="0.098" twfl="0.988" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="24" et="513.8543" s1="46.1983" s2="31.4621" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="27" et="611.6196" fuel="0.098" twfl="0.992" twfr="0.984" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="27" et="757.8741" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="27" et="781.4319" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="28" et="821.8382" fuel="0.098" twfl="0.988" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="7" et="953.5142" s1="44.6030" s2="30.7817" s3="41.2438" fuel="0.075" twfl="0.980" twfr="0.969" twrl="0.969" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.6285</Lap>
+<Lap num="12" p="6" et="1070.1427" s1="43.4890" s2="30.3218" s3="41.6764" fuel="0.047" twfl="0.969" twfr="0.953" twrl="0.949" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.4872</Lap>
+<Lap num="13" p="1" et="1185.6299" s1="43.2299" s2="29.9728" s3="40.5283" fuel="0.024" twfl="0.953" twfr="0.929" twrl="0.933" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">113.7310</Lap>
+<Lap num="14" p="1" et="1299.3608" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>113.7310</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="3" endLap="3">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="14">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Luis Moreno</Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="1" et="252.5381" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="12" et="252.5381" fuel="0.102" twfl="0.988" twfr="0.984" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="1" et="390.8274" s1="44.3098" s2="30.8723" s3="41.5607" fuel="0.075" twfl="0.965" twfr="0.961" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.7428</Lap>
+<Lap num="5" p="1" et="507.5701" s1="44.1161" s2="30.3550" s3="41.5248" fuel="0.051" twfl="0.910" twfr="0.914" twrl="0.957" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.9958</Lap>
+<Lap num="6" p="3" et="623.5660" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="4" et="664.7335" fuel="0.098" twfl="0.984" twfr="0.973" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="6" et="801.3375" s1="46.2509" s2="30.4611" s3="40.8745" fuel="0.075" twfl="0.965" twfr="0.945" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.5865</Lap>
+<Lap num="9" p="4" et="918.9240" s1="44.0568" s2="30.1419" s3="41.0707" fuel="0.051" twfl="0.945" twfr="0.922" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.2694</Lap>
+<Lap num="10" p="3" et="1034.1934" s1="43.4961" s2="29.8383" s3="41.0496" fuel="0.024" twfl="0.925" twfr="0.898" twrl="0.933" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.3839</Lap>
+<Lap num="11" p="1" et="1148.5773" s1="43.0825" s2="30.1925" s3="40.7832" fuel="0.000" twfl="0.898" twfr="0.847" twrl="0.914" twrr="0.914" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.0582</Lap>
+<Lap num="12" p="1" et="1262.6355" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>114.0582</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="2" endLap="2">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="3" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Daniele Vidimari</Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>4</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.082" twfl="0.988" twfr="0.988" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="2" et="221.4692" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="14" et="241.9940" fuel="0.102" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="14" et="396.5816" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="20" et="407.8134" fuel="0.102" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="2" et="546.3321" s1="43.6730" s2="30.7244" s3="41.5834" fuel="0.075" twfl="0.961" twfr="0.953" twrl="0.961" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.9808</Lap>
+<Lap num="7" p="1" et="662.3129" s1="44.0416" s2="30.2187" s3="40.6650" fuel="0.051" twfl="0.937" twfr="0.922" twrl="0.941" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.9252</Lap>
+<Lap num="8" p="1" et="777.2381" s1="43.2813" s2="30.7115" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="3" et="870.8016" fuel="0.102" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="1" et="1037.4723" s1="43.2573" s2="30.1957" s3="40.6139" fuel="0.078" twfl="0.961" twfr="0.922" twrl="0.969" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">114.0669</Lap>
+<Lap num="11" p="1" et="1151.5392" s1="43.2717" s2="29.9185" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>114.0669</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Liam Rance</Name>
+<Connected>1</Connected>
+<VehFile>14_SENNA_G1F71632B.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #14</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>5</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.055" twfl="0.984" twfr="0.988" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="1" et="208.7572" s1="45.5165" s2="31.3917" s3="41.8312" fuel="0.031" twfl="0.961" twfr="0.957" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.7395</Lap>
+<Lap num="3" p="1" et="327.4967" s1="45.4998" fuel="0.075" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="5" et="388.4290" fuel="0.051" twfl="0.961" twfr="0.957" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="7" et="527.0537" s1="43.9977" s2="33.4989" s3="41.6027" fuel="0.027" twfl="0.933" twfr="0.922" twrl="0.965" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.0993</Lap>
+<Lap num="6" p="1" et="646.1530" s1="43.8151" s2="31.0696" s3="40.9134" fuel="0.000" twfl="0.906" twfr="0.886" twrl="0.949" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.7980</Lap>
+<Lap num="7" p="1" et="761.9510" fuel="0.075" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="3" et="766.9365" fuel="0.102" twfl="0.976" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="2" et="917.0054" s1="43.3000" s2="31.0786" s3="40.5394" fuel="0.078" twfl="0.949" twfr="0.957" twrl="0.953" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.9180</Lap>
+<Lap num="10" p="2" et="1031.9235" s1="43.1146" s2="29.9911" s3="41.2491" fuel="0.051" twfl="0.922" twfr="0.929" twrl="0.929" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.3549</Lap>
+<Lap num="11" p="3" et="1146.2783" s1="43.7214" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>114.3549</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ciro Iadicicco </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>6</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.082" twfl="0.969" twfr="0.965" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="1" et="166.2123" s1="45.7320" s2="31.4025" s3="42.3098" fuel="0.059" twfl="0.933" twfr="0.918" twrl="0.969" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.4442</Lap>
+<Lap num="3" p="2" et="285.6566" s1="45.1554" s2="31.1958" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="6" et="372.2363" fuel="0.082" twfl="0.973" twfr="0.969" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="1" et="539.9575" s1="44.2209" s2="30.4376" s3="41.2849" fuel="0.055" twfl="0.933" twfr="0.922" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.9434</Lap>
+<Lap num="6" p="2" et="655.9009" s1="43.7344" s2="30.4509" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="2" et="768.6684" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="3" et="768.6684" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="5" et="844.5135" fuel="0.082" twfl="0.976" twfr="0.961" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="10" p="2" et="998.8290" s1="43.6603" s2="30.5601" s3="40.6735" fuel="0.055" twfl="0.949" twfr="0.925" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">114.8938</Lap>
+<Lap num="11" p="5" et="1113.7228" s1="44.3882" s2="30.3075" s3="41.1079" fuel="0.031" twfl="0.925" twfr="0.871" twrl="0.949" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.8036</Lap>
+<Lap num="12" p="6" et="1229.5264" s1="43.1830" s2="31.0270" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="13" p="6" et="1338.7034" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>114.8938</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="7" endLap="7">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="8" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="13" endLap="13">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jurica Slovinac</Name>
+<Connected>1</Connected>
+<VehFile>01_SENNA_GF8D73065.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #01</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>7</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="12" et="--.---" fuel="0.067" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="6" et="237.6532" s1="46.3616" s2="32.4461" s3="42.2619" fuel="0.043" twfl="0.973" twfr="0.965" twrl="0.973" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.0696</Lap>
+<Lap num="3" p="1" et="358.7228" s1="45.0735" s2="30.8954" s3="41.9728" fuel="0.020" twfl="0.949" twfr="0.937" twrl="0.953" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.9417</Lap>
+<Lap num="4" p="1" et="476.6645" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="4" et="483.8276" fuel="0.090" twfl="0.976" twfr="0.976" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="4" et="636.6627" s1="44.4328" s2="30.3997" s3="42.2559" fuel="0.067" twfl="0.953" twfr="0.957" twrl="0.949" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.0884</Lap>
+<Lap num="7" p="6" et="753.7511" s1="44.6085" s2="31.0064" fuel="0.118" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="6" et="871.4556" fuel="0.118" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="7" et="871.4556" fuel="0.118" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="8" et="918.0286" fuel="0.094" twfl="0.969" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="11" p="10" et="1054.3118" s1="43.8776" s2="29.8802" s3="42.9113" fuel="0.067" twfl="0.945" twfr="0.969" twrl="0.961" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">116.6691</Lap>
+<Lap num="12" p="6" et="1170.9808" s1="43.3118" s2="30.9093" s3="41.0549" fuel="0.043" twfl="0.929" twfr="0.949" twrl="0.945" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">115.2760</Lap>
+<Lap num="13" p="6" et="1286.2568" fuel="0.118" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>115.2760</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="13">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Angel Sancho </Name>
+<Connected>1</Connected>
+<VehFile>08_SENNA_G90C3BC61.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #08</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>8</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="26" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="26" et="140.5375" fuel="0.102" twfl="0.992" twfr="0.984" twrl="0.992" twrr="0.992" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="6" et="311.5665" s1="46.6422" s2="31.4260" s3="42.4670" fuel="0.078" twfl="0.984" twfr="0.969" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.5352</Lap>
+<Lap num="4" p="4" et="432.1016" s1="44.9360" s2="31.2410" s3="41.9324" fuel="0.055" twfl="0.973" twfr="0.953" twrl="0.969" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.1094</Lap>
+<Lap num="5" p="4" et="550.2110" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="6" et="590.2484" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="9" et="658.3069" fuel="0.102" twfl="0.984" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="12" et="800.3068" s1="45.5633" s2="31.1404" s3="41.6105" fuel="0.078" twfl="0.976" twfr="0.949" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.3142</Lap>
+<Lap num="9" p="13" et="918.6210" s1="44.5247" s2="33.7165" s3="42.5506" fuel="0.055" twfl="0.961" twfr="0.925" twrl="0.961" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.7917</Lap>
+<Lap num="10" p="7" et="1039.4127" s1="44.1545" s2="30.2504" s3="41.5115" fuel="0.027" twfl="0.949" twfr="0.898" twrl="0.949" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.9164</Lap>
+<Lap num="11" p="6" et="1155.3291" s1="43.7343" s2="30.2784" s3="41.2778" fuel="0.004" twfl="0.933" twfr="0.875" twrl="0.933" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.2905</Lap>
+<Lap num="12" p="7" et="1270.6196" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>115.2905</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Javier Conti</Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>9</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="8" et="45.4486" fuel="0.078" twfl="0.996" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="4" et="197.5417" s1="52.3235" s2="32.3387" s3="44.9283" fuel="0.059" twfl="0.988" twfr="0.984" twrl="0.980" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">129.5905</Lap>
+<Lap num="4" p="8" et="327.1323" s1="46.9276" s2="31.9980" s3="41.8536" fuel="0.035" twfl="0.969" twfr="0.969" twrl="0.965" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.7792</Lap>
+<Lap num="5" p="6" et="447.9114" s1="44.9493" s2="31.2166" s3="42.3188" fuel="0.012" twfl="0.953" twfr="0.949" twrl="0.949" twrr="0.941" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.4847</Lap>
+<Lap num="6" p="6" et="566.3962" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="6" et="572.1539" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="6" et="614.8984" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="10" et="654.6071" fuel="0.176" twfl="0.992" twfr="0.992" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="4" et="796.9168" s1="43.9785" s2="30.5407" s3="41.2899" fuel="0.153" twfl="0.976" twfr="0.976" twrl="0.965" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.8091</Lap>
+<Lap num="11" p="4" et="912.7259" s1="43.9245" s2="36.0864" s3="41.0439" fuel="0.129" twfl="0.961" twfr="0.953" twrl="0.949" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.0549</Lap>
+<Lap num="12" p="6" et="1033.7808" s1="44.9175" s2="30.4452" s3="41.0667" fuel="0.102" twfl="0.933" twfr="0.910" twrl="0.929" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.4293</Lap>
+<Lap num="13" p="6" et="1150.2101" s1="43.5398" s2="30.3123" s3="41.4502" fuel="0.078" twfl="0.914" twfr="0.894" twrl="0.914" twrr="0.914" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.3022</Lap>
+<Lap num="14" p="6" et="1265.5123" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>115.3022</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="14">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Massimo Martin</Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>10</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="28" et="--.---" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="28" et="115.8141" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="28" et="215.1986" fuel="0.510" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="30" et="298.8006" fuel="0.482" twfl="0.992" twfr="0.973" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="19" et="445.6387" s1="49.9455" s2="32.5815" s3="44.1931" fuel="0.459" twfl="0.973" twfr="0.945" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">126.7201</Lap>
+<Lap num="6" p="11" et="572.3588" s1="45.7227" s2="31.1439" s3="42.1522" fuel="0.435" twfl="0.965" twfr="0.933" twrl="0.957" twrr="0.957" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.0187</Lap>
+<Lap num="7" p="9" et="691.3775" s1="45.2318" s2="31.1658" s3="41.6907" fuel="0.408" twfl="0.953" twfr="0.918" twrl="0.941" twrr="0.941" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.0883</Lap>
+<Lap num="8" p="9" et="809.4658" fuel="0.510" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="11" et="817.7212" fuel="0.482" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="14" et="973.9235" s1="44.3844" s2="30.6776" s3="42.7653" fuel="0.459" twfl="0.973" twfr="0.965" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.8273</Lap>
+<Lap num="11" p="7" et="1091.7507" s1="44.0682" s2="30.3503" s3="41.1813" fuel="0.431" twfl="0.961" twfr="0.933" twrl="0.945" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.5999</Lap>
+<Lap num="12" p="10" et="1207.3506" s1="44.2915" s2="29.9512" s3="41.1823" fuel="0.408" twfl="0.945" twfr="0.910" twrl="0.925" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">115.4249</Lap>
+<Lap num="13" p="10" et="1322.7755" fuel="0.510" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>115.4249</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fabio Zerbetto</Name>
+<Connected>1</Connected>
+<VehFile>10_SENNA_G2D593CCB.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #10</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>11</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>11</LapRankIncludingDiscos>
+<Lap num="1" p="11" et="--.---" fuel="0.086" twfl="0.988" twfr="0.988" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="3" et="214.9144" s1="45.3585" s2="31.4418" s3="42.6758" fuel="0.063" twfl="0.969" twfr="0.965" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.4760</Lap>
+<Lap num="3" p="1" et="334.3904" s1="45.1275" s2="31.1585" s3="41.6655" fuel="0.035" twfl="0.957" twfr="0.945" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.9515</Lap>
+<Lap num="4" p="2" et="452.3419" s1="44.5164" s2="30.7945" s3="42.5961" fuel="0.012" twfl="0.933" twfr="0.898" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.9070</Lap>
+<Lap num="5" p="2" et="570.2488" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="5" et="572.4575" fuel="0.059" twfl="0.984" twfr="0.953" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="7" et="745.7134" s1="44.0641" s2="30.9297" s3="42.7280" fuel="0.031" twfl="0.973" twfr="0.910" twrl="0.976" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.7219</Lap>
+<Lap num="8" p="8" et="863.4353" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="11" et="873.3430" fuel="0.063" twfl="0.984" twfr="0.969" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="12" et="1046.1281" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="11" p="16" et="1066.8676" fuel="0.059" twfl="0.933" twfr="0.925" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="12" p="11" et="1215.3429" s1="45.0121" s2="29.8864" s3="40.7955" fuel="0.031" twfl="0.922" twfr="0.890" twrl="0.973" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">115.6940</Lap>
+<Lap num="13" p="11" et="1331.0369" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>115.6940</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jos van der Sterren </Name>
+<Connected>1</Connected>
+<VehFile>SENNA_GTR_424F3ADA.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #12</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>12</Position>
+<ClassPosition>10</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>12</LapRankIncludingDiscos>
+<Lap num="1" p="19" et="--.---" fuel="0.141" twfl="0.976" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="2" et="203.2000" s1="45.9964" s2="31.5886" s3="43.1889" fuel="0.118" twfl="0.945" twfr="0.929" twrl="0.965" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.7739</Lap>
+<Lap num="3" p="5" et="323.9740" s1="45.8402" s2="31.3364" s3="43.0086" fuel="0.094" twfl="0.906" twfr="0.898" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.1852</Lap>
+<Lap num="4" p="10" et="444.1591" s1="45.4982" s2="31.4990" s3="42.5908" fuel="0.067" twfl="0.886" twfr="0.875" twrl="0.929" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.5879</Lap>
+<Lap num="5" p="10" et="563.7470" s1="45.3225" s2="30.9144" s3="42.6633" fuel="0.043" twfl="0.851" twfr="0.839" twrl="0.910" twrr="0.914" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.9003</Lap>
+<Lap num="6" p="10" et="682.6473" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="13" et="709.6107" fuel="0.141" twfl="0.973" twfr="0.941" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="14" et="865.5764" s1="44.9573" s2="32.4174" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="9" p="18" et="951.5251" fuel="0.141" twfl="0.984" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="10" p="9" et="1089.8135" s1="44.1685" s2="30.2568" s3="41.5410" fuel="0.118" twfl="0.973" twfr="0.941" twrl="0.973" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">115.9663</Lap>
+<Lap num="11" p="11" et="1205.7798" s1="43.9293" s2="30.8300" s3="42.0861" fuel="0.090" twfl="0.949" twfr="0.898" twrl="0.949" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">116.8453</Lap>
+<Lap num="12" p="11" et="1322.6251" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>115.9663</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Giacomo Ettorre </Name>
+<Connected>1</Connected>
+<VehFile>03_SENNA_GCADB43D9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #03</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>03</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>13</Position>
+<ClassPosition>11</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>13</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="9" et="148.6262" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="17" et="256.1643" fuel="0.169" twfl="0.980" twfr="0.965" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="21" et="420.1857" s1="45.6234" s2="31.6212" s3="60.1484" fuel="0.141" twfl="0.918" twfr="0.890" twrl="0.953" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">137.3929</Lap>
+<Lap num="5" p="11" et="557.5787" s1="46.1661" s2="31.0834" s3="41.9081" fuel="0.118" twfl="0.898" twfr="0.843" twrl="0.937" twrr="0.941" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.1575</Lap>
+<Lap num="6" p="13" et="676.7362" s1="44.9936" s2="30.9518" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="15" et="770.1855" fuel="0.169" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="7" et="939.9438" s1="44.6470" s2="30.7053" s3="41.4045" fuel="0.141" twfl="0.953" twfr="0.941" twrl="0.969" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.7568</Lap>
+<Lap num="9" p="8" et="1056.7007" s1="43.8838" s2="30.6086" s3="41.6077" fuel="0.118" twfl="0.890" twfr="0.867" twrl="0.953" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.1001</Lap>
+<Lap num="10" p="9" et="1172.8008" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>116.1001</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrei Rosu</Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>14</Position>
+<ClassPosition>12</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>14</LapRankIncludingDiscos>
+<Lap num="1" p="15" et="--.---" fuel="0.141" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="15" et="163.7962" fuel="0.118" twfl="0.980" twfr="0.980" twrl="0.980" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="18" et="300.5815" s1="45.6186" s2="31.4291" fuel="0.141" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="19" et="390.3369" fuel="0.141" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="24" et="421.1226" fuel="0.118" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="11" et="554.2756" s1="45.1869" s2="31.5050" s3="42.6792" fuel="0.094" twfl="0.976" twfr="0.969" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.3711</Lap>
+<Lap num="7" p="8" et="673.6467" s1="44.7120" s2="30.5817" s3="42.7604" fuel="0.071" twfl="0.961" twfr="0.953" twrl="0.957" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.0541</Lap>
+<Lap num="8" p="9" et="791.7009" s1="45.6014" s2="32.0156" s3="42.4272" fuel="0.047" twfl="0.933" twfr="0.922" twrl="0.933" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.0442</Lap>
+<Lap num="9" p="11" et="911.7451" s1="44.4821" fuel="0.141" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="15" et="986.4855" fuel="0.118" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="12" et="1118.9114" s1="43.6014" s2="29.9642" s3="42.5778" fuel="0.094" twfl="0.957" twfr="0.976" twrl="0.961" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.1434</Lap>
+<Lap num="12" p="12" et="1235.0548" fuel="0.141" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>116.1434</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Alex Louter</Name>
+<Connected>1</Connected>
+<VehFile>11_SENNA_GA90D40E9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #11</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>11</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>15</Position>
+<ClassPosition>13</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>15</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="--.---" fuel="0.102" twfl="0.984" twfr="0.933" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="3" et="209.1556" s1="45.5821" s2="31.2831" s3="42.6696" fuel="0.078" twfl="0.973" twfr="0.914" twrl="0.973" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.5347</Lap>
+<Lap num="3" p="4" et="328.6903" s1="44.7534" s2="31.5319" s3="45.4712" fuel="0.051" twfl="0.957" twfr="0.890" twrl="0.953" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.7565</Lap>
+<Lap num="4" p="4" et="450.4469" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="10" et="472.4814" fuel="0.102" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="15" et="612.3824" s1="56.4268" s2="31.7150" s3="42.8107" fuel="0.075" twfl="0.976" twfr="0.965" twrl="0.965" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">130.9525</Lap>
+<Lap num="7" p="11" et="743.3349" s1="45.1163" s2="31.3369" s3="41.9927" fuel="0.051" twfl="0.965" twfr="0.945" twrl="0.953" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.4459</Lap>
+<Lap num="8" p="9" et="861.7808" s1="44.5656" s2="30.5630" s3="42.4474" fuel="0.027" twfl="0.953" twfr="0.929" twrl="0.937" twrr="0.918" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.5760</Lap>
+<Lap num="9" p="7" et="979.3569" s1="44.6937" s2="30.8577" s3="40.9827" fuel="0.000" twfl="0.941" twfr="0.894" twrl="0.922" twrr="0.902" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.5340</Lap>
+<Lap num="10" p="7" et="1095.8909" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="8" et="1106.5294" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>116.5340</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sam Ahmed</Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>16</Position>
+<ClassPosition>14</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>16</LapRankIncludingDiscos>
+<Lap num="1" p="14" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="14" et="116.8267" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="17" et="231.3394" fuel="0.098" twfl="0.976" twfr="0.953" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="17" et="392.2041" s1="45.0038" s2="38.7267" s3="41.6192" fuel="0.075" twfl="0.961" twfr="0.925" twrl="0.957" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">125.3497</Lap>
+<Lap num="5" p="18" et="517.5538" s1="44.8654" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="18" et="577.6304" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="22" et="620.5710" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="23" et="792.5290" fuel="0.102" twfl="0.980" twfr="0.980" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="7" et="923.6732" s1="44.6855" s2="30.9493" s3="41.2415" fuel="0.075" twfl="0.953" twfr="0.949" twrl="0.965" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">116.8764</Lap>
+<Lap num="10" p="11" et="1040.5496" s1="44.2605" s2="32.0679" s3="42.5336" fuel="0.051" twfl="0.929" twfr="0.914" twrl="0.945" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.8619</Lap>
+<Lap num="11" p="13" et="1159.4115" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>116.8764</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Mario Saliba</Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>17</Position>
+<ClassPosition>15</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>17</LapRankIncludingDiscos>
+<Lap num="1" p="23" et="--.---" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="23" et="70.5893" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="23" et="255.6487" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="24" et="255.6487" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="24" et="371.5778" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="28" et="422.6131" fuel="0.141" twfl="0.918" twfr="0.918" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="28" et="596.4644" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="8" p="28" et="613.9786" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="9" p="29" et="685.5367" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="10" p="30" et="792.4872" fuel="0.141" twfl="0.961" twfr="0.961" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="11" p="27" et="948.7979" s1="45.0273" s2="39.7611" s3="43.0742" fuel="0.118" twfl="0.922" twfr="0.839" twrl="0.957" twrr="0.961" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">127.8627</Lap>
+<Lap num="12" p="19" et="1076.6605" s1="46.3315" s2="31.0983" s3="41.4637" fuel="0.090" twfl="0.875" twfr="0.733" twrl="0.937" twrr="0.941" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">118.8936</Lap>
+<Lap num="13" p="16" et="1195.5541" s1="44.1835" s2="31.3572" s3="41.6803" fuel="0.067" twfl="0.843" twfr="0.694" twrl="0.922" twrr="0.925" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">117.2209</Lap>
+<Lap num="14" p="16" et="1312.7750" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>117.2209</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="3" endLap="3">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="14">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Andrew Hollom </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>18</Position>
+<ClassPosition>16</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>18</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="--.---" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="10" et="100.9922" fuel="0.192" twfl="0.980" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="7" et="265.6949" s1="46.1549" s2="31.2661" s3="43.4196" fuel="0.169" twfl="0.969" twfr="0.973" twrl="0.965" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.8406</Lap>
+<Lap num="4" p="3" et="386.5354" s1="45.2559" s2="30.9435" s3="42.2498" fuel="0.141" twfl="0.953" twfr="0.957" twrl="0.941" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.4492</Lap>
+<Lap num="5" p="2" et="504.9846" s1="44.5789" s2="31.5775" s3="41.5058" fuel="0.118" twfl="0.941" twfr="0.945" twrl="0.922" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.6623</Lap>
+<Lap num="6" p="4" et="622.6469" s1="44.9168" s2="30.9310" s3="44.0583" fuel="0.094" twfl="0.922" twfr="0.933" twrl="0.894" twrr="0.906" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.9061</Lap>
+<Lap num="7" p="6" et="742.5530" s1="44.7700" s2="31.3599" s3="41.4848" fuel="0.067" twfl="0.906" twfr="0.875" twrl="0.871" twrr="0.878" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.6147</Lap>
+<Lap num="8" p="8" et="860.1677" s1="44.2758" s2="31.2411" s3="41.9980" fuel="0.043" twfl="0.894" twfr="0.863" twrl="0.847" twrr="0.859" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">117.5148</Lap>
+<Lap num="9" p="8" et="977.6826" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="13" et="1000.6021" fuel="0.192" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="16" et="1157.0748" s1="43.0450" s2="30.3715" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="12" p="16" et="1272.8064" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>117.5148</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Richard Brooks </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>19</Position>
+<ClassPosition>17</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>19</LapRankIncludingDiscos>
+<Lap num="1" p="16" et="--.---" fuel="0.086" twfl="0.976" twfr="0.976" twrl="0.988" twrr="0.992" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="3" et="200.8799" s1="47.5985" s2="31.9116" s3="44.5512" fuel="0.063" twfl="0.937" twfr="0.945" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.0613</Lap>
+<Lap num="3" p="6" et="324.9412" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="13" et="348.4605" fuel="0.082" twfl="0.965" twfr="0.965" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="14" et="499.2103" s1="45.8996" s2="32.0455" s3="43.4599" fuel="0.059" twfl="0.933" twfr="0.925" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.4050</Lap>
+<Lap num="6" p="18" et="620.6154" s1="47.5664" s2="31.6284" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="18" et="705.9148" fuel="0.082" twfl="0.969" twfr="0.965" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="21" et="866.2083" s1="45.1492" s2="32.1705" s3="46.9023" fuel="0.059" twfl="0.925" twfr="0.918" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.2219</Lap>
+<Lap num="9" p="17" et="990.4302" s1="44.5554" s2="30.5079" s3="43.1901" fuel="0.035" twfl="0.875" twfr="0.875" twrl="0.961" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.2534</Lap>
+<Lap num="10" p="17" et="1108.6836" s1="45.0659" fuel="0.110" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>118.2534</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Alexander Wilson </Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>20</Position>
+<ClassPosition>18</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>20</LapRankIncludingDiscos>
+<Lap num="1" p="17" et="--.---" fuel="0.133" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="17" et="122.9240" fuel="0.133" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="17" et="154.7960" fuel="0.110" twfl="0.973" twfr="0.976" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="9" et="302.7170" s1="45.8870" s2="33.0095" s3="44.6820" fuel="0.086" twfl="0.929" twfr="0.929" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">123.5785</Lap>
+<Lap num="5" p="13" et="426.2954" s1="46.7113" s2="33.5455" s3="44.4527" fuel="0.059" twfl="0.745" twfr="0.741" twrl="0.953" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.7095</Lap>
+<Lap num="6" p="15" et="551.0049" s1="47.3328" fuel="0.133" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="21" et="615.0214" fuel="0.110" twfl="0.812" twfr="0.961" twrl="0.984" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="16" et="788.2437" s1="45.9082" s2="31.2289" s3="42.4171" fuel="0.082" twfl="0.761" twfr="0.855" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.5542</Lap>
+<Lap num="9" p="14" et="907.7979" s1="45.5265" s2="30.7040" s3="42.4360" fuel="0.055" twfl="0.635" twfr="0.784" twrl="0.937" twrr="0.929" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">118.6666</Lap>
+<Lap num="10" p="16" et="1026.4645" fuel="0.133" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="11" p="19" et="1069.9297" fuel="0.718" twfl="0.961" twfr="0.918" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="12" p="20" et="1227.1693" s1="45.2378" s2="31.0056" fuel="0.741" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+<BestLapTime>118.6666</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Dino Faldetta</Name>
+<Connected>1</Connected>
+<VehFile>04_SENNA_G5D09FBBE.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #04</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>21</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>21</LapRankIncludingDiscos>
+<Lap num="1" p="25" et="--.---" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="26" et="238.6353" fuel="0.102" twfl="0.961" twfr="0.941" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="26" et="399.0161" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="30" et="421.8099" fuel="0.102" twfl="0.953" twfr="0.973" twrl="0.984" twrr="0.984" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="30" et="577.0226" s1="45.9785" s2="32.1646" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="31" et="667.3320" fuel="0.098" twfl="0.953" twfr="0.973" twrl="0.973" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="16" et="819.7764" s1="46.1443" s2="31.1641" s3="41.9820" fuel="0.075" twfl="0.918" twfr="0.937" twrl="0.961" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.2905</Lap>
+<Lap num="8" p="16" et="939.0669" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>119.2905</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Luke Hollom</Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>22</Position>
+<ClassPosition>19</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>22</LapRankIncludingDiscos>
+<Lap num="1" p="13" et="--.---" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="13" et="90.1428" fuel="0.125" twfl="0.973" twfr="0.969" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="5" et="251.7800" s1="45.7315" s2="31.5762" s3="43.1090" fuel="0.102" twfl="0.949" twfr="0.937" twrl="0.969" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.4167</Lap>
+<Lap num="4" p="7" et="372.1967" s1="46.5775" s2="31.9041" s3="43.3857" fuel="0.075" twfl="0.937" twfr="0.910" twrl="0.957" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.8673</Lap>
+<Lap num="5" p="12" et="494.0640" s1="45.0945" s2="36.9205" s3="42.8462" fuel="0.051" twfl="0.906" twfr="0.871" twrl="0.937" twrr="0.945" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.8612</Lap>
+<Lap num="6" p="16" et="618.9252" s1="45.2080" s2="31.8872" s3="42.6183" fuel="0.027" twfl="0.890" twfr="0.835" twrl="0.925" twrr="0.933" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">119.7136</Lap>
+<Lap num="7" p="16" et="738.6388" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="16" et="745.1893" fuel="0.125" twfl="0.984" twfr="0.953" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="18" et="896.8281" s1="45.6644" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="10" p="18" et="959.5424" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="11" p="21" et="996.4279" fuel="0.125" twfl="0.953" twfr="0.941" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="12" p="22" et="1127.5973" s1="45.8147" s2="32.5430" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>119.7136</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Albert van der Werff</Name>
+<Connected>1</Connected>
+<VehFile>10_SENNA_G2D593CCB.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #10</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>23</Position>
+<ClassPosition>20</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>23</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="--.---" fuel="0.153" twfl="0.976" twfr="0.949" twrl="0.992" twrr="0.992" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="14" et="357.0102" s1="48.0589" s2="32.5075" s3="44.1357" fuel="0.129" twfl="0.949" twfr="0.922" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.7022</Lap>
+<Lap num="3" p="14" et="481.7124" s1="46.3410" s2="32.1160" s3="43.2888" fuel="0.106" twfl="0.925" twfr="0.890" twrl="0.973" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.7458</Lap>
+<Lap num="4" p="20" et="603.4581" s1="45.5085" s2="31.6841" s3="45.2435" fuel="0.082" twfl="0.898" twfr="0.863" twrl="0.961" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">122.4362</Lap>
+<Lap num="5" p="19" et="725.8943" s1="45.5967" s2="31.6584" s3="44.2501" fuel="0.059" twfl="0.871" twfr="0.835" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.5052</Lap>
+<Lap num="6" p="19" et="847.3995" s1="45.3276" s2="31.6945" s3="43.0103" fuel="0.035" twfl="0.835" twfr="0.741" twrl="0.937" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.0324</Lap>
+<Lap num="7" p="21" et="967.4319" s1="45.5192" s2="32.1724" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>120.0324</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Stefano De Nadal </Name>
+<Connected>1</Connected>
+<VehFile>10_SENNA_G2D593CCB.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #10</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>24</Position>
+<ClassPosition>21</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>24</LapRankIncludingDiscos>
+<Lap num="1" p="30" et="--.---" fuel="0.192" twfl="0.992" twfr="0.988" twrl="0.992" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="7" et="217.0927" s1="47.5276" s2="32.6986" s3="44.2249" fuel="0.169" twfl="0.961" twfr="0.965" twrl="0.980" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.4510</Lap>
+<Lap num="3" p="12" et="341.5438" s1="47.4162" s2="33.4250" s3="42.8726" fuel="0.145" twfl="0.925" twfr="0.929" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">123.7138</Lap>
+<Lap num="4" p="13" et="465.2576" s1="46.4222" s2="32.2921" s3="42.5367" fuel="0.118" twfl="0.902" twfr="0.894" twrl="0.953" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.2510</Lap>
+<Lap num="5" p="17" et="586.5086" s1="45.8511" s2="32.1934" s3="42.7099" fuel="0.094" twfl="0.863" twfr="0.839" twrl="0.937" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">120.7544</Lap>
+<Lap num="6" p="17" et="707.2630" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="17" et="749.2144" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="20" et="828.8200" fuel="0.196" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="23" et="996.3185" s1="45.6053" s2="32.0541" s3="48.3663" fuel="0.169" twfl="0.961" twfr="0.906" twrl="0.969" twrr="0.969" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">126.0258</Lap>
+<Lap num="10" p="24" et="1122.3442" s1="46.0229" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>120.7544</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Maikel Rozemeijer</Name>
+<Connected>1</Connected>
+<VehFile>09_SENNA_GD0919F49.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #09</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>25</Position>
+<ClassPosition>22</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>25</LapRankIncludingDiscos>
+<Lap num="1" p="18" et="--.---" fuel="0.192" twfl="0.933" twfr="0.945" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="18" et="304.9649" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="28" et="321.3813" fuel="0.192" twfl="0.973" twfr="0.969" twrl="0.957" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="23" et="857.4236" s1="45.7769" s2="31.7722" s3="46.1708" fuel="0.169" twfl="0.957" twfr="0.918" twrl="0.941" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">123.7199</Lap>
+<Lap num="5" p="23" et="981.1436" s1="46.0088" s2="31.6360" s3="43.5289" fuel="0.145" twfl="0.941" twfr="0.886" twrl="0.929" twrr="0.937" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">121.1737</Lap>
+<Lap num="6" p="23" et="1102.3173" fuel="0.216" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>121.1737</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Xavier Eugeni </Name>
+<Connected>1</Connected>
+<VehFile>04_SENNA_G5D09FBBE.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #04</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>04</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>26</Position>
+<ClassPosition>23</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>26</LapRankIncludingDiscos>
+<Lap num="1" p="31" et="--.---" fuel="0.110" twfl="0.976" twfr="0.949" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="13" et="310.7175" s1="47.9402" s2="32.8472" s3="44.1634" fuel="0.086" twfl="0.965" twfr="0.922" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">124.9509</Lap>
+<Lap num="3" p="17" et="435.6684" s1="47.1744" s2="34.3468" s3="43.6382" fuel="0.063" twfl="0.945" twfr="0.898" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">125.1594</Lap>
+<Lap num="4" p="18" et="560.8278" s1="46.6199" s2="32.0268" s3="42.9585" fuel="0.039" twfl="0.933" twfr="0.882" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.6052</Lap>
+<Lap num="5" p="19" et="682.4330" fuel="0.133" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>121.6052</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Lorenzo Finetto </Name>
+<Connected>1</Connected>
+<VehFile>05_SENNA_GF177F08F.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #05</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>05</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>27</Position>
+<ClassPosition>24</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>27</LapRankIncludingDiscos>
+<Lap num="1" p="21" et="--.---" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="2" p="21" et="204.4253" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="3" p="26" et="331.5739" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="27" et="457.3135" fuel="0.153" twfl="0.973" twfr="0.894" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="23" et="610.6487" s1="47.3680" s2="34.0026" s3="45.8602" fuel="0.129" twfl="0.902" twfr="0.835" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">127.2308</Lap>
+<Lap num="6" p="22" et="737.8796" s1="47.3072" s2="33.7220" s3="44.1552" fuel="0.106" twfl="0.753" twfr="0.671" twrl="0.969" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">125.1844</Lap>
+<Lap num="7" p="23" et="863.0640" s1="46.9538" s2="32.3544" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="24" et="954.1412" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="26" et="995.6700" fuel="0.153" twfl="0.965" twfr="0.957" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="27" et="1140.0370" s1="46.1136" s2="31.9794" s3="43.7893" fuel="0.129" twfl="0.949" twfr="0.922" twrl="0.976" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">121.8823</Lap>
+<Lap num="11" p="27" et="1261.9193" fuel="0.176" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>121.8823</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Antonello Mastro </Name>
+<Connected>1</Connected>
+<VehFile>06_SENNA_G2EBAFBE6.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #06</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>06</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>28</Position>
+<ClassPosition>25</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>28</LapRankIncludingDiscos>
+<Lap num="1" p="27" et="--.---" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="27" et="114.8637" fuel="0.129" twfl="0.961" twfr="0.961" twrl="0.980" twrr="0.984" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="13" et="296.1678" s1="49.4118" s2="33.9698" s3="47.8187" fuel="0.110" twfl="0.941" twfr="0.929" twrl="0.969" twrr="0.973" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">131.2003</Lap>
+<Lap num="4" p="13" et="427.3681" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="19" et="431.6111" fuel="0.149" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="25" et="537.2550" fuel="0.208" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="28" et="768.9041" fuel="0.188" twfl="0.941" twfr="0.847" twrl="0.980" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+<Lap num="8" p="30" et="1024.5986" fuel="0.165" twfl="0.902" twfr="0.800" twrl="0.965" twrr="0.965" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="28" et="1166.2262" s1="46.7328" s2="31.9977" s3="44.7341" fuel="0.141" twfl="0.827" twfr="0.757" twrl="0.949" twrr="0.949" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">123.4646</Lap>
+<Lap num="10" p="28" et="1289.6908" fuel="0.208" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>123.4646</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Valerio Margarito </Name>
+<Connected>1</Connected>
+<VehFile>07_SENNA_G6381302A.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #07</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>29</Position>
+<ClassPosition>26</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>29</LapRankIncludingDiscos>
+<Lap num="1" p="29" et="--.---" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="29" et="87.3099" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="29" et="146.1147" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="4" p="30" et="241.7219" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="30" et="395.9414" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="31" et="395.9414" fuel="0.145" twfl="0.984" twfr="0.980" twrl="0.988" twrr="0.988" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="25" et="569.6806" s1="50.7709" s2="33.7148" s3="47.4377" fuel="0.122" twfl="0.965" twfr="0.922" twrl="0.976" twrr="0.976" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">131.9235</Lap>
+<Lap num="8" p="26" et="701.6041" s1="49.1088" s2="32.7221" s3="51.9112" fuel="0.102" twfl="0.949" twfr="0.898" twrl="0.957" twrr="0.961" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">133.7421</Lap>
+<Lap num="9" p="25" et="835.3461" s1="48.6666" s2="36.7115" s3="44.6844" fuel="0.078" twfl="0.925" twfr="0.824" twrl="0.937" twrr="0.937" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">130.0626</Lap>
+<Lap num="10" p="28" et="965.4087" s1="48.7410" s2="34.0026" s3="45.1237" fuel="0.055" twfl="0.898" twfr="0.812" twrl="0.925" twrr="0.925" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">127.8672</Lap>
+<Lap num="11" p="28" et="1093.2759" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>127.8672</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="6" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Firman Nurmahadi</Name>
+<Connected>0</Connected>
+<VehFile>01_SENNA_GF8D73065.VEH</VehFile>
+<UpgradeCode>01000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #01</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Hypercar</CarClass>
+<CarNumber>01</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>30</LapRankIncludingDiscos>
+<Lap num="1" p="22" et="--.---" fuel="0.180" twfl="0.961" twfr="0.980" twrl="0.988" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="12" et="262.6425" s1="50.9114" s2="35.4842" s3="47.2172" fuel="0.157" twfl="0.933" twfr="0.957" twrl="0.976" twrr="0.976" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">133.6128</Lap>
+<Lap num="3" p="18" et="396.2553" s1="49.7781" s2="33.0984" s3="47.4859" fuel="0.133" twfl="0.894" twfr="0.882" twrl="0.957" twrr="0.957" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">130.3623</Lap>
+<Lap num="4" p="20" et="526.6176" s1="48.8475" s2="35.4933" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="5" p="27" et="656.8021" fuel="0.918" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<BestLapTime>130.3623</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="5"></Swap></Driver>
+<Driver>
+<Name>Giovanni Zanetti</Name>
+<Connected>1</Connected>
+<VehFile>14_SENNA_G1F71632B.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>McLaren Senna GTR #14</VehName>
+<Category>McLaren, McLaren Senna GTR</Category>
+<CarType>McLaren Senna GTR</CarType>
+<CarClass>Senna GTR</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>McLaren</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>30</Position>
+<ClassPosition>27</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>31</LapRankIncludingDiscos>
+<Lap num="1" p="24" et="--.---" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="2" p="24" et="96.4284" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+<Lap num="3" p="25" et="207.7591" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="4" p="25" et="417.9776" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="5" p="29" et="417.9776" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="6" p="30" et="578.3154" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="7" p="30" et="749.1753" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="8" p="31" et="899.9868" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="9" p="31" et="964.4860" fuel="0.141" twfl="0.988" twfr="0.976" twrl="0.984" twrr="0.980" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<Lap num="10" p="30" et="1136.3958" s1="50.7723" s2="34.8485" s3="58.8292" fuel="0.118" twfl="0.969" twfr="0.961" twrl="0.945" twrr="0.953" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">144.4501</Lap>
+<Lap num="11" p="30" et="1280.8458" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="3,P2M (Rain)" rcompound="3,P2M (Rain)">--.----</Lap>
+<BestLapTime>144.4501</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>
